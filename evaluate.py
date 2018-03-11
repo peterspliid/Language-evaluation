@@ -1,6 +1,7 @@
 import numpy as np
 import pickle
 import csv
+from sklearn import neighbors
 
 embeddings = np.load('lvec_p1.npy')
 
@@ -22,17 +23,20 @@ with open('features/30A.csv', 'rb') as file:
     reader = csv.DictReader(file)
     f30a = {rows['id'][-3:]: genders[rows['domainelement_pk']] for rows in reader}
 
-for i, lang in enumerate(embeddings):
+X = []
+y = []
+for i, embedding in enumerate(embeddings):
     langIso = langNames[i][:3]
     if langIso in languages:
-        print languages[langIso]
+        langId = languages[langIso]['id']
+        if langId in f30a:
+            X.append(embedding)
+            y.append(f30a[langId])
+            #print (f30a[langId], embedding)
 
-'''
+knn = neighbors.KNeighborsRegressor(5, weights='uniform')
+y_ = knn.fit(X, y).score(X, y)
+print y_
 
-for langId in f30a:
-    print langId
-    iso = languages[langId]
-    print iso
-'''
 #print(str(len(data))+'\n')
 #print(str(len(embeddings))+'\n')
