@@ -1,14 +1,15 @@
+from __future__ import division
+from sklearn import neighbors
 import numpy as np
 import pickle
 import csv
-from sklearn import neighbors
 
 embeddings = np.load('lvec_p1.npy')
 
 with open('lvec_ids.pkl', 'rb') as file:
     langNames = pickle.load(file)
 
-with open('languages.csv', 'rb') as file:
+with open('languages.csv', 'rt') as file:
     reader = csv.DictReader(file)
     languages = {rows['iso_codes']: {'id': rows['id'],
                               'macroarea': rows['macroarea']}
@@ -19,7 +20,7 @@ genders = {'145': 0,
            '147': 3,
            '148': 4,
            '149': 5}
-with open('features/30A.csv', 'rb') as file:
+with open('features/30A.csv', 'rt') as file:
     reader = csv.DictReader(file)
     f30a = {rows['id'][-3:]: genders[rows['domainelement_pk']] for rows in reader}
 
@@ -33,10 +34,11 @@ for i, embedding in enumerate(embeddings):
             X.append(embedding)
             y.append(f30a[langId])
             #print (f30a[langId], embedding)
-
-knn = neighbors.KNeighborsRegressor(5, weights='uniform')
-y_ = knn.fit(X, y).score(X, y)
-print y_
+percentTraining = 80
+elems = int(percentTraining/100*len(X))
+knn = neighbors.KNeighborsClassifier(10, weights='uniform')
+y_ = knn.fit(X[:elems], y[:elems]).score(X[elems:], y[elems:])
+print(y_)
 
 #print(str(len(data))+'\n')
 #print(str(len(embeddings))+'\n')
