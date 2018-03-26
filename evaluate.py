@@ -1,4 +1,3 @@
-from __future__ import division
 from sklearn import neighbors
 import numpy as np
 import pickle
@@ -9,36 +8,53 @@ embeddings = np.load('lvec_p1.npy')
 with open('lvec_ids.pkl', 'rb') as file:
     langNames = pickle.load(file)
 
-with open('languages.csv', 'rt') as file:
-    reader = csv.DictReader(file)
-    languages = {rows['iso_codes']: {'id': rows['id'],
-                              'macroarea': rows['macroarea']}
-                             for rows in reader}
+# Used to fast determine which languages to use
+langDict = dict((l.split('-')[0], l.split('-')[1][:4]) for l in langNames)
 
-genders = {'145': 0,
-           '146': 2,
-           '147': 3,
-           '148': 4,
-           '149': 5}
-with open('features/30A.csv', 'rt') as file:
-    reader = csv.DictReader(file)
-    f30a = {rows['id'][-3:]: genders[rows['domainelement_pk']] for rows in reader}
+# Used to fast lookup a language embedding
+embDict = dict((k[:3], v) for (k, v) in zip(langNames, embeddings))
 
-X = []
-y = []
-for i, embedding in enumerate(embeddings):
-    langIso = langNames[i][:3]
-    if langIso in languages:
-        langId = languages[langIso]['id']
-        if langId in f30a:
-            X.append(embedding)
-            y.append(f30a[langId])
-            #print (f30a[langId], embedding)
-percentTraining = 80
-elems = int(percentTraining/100*len(X))
-knn = neighbors.KNeighborsClassifier(10, weights='uniform')
-y_ = knn.fit(X[:elems], y[:elems]).score(X[elems:], y[elems:])
-print(y_)
+with open('language.csv', 'rt', encoding='utf8') as file:
+    reader = csv.reader(file)
+    allLanguages = list(reader)
 
-#print(str(len(data))+'\n')
-#print(str(len(embeddings))+'\n')
+# First row is the header row
+headers = allLanguages.pop(0)
+
+# We only want languages we have embeddings for, and those generated with latn
+languages = [lang for lang in allLanguages if
+             lang[1] in langDict and langDict[lang[1]] == 'latn']
+
+# List of the language families
+families = sorted(list(set([lang[8] for lang in languages])))
+
+# Feature index. The index of the first feature in the language list
+fi = 10
+# Minimum languages. The minimum number of languages a feature must have to
+# be included
+ml = 100
+report = open('report.txt', 'w')
+for i, feature in enumerate(headers[fi:]):
+    # Languages with the selected feature
+    langs = [lang for lang in languages if lang[i+fi]]
+    if len(langs) < ml:
+        continue
+
+    report.write("--{}--\n".format(feature))
+    for family in families:
+        featureTraining = [int(lang[i+fi].split(' ')[0]) for lang in langs if lang[8] != family]
+        embTraining = [embDict[lang[1]] for lang in langs if lang[8] != family]
+        featureTest = [int(lang[i+fi].split(' ')[0]) for lang in langs if lang[8] == family]
+        embTest = [embDict[lang[1]] for lang in langs if lang[8] == family]
+
+        report.write("-{}-\n".format(family))
+        if (featureTest):
+            report.write("Number in training: {}\n".format(len(featureTraining)))
+            report.write("Number in test: {}\n".format(len(featureTest)))
+            knn = neighbors.KNeighborsClassifier(10, weights='uniform')
+            score = knn.fit(embTraining, featureTraining).score(embTest, featureTest)
+            report.write("Score: {:1.4f}\n\n" .format(score))
+        else:
+            report.write("No test data\n\n")
+    report.write("\n")
+report.close()
