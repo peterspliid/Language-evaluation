@@ -2,7 +2,7 @@
 -Africa-
 Number in training: 132
 Number in test: 30
-Score: 0.3333
+Score: 0.2333
 Base: 0.4667
 
 -Australia-
@@ -14,13 +14,13 @@ Base: 0.5000
 -Eurasia-
 Number in training: 137
 Number in test: 25
-Score: 0.1200
+Score: 0.2800
 Base: 0.6800
 
 -North America-
 Number in training: 138
 Number in test: 24
-Score: 0.4583
+Score: 0.3333
 Base: 0.4583
 
 -Papunesia-
@@ -32,75 +32,71 @@ Base: 0.4737
 -South America-
 Number in training: 119
 Number in test: 43
-Score: 0.2558
+Score: 0.2093
 Base: 0.4186
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3174
+Score: 0.2988
 Base: 0.4995
 
 --2A Vowel Quality Inventories--
 -Africa-
 Number in training: 133
 Number in test: 30
-Score: 0.2667
+Score: 0.3000
 Base: 0.7000
 
 -Australia-
 Number in training: 161
 Number in test: 2
-Score: 0.5000
+Score: 0.0000
 Base: 0.5000
 
 -Eurasia-
 Number in training: 138
 Number in test: 25
-Score: 0.3600
+Score: 0.3200
 Base: 0.6000
 
 -North America-
 Number in training: 139
 Number in test: 24
-Score: 0.6667
+Score: 0.7500
 Base: 0.7083
 
 -Papunesia-
 Number in training: 125
 Number in test: 38
-Score: 0.6053
+Score: 0.4211
 Base: 0.7105
 
 -South America-
 Number in training: 119
 Number in test: 44
-Score: 0.5455
+Score: 0.3409
 Base: 0.5909
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4907
+Score: 0.3553
 Base: 0.6350
 
 --3A Consonant-Vowel Ratio--
 -Africa-
 Number in training: 133
 Number in test: 30
-Score: 0.3000
+Score: 0.3333
 Base: 0.3667
 
 -Australia-
 Number in training: 161
 Number in test: 2
-Score: 1.0000
+Score: 0.0000
 Base: 1.0000
 
 -Eurasia-
 Number in training: 138
 Number in test: 25
-Score: 0.4000
+Score: 0.3600
 Base: 0.3600
 
 -North America-
@@ -112,50 +108,48 @@ Base: 0.7500
 -Papunesia-
 Number in training: 125
 Number in test: 38
-Score: 0.2368
+Score: 0.1316
 Base: 0.3947
 
 -South America-
 Number in training: 119
 Number in test: 44
-Score: 0.3409
+Score: 0.3636
 Base: 0.3636
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4838
+Score: 0.3023
 Base: 0.5392
 
 --4A Voicing in Plosives and Fricatives--
 -Africa-
 Number in training: 133
 Number in test: 30
-Score: 0.2667
+Score: 0.1667
 Base: 0.4667
 
 -Australia-
 Number in training: 161
 Number in test: 2
-Score: 0.0000
+Score: 0.5000
 Base: 1.0000
 
 -Eurasia-
 Number in training: 138
 Number in test: 25
-Score: 0.1200
+Score: 0.3600
 Base: 0.7600
 
 -North America-
 Number in training: 139
 Number in test: 24
-Score: 0.2083
+Score: 0.0833
 Base: 0.4167
 
 -Papunesia-
 Number in training: 125
 Number in test: 38
-Score: 0.2368
+Score: 0.2895
 Base: 0.5263
 
 -South America-
@@ -165,16 +159,14 @@ Score: 0.2955
 Base: 0.4773
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.1879
+Score: 0.2825
 Base: 0.6078
 
 --5A Voicing and Gaps in Plosive Systems--
 -Africa-
 Number in training: 133
 Number in test: 30
-Score: 0.4000
+Score: 0.5000
 Base: 0.7333
 
 -Australia-
@@ -186,130 +178,124 @@ Base: 1.0000
 -Eurasia-
 Number in training: 138
 Number in test: 25
-Score: 0.3200
+Score: 0.5600
 Base: 0.8800
 
 -North America-
 Number in training: 139
 Number in test: 24
-Score: 0.5417
+Score: 0.4583
 Base: 0.6667
 
 -Papunesia-
 Number in training: 125
 Number in test: 38
-Score: 0.5000
+Score: 0.5263
 Base: 0.5789
 
 -South America-
 Number in training: 119
 Number in test: 44
-Score: 0.5455
+Score: 0.5000
 Base: 0.5909
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5512
+Score: 0.5908
 Base: 0.7416
 
 --6A Uvular Consonants--
 -Africa-
 Number in training: 133
 Number in test: 30
-Score: 0.9000
+Score: 0.7667
 Base: 0.9000
 
 -Australia-
 Number in training: 161
 Number in test: 2
-Score: 1.0000
+Score: 0.0000
 Base: 1.0000
 
 -Eurasia-
 Number in training: 138
 Number in test: 25
-Score: 0.8800
+Score: 0.8000
 Base: 0.8800
 
 -North America-
 Number in training: 139
 Number in test: 24
-Score: 0.9167
+Score: 0.7500
 Base: 0.9167
 
 -Papunesia-
 Number in training: 125
 Number in test: 38
-Score: 0.9737
+Score: 0.6053
 Base: 0.9737
 
 -South America-
 Number in training: 119
 Number in test: 44
-Score: 0.9545
+Score: 0.7500
 Base: 0.9545
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.9375
+Score: 0.6120
 Base: 0.9375
 
 --7A Glottalized Consonants--
 -Africa-
 Number in training: 133
 Number in test: 30
-Score: 0.6667
+Score: 0.6000
 Base: 0.6667
 
 -Australia-
 Number in training: 161
 Number in test: 2
-Score: 1.0000
+Score: 0.5000
 Base: 1.0000
 
 -Eurasia-
 Number in training: 138
 Number in test: 25
-Score: 0.9600
+Score: 0.8800
 Base: 0.9600
 
 -North America-
 Number in training: 139
 Number in test: 24
-Score: 0.7083
+Score: 0.4167
 Base: 0.7083
 
 -Papunesia-
 Number in training: 125
 Number in test: 38
-Score: 0.9737
+Score: 0.7105
 Base: 1.0000
 
 -South America-
 Number in training: 119
 Number in test: 44
-Score: 0.8636
+Score: 0.8182
 Base: 0.8636
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.8621
+Score: 0.6542
 Base: 0.8664
 
 --8A Lateral Consonants--
 -Africa-
 Number in training: 133
 Number in test: 30
-Score: 0.8667
+Score: 0.5667
 Base: 0.9000
 
 -Australia-
 Number in training: 161
 Number in test: 2
-Score: 1.0000
+Score: 0.5000
 Base: 1.0000
 
 -Eurasia-
@@ -321,32 +307,30 @@ Base: 0.9200
 -North America-
 Number in training: 139
 Number in test: 24
-Score: 0.7500
+Score: 0.7917
 Base: 0.7917
 
 -Papunesia-
 Number in training: 125
 Number in test: 38
-Score: 0.5789
+Score: 0.4211
 Base: 0.5263
 
 -South America-
 Number in training: 119
 Number in test: 44
-Score: 0.2955
+Score: 0.2273
 Base: 0.5682
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.7218
+Score: 0.5578
 Base: 0.7844
 
 --9A The Velar Nasal--
 -Africa-
 Number in training: 101
 Number in test: 15
-Score: 0.4000
+Score: 0.4667
 Base: 0.6667
 
 -Australia-
@@ -361,25 +345,23 @@ Base: 0.5263
 -North America-
 Number in training: 101
 Number in test: 15
-Score: 0.8667
+Score: 0.6000
 Base: 0.8667
 
 -Papunesia-
 Number in training: 83
 Number in test: 33
-Score: 0.3333
+Score: 0.3636
 Base: 0.5152
 
 -South America-
 Number in training: 82
 Number in test: 34
-Score: 0.6765
+Score: 0.5588
 Base: 0.8235
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5500
+Score: 0.4926
 Base: 0.6797
 
 --10A Vowel Nasalization--
@@ -413,26 +395,24 @@ Base: 0.9565
 -Papunesia-
 Number in training: 124
 Number in test: 38
-Score: 1.0000
+Score: 0.8947
 Base: 1.0000
 
 -South America-
 Number in training: 118
 Number in test: 44
-Score: 1.0000
+Score: 0.9545
 Base: 1.0000
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.9328
+Score: 0.9076
 Base: 0.9328
 
 --12A Syllable Structure--
 -Africa-
 Number in training: 107
 Number in test: 28
-Score: 0.6071
+Score: 0.4643
 Base: 0.6071
 
 -Australia-
@@ -444,38 +424,36 @@ Base: 0.5000
 -Eurasia-
 Number in training: 113
 Number in test: 22
-Score: 0.4545
+Score: 0.3636
 Base: 0.5455
 
 -North America-
 Number in training: 118
 Number in test: 17
-Score: 0.5882
+Score: 0.5294
 Base: 0.5882
 
 -Papunesia-
 Number in training: 103
 Number in test: 32
-Score: 0.5938
+Score: 0.4688
 Base: 0.5938
 
 -South America-
 Number in training: 101
 Number in test: 34
-Score: 0.5000
+Score: 0.5882
 Base: 0.5882
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5406
+Score: 0.4857
 Base: 0.5705
 
 --13A Tone--
 -Africa-
 Number in training: 115
 Number in test: 29
-Score: 0.1379
+Score: 0.1724
 Base: 0.4828
 
 -Australia-
@@ -487,31 +465,29 @@ Base: 1.0000
 -Eurasia-
 Number in training: 120
 Number in test: 24
-Score: 0.7917
+Score: 0.7083
 Base: 0.7917
 
 -North America-
 Number in training: 122
 Number in test: 22
-Score: 0.4091
+Score: 0.3636
 Base: 0.4091
 
 -Papunesia-
 Number in training: 112
 Number in test: 32
-Score: 0.8125
+Score: 0.6875
 Base: 0.8438
 
 -South America-
 Number in training: 109
 Number in test: 35
-Score: 0.8286
+Score: 0.7429
 Base: 0.8000
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6633
+Score: 0.6125
 Base: 0.7212
 
 --14A Fixed Stress Locations--
@@ -524,13 +500,13 @@ Base: 0.4444
 -Australia-
 Number in training: 160
 Number in test: 5
-Score: 0.0000
+Score: 0.2000
 Base: 0.6000
 
 -Eurasia-
 Number in training: 118
 Number in test: 47
-Score: 0.1702
+Score: 0.2128
 Base: 0.5319
 
 -North America-
@@ -542,65 +518,20 @@ Base: 0.3000
 -Papunesia-
 Number in training: 96
 Number in test: 69
-Score: 0.4348
+Score: 0.2609
 Base: 0.5362
 
 -South America-
 Number in training: 140
 Number in test: 25
-Score: 0.4000
+Score: 0.2000
 Base: 0.3600
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2749
+Score: 0.2530
 Base: 0.4621
 
 --15A Weight-Sensitive Stress--
--Africa-
-Number in training: 156
-Number in test: 9
-Score: 0.7778
-Base: 0.7778
-
--Australia-
-Number in training: 160
-Number in test: 5
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Number in training: 118
-Number in test: 47
-Score: 0.4681
-Base: 0.4681
-
--North America-
-Number in training: 155
-Number in test: 10
-Score: 0.7000
-Base: 0.7000
-
--Papunesia-
-Number in training: 96
-Number in test: 69
-Score: 0.5942
-Base: 0.6522
-
--South America-
-Number in training: 140
-Number in test: 25
-Score: 0.6000
-Base: 0.6400
-
--Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6900
-Base: 0.7063
-
---16A Weight Factors in Weight-Sensitive Stress Systems--
 -Africa-
 Number in training: 156
 Number in test: 9
@@ -610,37 +541,76 @@ Base: 0.7778
 -Australia-
 Number in training: 160
 Number in test: 5
-Score: 1.0000
+Score: 0.8000
 Base: 1.0000
 
 -Eurasia-
 Number in training: 118
 Number in test: 47
-Score: 0.3617
+Score: 0.3404
+Base: 0.4681
+
+-North America-
+Number in training: 155
+Number in test: 10
+Score: 0.3000
+Base: 0.7000
+
+-Papunesia-
+Number in training: 96
+Number in test: 69
+Score: 0.2899
+Base: 0.6522
+
+-South America-
+Number in training: 140
+Number in test: 25
+Score: 0.2800
+Base: 0.6400
+
+-Average-
+Score: 0.4462
+Base: 0.7063
+
+--16A Weight Factors in Weight-Sensitive Stress Systems--
+-Africa-
+Number in training: 156
+Number in test: 9
+Score: 0.3333
+Base: 0.7778
+
+-Australia-
+Number in training: 160
+Number in test: 5
+Score: 0.6000
+Base: 1.0000
+
+-Eurasia-
+Number in training: 118
+Number in test: 47
+Score: 0.2340
 Base: 0.3617
 
 -North America-
 Number in training: 155
 Number in test: 10
-Score: 0.6000
+Score: 0.1000
 Base: 0.6000
 
 -Papunesia-
 Number in training: 96
 Number in test: 69
-Score: 0.5217
+Score: 0.1739
 Base: 0.6087
 
 -South America-
 Number in training: 140
 Number in test: 25
-Score: 0.5600
+Score: 0.2800
 Base: 0.6400
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6184
+Score: 0.2869
 Base: 0.6647
 
 --17A Rhythm Types--
@@ -650,7 +620,7 @@ Not enough languages
 -Africa-
 Number in training: 133
 Number in test: 30
-Score: 0.9333
+Score: 0.9000
 Base: 0.9333
 
 -Australia-
@@ -662,7 +632,7 @@ Base: 1.0000
 -Eurasia-
 Number in training: 138
 Number in test: 25
-Score: 1.0000
+Score: 0.9600
 Base: 1.0000
 
 -North America-
@@ -674,7 +644,7 @@ Base: 1.0000
 -Papunesia-
 Number in training: 125
 Number in test: 38
-Score: 0.8421
+Score: 0.8158
 Base: 0.8421
 
 -South America-
@@ -684,52 +654,48 @@ Score: 0.8409
 Base: 0.8409
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.7694
+Score: 0.7528
 Base: 0.9361
 
 --19A Presence of Uncommon Consonants--
 -Africa-
 Number in training: 133
 Number in test: 30
-Score: 0.4667
+Score: 0.3333
 Base: 0.4667
 
 -Australia-
 Number in training: 161
 Number in test: 2
-Score: 1.0000
+Score: 0.5000
 Base: 1.0000
 
 -Eurasia-
 Number in training: 138
 Number in test: 25
-Score: 0.8800
+Score: 0.7600
 Base: 0.8800
 
 -North America-
 Number in training: 139
 Number in test: 24
-Score: 0.7500
+Score: 0.5000
 Base: 0.7500
 
 -Papunesia-
 Number in training: 125
 Number in test: 38
-Score: 0.8684
+Score: 0.6579
 Base: 0.8947
 
 -South America-
 Number in training: 119
 Number in test: 44
-Score: 0.8864
+Score: 0.7500
 Base: 0.9091
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.8086
+Score: 0.5835
 Base: 0.8167
 
 --20A Fusion of Selected Inflectional Formatives--
@@ -754,86 +720,82 @@ Not enough languages
 -Africa-
 Number in training: 219
 Number in test: 50
-Score: 0.2600
+Score: 0.1800
 Base: 0.2600
 
 -Australia-
 Number in training: 263
 Number in test: 6
-Score: 0.3333
+Score: 0.1667
 Base: 0.8333
 
 -Eurasia-
 Number in training: 224
 Number in test: 45
-Score: 0.5778
+Score: 0.3556
 Base: 0.6444
 
 -North America-
 Number in training: 232
 Number in test: 37
-Score: 0.1892
+Score: 0.2162
 Base: 0.4865
 
 -Papunesia-
 Number in training: 186
 Number in test: 83
-Score: 0.3614
+Score: 0.2771
 Base: 0.4337
 
 -South America-
 Number in training: 221
 Number in test: 48
-Score: 0.2292
+Score: 0.1875
 Base: 0.5833
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3252
+Score: 0.2305
 Base: 0.5402
 
 --27A Reduplication--
 -Africa-
 Number in training: 90
 Number in test: 21
-Score: 0.7619
+Score: 0.6667
 Base: 0.7619
 
 -Australia-
 Number in training: 106
 Number in test: 5
-Score: 0.6000
+Score: 0.4000
 Base: 0.6000
 
 -Eurasia-
 Number in training: 92
 Number in test: 19
-Score: 0.3158
+Score: 0.2632
 Base: 0.6316
 
 -North America-
 Number in training: 99
 Number in test: 12
-Score: 0.8333
+Score: 0.5000
 Base: 0.7500
 
 -Papunesia-
 Number in training: 73
 Number in test: 38
-Score: 0.8158
+Score: 0.4474
 Base: 0.9211
 
 -South America-
 Number in training: 95
 Number in test: 16
-Score: 0.5000
+Score: 0.5625
 Base: 0.5000
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6378
+Score: 0.4733
 Base: 0.6941
 
 --28A Case Syncretism--
@@ -855,7 +817,7 @@ Not enough languages
 -Africa-
 Number in training: 218
 Number in test: 69
-Score: 0.1739
+Score: 0.1594
 Base: 0.3478
 
 -Australia-
@@ -867,31 +829,29 @@ Base: 0.5000
 -Eurasia-
 Number in training: 243
 Number in test: 44
-Score: 0.5909
+Score: 0.3409
 Base: 0.7045
 
 -North America-
 Number in training: 250
 Number in test: 37
-Score: 0.2973
+Score: 0.4054
 Base: 0.3514
 
 -Papunesia-
 Number in training: 208
 Number in test: 79
-Score: 0.2911
+Score: 0.1899
 Base: 0.3291
 
 -South America-
 Number in training: 233
 Number in test: 54
-Score: 0.5370
+Score: 0.3333
 Base: 0.7407
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3567
+Score: 0.2798
 Base: 0.4956
 
 --34A Occurrence of Nominal Plurality--
@@ -907,7 +867,7 @@ Not enough languages
 -Africa-
 Number in training: 142
 Number in test: 46
-Score: 0.2609
+Score: 0.2826
 Base: 0.4348
 
 -Australia-
@@ -916,38 +876,36 @@ No test data
 -Eurasia-
 Number in training: 150
 Number in test: 38
-Score: 0.3684
+Score: 0.2368
 Base: 0.4211
 
 -North America-
 Number in training: 164
 Number in test: 24
-Score: 0.2083
+Score: 0.1250
 Base: 0.5417
 
 -Papunesia-
 Number in training: 136
 Number in test: 52
-Score: 0.2500
+Score: 0.2692
 Base: 0.3846
 
 -South America-
 Number in training: 160
 Number in test: 28
-Score: 0.2857
+Score: 0.2143
 Base: 0.5714
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2747
+Score: 0.2256
 Base: 0.4707
 
 --38A Indefinite Articles--
 -Africa-
 Number in training: 135
 Number in test: 37
-Score: 0.2162
+Score: 0.2973
 Base: 0.2973
 
 -Australia-
@@ -956,31 +914,29 @@ No test data
 -Eurasia-
 Number in training: 131
 Number in test: 41
-Score: 0.2683
+Score: 0.2195
 Base: 0.3902
 
 -North America-
 Number in training: 150
 Number in test: 22
-Score: 0.0909
+Score: 0.0455
 Base: 0.5455
 
 -Papunesia-
 Number in training: 124
 Number in test: 48
-Score: 0.2500
+Score: 0.1875
 Base: 0.3750
 
 -South America-
 Number in training: 148
 Number in test: 24
-Score: 0.2917
+Score: 0.2083
 Base: 0.6667
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2234
+Score: 0.1916
 Base: 0.4549
 
 --39A Inclusive/Exclusive Distinction in Independent Pronouns--
@@ -1008,37 +964,35 @@ Base: 0.5000
 -Australia-
 Number in training: 119
 Number in test: 1
-Score: 1.0000
+Score: 0.0000
 Base: 1.0000
 
 -Eurasia-
 Number in training: 100
 Number in test: 20
-Score: 0.5000
+Score: 0.4500
 Base: 0.5000
 
 -North America-
 Number in training: 103
 Number in test: 17
-Score: 0.8235
+Score: 0.5882
 Base: 0.9412
 
 -Papunesia-
 Number in training: 87
 Number in test: 33
-Score: 0.7576
+Score: 0.4242
 Base: 0.8182
 
 -South America-
 Number in training: 95
 Number in test: 25
-Score: 0.7200
+Score: 0.5200
 Base: 0.7200
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.7169
+Score: 0.4137
 Base: 0.7466
 
 --45A Politeness Distinctions in Pronouns--
@@ -1054,7 +1008,7 @@ Not enough languages
 -Africa-
 Number in training: 97
 Number in test: 25
-Score: 0.7200
+Score: 0.4800
 Base: 0.7600
 
 -Australia-
@@ -1066,31 +1020,29 @@ Base: 1.0000
 -Eurasia-
 Number in training: 102
 Number in test: 20
-Score: 0.7500
+Score: 0.4500
 Base: 0.7500
 
 -North America-
 Number in training: 105
 Number in test: 17
-Score: 0.5294
+Score: 0.4706
 Base: 0.5294
 
 -Papunesia-
 Number in training: 89
 Number in test: 33
-Score: 0.5758
+Score: 0.5455
 Base: 0.6061
 
 -South America-
 Number in training: 96
 Number in test: 26
-Score: 0.6154
+Score: 0.4231
 Base: 0.6154
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6984
+Score: 0.5615
 Base: 0.7101
 
 --49A Number of Cases--
@@ -1103,7 +1055,7 @@ Not enough languages
 -Africa-
 Number in training: 215
 Number in test: 47
-Score: 0.3830
+Score: 0.4255
 Base: 0.5745
 
 -Australia-
@@ -1115,31 +1067,29 @@ Base: 0.8333
 -Eurasia-
 Number in training: 219
 Number in test: 43
-Score: 0.3721
+Score: 0.3023
 Base: 0.5116
 
 -North America-
 Number in training: 231
 Number in test: 31
-Score: 0.5484
+Score: 0.3871
 Base: 0.6129
 
 -Papunesia-
 Number in training: 179
 Number in test: 83
-Score: 0.4819
+Score: 0.4096
 Base: 0.5181
 
 -South America-
 Number in training: 210
 Number in test: 52
-Score: 0.3077
+Score: 0.3462
 Base: 0.5000
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4044
+Score: 0.3673
 Base: 0.5917
 
 --52A Comitatives and Instrumentals--
@@ -1149,7 +1099,7 @@ Not enough languages
 -Africa-
 Number in training: 91
 Number in test: 21
-Score: 0.3810
+Score: 0.1905
 Base: 0.6667
 
 -Australia-
@@ -1158,31 +1108,29 @@ No test data
 -Eurasia-
 Number in training: 70
 Number in test: 42
-Score: 0.2381
+Score: 0.2143
 Base: 0.5714
 
 -North America-
 Number in training: 93
 Number in test: 19
-Score: 0.3158
+Score: 0.2105
 Base: 0.5263
 
 -Papunesia-
 Number in training: 95
 Number in test: 17
-Score: 0.0588
+Score: 0.1176
 Base: 0.2941
 
 -South America-
 Number in training: 99
 Number in test: 13
-Score: 0.0769
+Score: 0.0000
 Base: 0.4615
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2141
+Score: 0.1466
 Base: 0.5040
 
 --54A Distributive Numerals--
@@ -1192,7 +1140,7 @@ Not enough languages
 -Africa-
 Number in training: 84
 Number in test: 18
-Score: 0.8889
+Score: 0.7778
 Base: 0.9444
 
 -Australia-
@@ -1201,31 +1149,29 @@ No test data
 -Eurasia-
 Number in training: 88
 Number in test: 14
-Score: 0.5714
+Score: 0.7143
 Base: 0.6429
 
 -North America-
 Number in training: 92
 Number in test: 10
-Score: 0.4000
+Score: 0.5000
 Base: 0.5000
 
 -Papunesia-
 Number in training: 68
 Number in test: 34
-Score: 0.5882
+Score: 0.5000
 Base: 0.5882
 
 -South America-
 Number in training: 76
 Number in test: 26
-Score: 0.6538
+Score: 0.3846
 Base: 0.7308
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6205
+Score: 0.5753
 Base: 0.6813
 
 --56A Conjunctions and Universal Quantifiers--
@@ -1235,7 +1181,7 @@ Not enough languages
 -Africa-
 Number in training: 205
 Number in test: 44
-Score: 0.2273
+Score: 0.2727
 Base: 0.5000
 
 -Australia-
@@ -1247,31 +1193,29 @@ Base: 0.3333
 -Eurasia-
 Number in training: 216
 Number in test: 33
-Score: 0.2727
+Score: 0.3333
 Base: 0.6364
 
 -North America-
 Number in training: 211
 Number in test: 38
-Score: 0.1842
+Score: 0.2368
 Base: 0.5000
 
 -Papunesia-
 Number in training: 167
 Number in test: 82
-Score: 0.2683
+Score: 0.2805
 Base: 0.5000
 
 -South America-
 Number in training: 200
 Number in test: 49
-Score: 0.1633
+Score: 0.3061
 Base: 0.6122
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2415
+Score: 0.2938
 Base: 0.5137
 
 --58A Obligatory Possessive Inflection--
@@ -1311,50 +1255,48 @@ Not enough languages
 -Africa-
 Number in training: 243
 Number in test: 62
-Score: 0.2258
+Score: 0.3387
 Base: 0.2742
 
 -Australia-
 Number in training: 299
 Number in test: 6
-Score: 0.6667
+Score: 0.5000
 Base: 0.8333
 
 -Eurasia-
 Number in training: 262
 Number in test: 43
-Score: 0.6744
+Score: 0.6279
 Base: 0.6977
 
 -North America-
 Number in training: 261
 Number in test: 44
-Score: 0.4773
+Score: 0.3182
 Base: 0.4773
 
 -Papunesia-
 Number in training: 210
 Number in test: 95
-Score: 0.5263
+Score: 0.3895
 Base: 0.5474
 
 -South America-
 Number in training: 250
 Number in test: 55
-Score: 0.5818
+Score: 0.4000
 Base: 0.8545
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5254
+Score: 0.4290
 Base: 0.6141
 
 --70A The Morphological Imperative--
 -Africa-
 Number in training: 114
 Number in test: 41
-Score: 0.3659
+Score: 0.5610
 Base: 0.4634
 
 -Australia-
@@ -1363,38 +1305,36 @@ No test data
 -Eurasia-
 Number in training: 117
 Number in test: 38
-Score: 0.3947
+Score: 0.3421
 Base: 0.4737
 
 -North America-
 Number in training: 136
 Number in test: 19
-Score: 0.8421
+Score: 0.6842
 Base: 0.7895
 
 -Papunesia-
 Number in training: 128
 Number in test: 27
-Score: 0.4444
+Score: 0.2963
 Base: 0.4444
 
 -South America-
 Number in training: 125
 Number in test: 30
-Score: 0.4000
+Score: 0.2667
 Base: 0.5333
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4894
+Score: 0.4301
 Base: 0.5409
 
 --71A The Prohibitive--
 -Africa-
 Number in training: 103
 Number in test: 35
-Score: 0.3429
+Score: 0.3714
 Base: 0.4000
 
 -Australia-
@@ -1406,38 +1346,36 @@ Base: 1.0000
 -Eurasia-
 Number in training: 103
 Number in test: 35
-Score: 0.2286
+Score: 0.2000
 Base: 0.4857
 
 -North America-
 Number in training: 125
 Number in test: 13
-Score: 0.3846
+Score: 0.4615
 Base: 0.3077
 
 -Papunesia-
 Number in training: 111
 Number in test: 27
-Score: 0.3704
+Score: 0.2222
 Base: 0.5185
 
 -South America-
 Number in training: 111
 Number in test: 27
-Score: 0.3333
+Score: 0.2963
 Base: 0.4444
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2766
+Score: 0.2586
 Base: 0.5261
 
 --72A Imperative-Hortative Systems--
 -Africa-
 Number in training: 93
 Number in test: 34
-Score: 0.3235
+Score: 0.2353
 Base: 0.3824
 
 -Australia-
@@ -1446,31 +1384,29 @@ No test data
 -Eurasia-
 Number in training: 94
 Number in test: 33
-Score: 0.4848
+Score: 0.4545
 Base: 0.6970
 
 -North America-
 Number in training: 113
 Number in test: 14
-Score: 0.5000
+Score: 0.4286
 Base: 0.5000
 
 -Papunesia-
 Number in training: 104
 Number in test: 23
-Score: 0.3478
+Score: 0.2174
 Base: 0.4783
 
 -South America-
 Number in training: 104
 Number in test: 23
-Score: 0.6087
+Score: 0.4783
 Base: 0.8696
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4530
+Score: 0.3628
 Base: 0.5854
 
 --73A The Optative--
@@ -1489,7 +1425,7 @@ Not enough languages
 -Africa-
 Number in training: 112
 Number in test: 14
-Score: 0.4286
+Score: 0.3571
 Base: 0.9286
 
 -Australia-
@@ -1498,38 +1434,36 @@ No test data
 -Eurasia-
 Number in training: 102
 Number in test: 24
-Score: 0.3750
+Score: 0.2917
 Base: 0.4583
 
 -North America-
 Number in training: 102
 Number in test: 24
-Score: 0.3333
+Score: 0.2917
 Base: 0.7083
 
 -Papunesia-
 Number in training: 105
 Number in test: 21
-Score: 0.6667
+Score: 0.5238
 Base: 0.7619
 
 -South America-
 Number in training: 83
 Number in test: 43
-Score: 0.4884
+Score: 0.3256
 Base: 0.4419
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4584
+Score: 0.3580
 Base: 0.6598
 
 --78A Coding of Evidentiality--
 -Africa-
 Number in training: 112
 Number in test: 14
-Score: 0.5000
+Score: 0.2857
 Base: 0.9286
 
 -Australia-
@@ -1538,31 +1472,29 @@ No test data
 -Eurasia-
 Number in training: 102
 Number in test: 24
-Score: 0.2500
+Score: 0.3333
 Base: 0.3333
 
 -North America-
 Number in training: 102
 Number in test: 24
-Score: 0.2083
+Score: 0.1250
 Base: 0.4167
 
 -Papunesia-
 Number in training: 105
 Number in test: 21
-Score: 0.7143
+Score: 0.5238
 Base: 0.7619
 
 -South America-
 Number in training: 83
 Number in test: 43
-Score: 0.3488
+Score: 0.2093
 Base: 0.3256
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4043
+Score: 0.2954
 Base: 0.5532
 
 --79A Suppletion According to Tense and Aspect--
@@ -1575,50 +1507,48 @@ Not enough languages
 -Africa-
 Number in training: 270
 Number in test: 91
-Score: 0.1538
+Score: 0.2527
 Base: 0.6813
 
 -Australia-
 Number in training: 356
 Number in test: 5
-Score: 0.0000
+Score: 0.2000
 Base: 0.6000
 
 -Eurasia-
 Number in training: 315
 Number in test: 46
-Score: 0.2174
+Score: 0.2826
 Base: 0.4565
 
 -North America-
 Number in training: 314
 Number in test: 47
-Score: 0.2128
+Score: 0.2766
 Base: 0.3404
 
 -Papunesia-
 Number in training: 250
 Number in test: 111
-Score: 0.3063
+Score: 0.3243
 Base: 0.5315
 
 -South America-
 Number in training: 300
 Number in test: 61
-Score: 0.1639
+Score: 0.2459
 Base: 0.6066
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.1757
+Score: 0.2637
 Base: 0.5361
 
 --82A Order of Subject and Verb--
 -Africa-
 Number in training: 291
 Number in test: 92
-Score: 0.5435
+Score: 0.4783
 Base: 0.9022
 
 -Australia-
@@ -1630,44 +1560,42 @@ Base: 0.6000
 -Eurasia-
 Number in training: 334
 Number in test: 49
-Score: 0.7551
+Score: 0.6531
 Base: 0.7959
 
 -North America-
 Number in training: 335
 Number in test: 48
-Score: 0.3125
+Score: 0.3542
 Base: 0.5833
 
 -Papunesia-
 Number in training: 262
 Number in test: 121
-Score: 0.7603
+Score: 0.6116
 Base: 0.7686
 
 -South America-
 Number in training: 315
 Number in test: 68
-Score: 0.5294
+Score: 0.4706
 Base: 0.7500
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5835
+Score: 0.5279
 Base: 0.7333
 
 --83A Order of Object and Verb--
 -Africa-
 Number in training: 293
 Number in test: 92
-Score: 0.5870
+Score: 0.6304
 Base: 0.7826
 
 -Australia-
 Number in training: 380
 Number in test: 5
-Score: 0.0000
+Score: 0.2000
 Base: 0.6000
 
 -Eurasia-
@@ -1679,32 +1607,30 @@ Base: 0.5306
 -North America-
 Number in training: 337
 Number in test: 48
-Score: 0.5000
+Score: 0.4583
 Base: 0.7292
 
 -Papunesia-
 Number in training: 264
 Number in test: 121
-Score: 0.5620
+Score: 0.5207
 Base: 0.5289
 
 -South America-
 Number in training: 315
 Number in test: 70
-Score: 0.2857
+Score: 0.4286
 Base: 0.7000
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4007
+Score: 0.4512
 Base: 0.6452
 
 --84A Order of Object, Oblique, and Verb--
 -Africa-
 Number in training: 108
 Number in test: 42
-Score: 0.5952
+Score: 0.4762
 Base: 0.6429
 
 -Australia-
@@ -1716,19 +1642,19 @@ Base: 0.6667
 -Eurasia-
 Number in training: 131
 Number in test: 19
-Score: 0.4737
+Score: 0.3684
 Base: 0.5263
 
 -North America-
 Number in training: 126
 Number in test: 24
-Score: 0.5833
+Score: 0.5000
 Base: 0.6250
 
 -Papunesia-
 Number in training: 111
 Number in test: 39
-Score: 0.5641
+Score: 0.4872
 Base: 0.5641
 
 -South America-
@@ -1738,59 +1664,55 @@ Score: 0.2174
 Base: 0.3478
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4056
+Score: 0.3415
 Base: 0.5621
 
 --85A Order of Adposition and Noun Phrase--
 -Africa-
 Number in training: 250
 Number in test: 76
-Score: 0.4868
+Score: 0.4737
 Base: 0.6184
 
 -Australia-
 Number in training: 322
 Number in test: 4
-Score: 0.2500
+Score: 0.7500
 Base: 0.7500
 
 -Eurasia-
 Number in training: 281
 Number in test: 45
-Score: 0.4444
+Score: 0.4667
 Base: 0.5111
 
 -North America-
 Number in training: 282
 Number in test: 44
-Score: 0.4773
+Score: 0.4545
 Base: 0.7045
 
 -Papunesia-
 Number in training: 223
 Number in test: 103
-Score: 0.5825
+Score: 0.4854
 Base: 0.4854
 
 -South America-
 Number in training: 272
 Number in test: 54
-Score: 0.1111
+Score: 0.1667
 Base: 0.8333
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3920
+Score: 0.4662
 Base: 0.6505
 
 --86A Order of Genitive and Noun--
 -Africa-
 Number in training: 263
 Number in test: 81
-Score: 0.3827
+Score: 0.4321
 Base: 0.6543
 
 -Australia-
@@ -1802,124 +1724,118 @@ Base: 0.5000
 -Eurasia-
 Number in training: 298
 Number in test: 46
-Score: 0.4565
+Score: 0.4348
 Base: 0.5652
 
 -North America-
 Number in training: 302
 Number in test: 42
-Score: 0.4286
+Score: 0.4048
 Base: 0.5952
 
 -Papunesia-
 Number in training: 233
 Number in test: 111
-Score: 0.6036
+Score: 0.4955
 Base: 0.5586
 
 -South America-
 Number in training: 284
 Number in test: 60
-Score: 0.1667
+Score: 0.2833
 Base: 0.8167
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3813
+Score: 0.3834
 Base: 0.6150
 
 --87A Order of Adjective and Noun--
 -Africa-
 Number in training: 268
 Number in test: 85
-Score: 0.8235
+Score: 0.5765
 Base: 0.9059
 
 -Australia-
 Number in training: 347
 Number in test: 6
-Score: 0.6667
+Score: 0.5000
 Base: 0.6667
 
 -Eurasia-
 Number in training: 305
 Number in test: 48
-Score: 0.5000
+Score: 0.3958
 Base: 0.4792
 
 -North America-
 Number in training: 309
 Number in test: 44
-Score: 0.4318
+Score: 0.2500
 Base: 0.5455
 
 -Papunesia-
 Number in training: 239
 Number in test: 114
-Score: 0.6667
+Score: 0.5000
 Base: 0.7456
 
 -South America-
 Number in training: 297
 Number in test: 56
-Score: 0.5357
+Score: 0.4821
 Base: 0.5536
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6041
+Score: 0.4507
 Base: 0.6494
 
 --88A Order of Demonstrative and Noun--
 -Africa-
 Number in training: 245
 Number in test: 78
-Score: 0.2692
+Score: 0.2821
 Base: 0.7051
 
 -Australia-
 Number in training: 319
 Number in test: 4
-Score: 0.2500
+Score: 0.0000
 Base: 0.5000
 
 -Eurasia-
 Number in training: 278
 Number in test: 45
-Score: 0.4889
+Score: 0.5111
 Base: 0.6889
 
 -North America-
 Number in training: 280
 Number in test: 43
-Score: 0.5116
+Score: 0.4651
 Base: 0.5814
 
 -Papunesia-
 Number in training: 217
 Number in test: 106
-Score: 0.3019
+Score: 0.3113
 Base: 0.6509
 
 -South America-
 Number in training: 276
 Number in test: 47
-Score: 0.6809
+Score: 0.5957
 Base: 0.8936
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4171
+Score: 0.3609
 Base: 0.6700
 
 --89A Order of Numeral and Noun--
 -Africa-
 Number in training: 233
 Number in test: 75
-Score: 0.1200
+Score: 0.1867
 Base: 0.9333
 
 -Australia-
@@ -1931,62 +1847,60 @@ Base: 0.6667
 -Eurasia-
 Number in training: 263
 Number in test: 45
-Score: 0.6889
+Score: 0.5556
 Base: 0.7333
 
 -North America-
 Number in training: 268
 Number in test: 40
-Score: 0.6500
+Score: 0.6250
 Base: 0.9000
 
 -Papunesia-
 Number in training: 206
 Number in test: 102
-Score: 0.4608
+Score: 0.5196
 Base: 0.5882
 
 -South America-
 Number in training: 265
 Number in test: 43
-Score: 0.7907
+Score: 0.6744
 Base: 0.8140
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5073
+Score: 0.4824
 Base: 0.7726
 
 --90A Order of Relative Clause and Noun--
 -Africa-
 Number in training: 177
 Number in test: 61
-Score: 0.9344
+Score: 0.7377
 Base: 0.9344
 
 -Australia-
 Number in training: 233
 Number in test: 5
-Score: 0.6000
+Score: 0.4000
 Base: 0.6000
 
 -Eurasia-
 Number in training: 196
 Number in test: 42
-Score: 0.6190
+Score: 0.5238
 Base: 0.6190
 
 -North America-
 Number in training: 202
 Number in test: 36
-Score: 0.9167
+Score: 0.3889
 Base: 0.9167
 
 -Papunesia-
 Number in training: 170
 Number in test: 68
-Score: 0.8088
+Score: 0.6618
 Base: 0.8088
 
 -South America-
@@ -1996,16 +1910,14 @@ Score: 0.5769
 Base: 0.5769
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.7426
+Score: 0.5482
 Base: 0.7426
 
 --91A Order of Degree Word and Adjective--
 -Africa-
 Number in training: 149
 Number in test: 21
-Score: 0.4762
+Score: 0.2857
 Base: 0.7143
 
 -Australia-
@@ -2017,7 +1929,7 @@ Base: 1.0000
 -Eurasia-
 Number in training: 134
 Number in test: 36
-Score: 0.6111
+Score: 0.5278
 Base: 0.7222
 
 -North America-
@@ -2029,19 +1941,17 @@ Base: 0.7333
 -Papunesia-
 Number in training: 114
 Number in test: 56
-Score: 0.2679
+Score: 0.3036
 Base: 0.6071
 
 -South America-
 Number in training: 145
 Number in test: 25
-Score: 0.2800
+Score: 0.3600
 Base: 0.4800
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3614
+Score: 0.3351
 Base: 0.7095
 
 --92A Position of Polar Question Particles--
@@ -2054,19 +1964,19 @@ Base: 0.5079
 -Australia-
 Number in training: 248
 Number in test: 3
-Score: 0.3333
+Score: 0.0000
 Base: 0.3333
 
 -Eurasia-
 Number in training: 209
 Number in test: 42
-Score: 0.3333
+Score: 0.2619
 Base: 0.3571
 
 -North America-
 Number in training: 218
 Number in test: 33
-Score: 0.2727
+Score: 0.1818
 Base: 0.4242
 
 -Papunesia-
@@ -2078,20 +1988,18 @@ Base: 0.3939
 -South America-
 Number in training: 207
 Number in test: 44
-Score: 0.4091
+Score: 0.2500
 Base: 0.6136
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3279
+Score: 0.2188
 Base: 0.4384
 
 --93A Position of Interrogative Phrases in Content Questions--
 -Africa-
 Number in training: 199
 Number in test: 64
-Score: 0.4844
+Score: 0.5156
 Base: 0.8594
 
 -Australia-
@@ -2103,13 +2011,13 @@ Base: 1.0000
 -Eurasia-
 Number in training: 225
 Number in test: 38
-Score: 0.6579
+Score: 0.4211
 Base: 0.5526
 
 -North America-
 Number in training: 224
 Number in test: 39
-Score: 0.2821
+Score: 0.3590
 Base: 0.7692
 
 -Papunesia-
@@ -2121,20 +2029,18 @@ Base: 0.7895
 -South America-
 Number in training: 218
 Number in test: 45
-Score: 0.5111
+Score: 0.4000
 Base: 0.7333
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5726
+Score: 0.5326
 Base: 0.7840
 
 --94A Order of Adverbial Subordinator and Clause--
 -Africa-
 Number in training: 159
 Number in test: 42
-Score: 0.8333
+Score: 0.7619
 Base: 0.8810
 
 -Australia-
@@ -2146,44 +2052,42 @@ Base: 1.0000
 -Eurasia-
 Number in training: 166
 Number in test: 35
-Score: 0.6571
+Score: 0.5429
 Base: 0.6571
 
 -North America-
 Number in training: 169
 Number in test: 32
-Score: 0.6875
+Score: 0.5312
 Base: 0.8125
 
 -Papunesia-
 Number in training: 144
 Number in test: 57
-Score: 0.6140
+Score: 0.4737
 Base: 0.6491
 
 -South America-
 Number in training: 167
 Number in test: 34
-Score: 0.1765
+Score: 0.2353
 Base: 0.4412
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6614
+Score: 0.5908
 Base: 0.7401
 
 --95A Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase--
 -Africa-
 Number in training: 243
 Number in test: 74
-Score: 0.4459
+Score: 0.4054
 Base: 0.5676
 
 -Australia-
 Number in training: 312
 Number in test: 5
-Score: 0.0000
+Score: 0.2000
 Base: 0.4000
 
 -Eurasia-
@@ -2201,26 +2105,24 @@ Base: 0.6512
 -Papunesia-
 Number in training: 215
 Number in test: 102
-Score: 0.5490
+Score: 0.4706
 Base: 0.4804
 
 -South America-
 Number in training: 267
 Number in test: 50
-Score: 0.1000
+Score: 0.1400
 Base: 0.7000
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3220
+Score: 0.3422
 Base: 0.5440
 
 --96A Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun--
 -Africa-
 Number in training: 180
 Number in test: 64
-Score: 0.7188
+Score: 0.5469
 Base: 0.7188
 
 -Australia-
@@ -2232,19 +2134,19 @@ Base: 0.8000
 -Eurasia-
 Number in training: 202
 Number in test: 42
-Score: 0.4762
+Score: 0.4524
 Base: 0.5000
 
 -North America-
 Number in training: 206
 Number in test: 38
-Score: 0.6053
+Score: 0.2632
 Base: 0.7105
 
 -Papunesia-
 Number in training: 176
 Number in test: 68
-Score: 0.6471
+Score: 0.5000
 Base: 0.6471
 
 -South America-
@@ -2254,16 +2156,14 @@ Score: 0.2963
 Base: 0.2963
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4573
+Score: 0.3431
 Base: 0.6121
 
 --97A Relationship between the Order of Object and Verb and the Order of Adjective and Noun--
 -Africa-
 Number in training: 262
 Number in test: 82
-Score: 0.4756
+Score: 0.4268
 Base: 0.6951
 
 -Australia-
@@ -2281,25 +2181,23 @@ Base: 0.2766
 -North America-
 Number in training: 301
 Number in test: 43
-Score: 0.1628
+Score: 0.1163
 Base: 0.4419
 
 -Papunesia-
 Number in training: 231
 Number in test: 113
-Score: 0.3628
+Score: 0.2035
 Base: 0.3805
 
 -South America-
 Number in training: 290
 Number in test: 54
-Score: 0.1852
+Score: 0.2778
 Base: 0.3519
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2297
+Score: 0.2027
 Base: 0.4577
 
 --98A Alignment of Case Marking of Full Noun Phrases--
@@ -2312,7 +2210,7 @@ Not enough languages
 -Africa-
 Number in training: 96
 Number in test: 25
-Score: 0.4800
+Score: 0.4000
 Base: 0.5200
 
 -Australia-
@@ -2324,38 +2222,36 @@ Base: 1.0000
 -Eurasia-
 Number in training: 101
 Number in test: 20
-Score: 0.8000
+Score: 0.6500
 Base: 0.8000
 
 -North America-
 Number in training: 104
 Number in test: 17
-Score: 0.6471
+Score: 0.5294
 Base: 0.6471
 
 -Papunesia-
 Number in training: 88
 Number in test: 33
-Score: 0.5455
+Score: 0.3939
 Base: 0.5758
 
 -South America-
 Number in training: 96
 Number in test: 25
-Score: 0.2800
+Score: 0.3200
 Base: 0.3200
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4588
+Score: 0.3822
 Base: 0.6438
 
 --101A Expression of Pronominal Subjects--
 -Africa-
 Number in training: 141
 Number in test: 60
-Score: 0.4833
+Score: 0.2833
 Base: 0.5667
 
 -Australia-
@@ -2367,7 +2263,7 @@ Base: 1.0000
 -Eurasia-
 Number in training: 166
 Number in test: 35
-Score: 0.4000
+Score: 0.4286
 Base: 0.4000
 
 -North America-
@@ -2379,19 +2275,17 @@ Base: 0.7778
 -Papunesia-
 Number in training: 141
 Number in test: 60
-Score: 0.6167
+Score: 0.3333
 Base: 0.6167
 
 -South America-
 Number in training: 174
 Number in test: 27
-Score: 0.6667
+Score: 0.4444
 Base: 0.7778
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4815
+Score: 0.3687
 Base: 0.6898
 
 --102A Verbal Person Marking--
@@ -2410,7 +2304,7 @@ Base: 1.0000
 -Eurasia-
 Number in training: 101
 Number in test: 20
-Score: 0.3500
+Score: 0.2000
 Base: 0.5500
 
 -North America-
@@ -2422,26 +2316,24 @@ Base: 0.5294
 -Papunesia-
 Number in training: 88
 Number in test: 33
-Score: 0.4242
+Score: 0.3636
 Base: 0.4848
 
 -South America-
 Number in training: 96
 Number in test: 25
-Score: 0.5200
+Score: 0.5600
 Base: 0.4800
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3541
+Score: 0.3257
 Base: 0.5874
 
 --103A Third Person Zero of Verbal Person Marking--
 -Africa-
 Number in training: 96
 Number in test: 25
-Score: 0.3600
+Score: 0.3200
 Base: 0.5200
 
 -Australia-
@@ -2453,19 +2345,19 @@ Base: 1.0000
 -Eurasia-
 Number in training: 101
 Number in test: 20
-Score: 0.6500
+Score: 0.4500
 Base: 0.8000
 
 -North America-
 Number in training: 104
 Number in test: 17
-Score: 0.3529
+Score: 0.2353
 Base: 0.2941
 
 -Papunesia-
 Number in training: 88
 Number in test: 33
-Score: 0.6667
+Score: 0.4545
 Base: 0.6970
 
 -South America-
@@ -2475,16 +2367,14 @@ Score: 0.3200
 Base: 0.3600
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3916
+Score: 0.2966
 Base: 0.6118
 
 --104A Order of Person Markers on the Verb--
 -Africa-
 Number in training: 95
 Number in test: 25
-Score: 0.4800
+Score: 0.4400
 Base: 0.6000
 
 -Australia-
@@ -2496,19 +2386,19 @@ Base: 1.0000
 -Eurasia-
 Number in training: 100
 Number in test: 20
-Score: 0.5500
+Score: 0.4000
 Base: 0.6000
 
 -North America-
 Number in training: 103
 Number in test: 17
-Score: 0.4118
+Score: 0.3529
 Base: 0.4706
 
 -Papunesia-
 Number in training: 87
 Number in test: 33
-Score: 0.4545
+Score: 0.3030
 Base: 0.5152
 
 -South America-
@@ -2518,9 +2408,7 @@ Score: 0.5833
 Base: 0.5417
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5799
+Score: 0.5132
 Base: 0.6212
 
 --105A Ditransitive Constructions: The Verb 'Give'--
@@ -2539,31 +2427,29 @@ Base: 0.6667
 -Eurasia-
 Number in training: 86
 Number in test: 19
-Score: 0.4737
+Score: 0.4211
 Base: 0.7368
 
 -North America-
 Number in training: 95
 Number in test: 10
-Score: 0.3000
+Score: 0.2000
 Base: 0.5000
 
 -Papunesia-
 Number in training: 82
 Number in test: 23
-Score: 0.4348
+Score: 0.3043
 Base: 0.4783
 
 -South America-
 Number in training: 85
 Number in test: 20
-Score: 0.2000
+Score: 0.2500
 Base: 0.4000
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2625
+Score: 0.2237
 Base: 0.5581
 
 --106A Reciprocal Constructions--
@@ -2573,31 +2459,31 @@ Not enough languages
 -Africa-
 Number in training: 93
 Number in test: 25
-Score: 0.4800
+Score: 0.5200
 Base: 0.5600
 
 -Australia-
 Number in training: 117
 Number in test: 1
-Score: 1.0000
+Score: 0.0000
 Base: 1.0000
 
 -Eurasia-
 Number in training: 98
 Number in test: 20
-Score: 0.2000
+Score: 0.4000
 Base: 0.8500
 
 -North America-
 Number in training: 102
 Number in test: 16
-Score: 0.4375
+Score: 0.5625
 Base: 0.5000
 
 -Papunesia-
 Number in training: 86
 Number in test: 32
-Score: 0.4375
+Score: 0.5938
 Base: 0.8125
 
 -South America-
@@ -2607,9 +2493,7 @@ Score: 0.5000
 Base: 0.6250
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5092
+Score: 0.4294
 Base: 0.7246
 
 --108A Antipassive Constructions--
@@ -2628,43 +2512,41 @@ Not enough languages
 -Africa-
 Number in training: 227
 Number in test: 77
-Score: 0.3117
+Score: 0.2727
 Base: 0.3506
 
 -Australia-
 Number in training: 301
 Number in test: 3
-Score: 0.3333
+Score: 0.0000
 Base: 0.6667
 
 -Eurasia-
 Number in training: 259
 Number in test: 45
-Score: 0.6444
+Score: 0.3333
 Base: 0.5778
 
 -North America-
 Number in training: 266
 Number in test: 38
-Score: 0.6316
+Score: 0.4211
 Base: 0.7632
 
 -Papunesia-
 Number in training: 220
 Number in test: 84
-Score: 0.4167
+Score: 0.3810
 Base: 0.5357
 
 -South America-
 Number in training: 247
 Number in test: 57
-Score: 0.1754
+Score: 0.2632
 Base: 0.6140
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4189
+Score: 0.2785
 Base: 0.5847
 
 --113A Symmetric and Asymmetric Standard Negation--
@@ -2680,7 +2562,7 @@ Not enough languages
 -Africa-
 Number in training: 207
 Number in test: 64
-Score: 0.6562
+Score: 0.4844
 Base: 0.6875
 
 -Australia-
@@ -2692,31 +2574,29 @@ Base: 0.6667
 -Eurasia-
 Number in training: 225
 Number in test: 46
-Score: 0.6739
+Score: 0.4348
 Base: 0.6739
 
 -North America-
 Number in training: 237
 Number in test: 34
-Score: 0.7647
+Score: 0.5000
 Base: 0.7941
 
 -Papunesia-
 Number in training: 195
 Number in test: 76
-Score: 0.5658
+Score: 0.4079
 Base: 0.6447
 
 -South America-
 Number in training: 223
 Number in test: 48
-Score: 0.4583
+Score: 0.4375
 Base: 0.4375
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6309
+Score: 0.4885
 Base: 0.6507
 
 --117A Predicative Possession--
@@ -2735,38 +2615,36 @@ No test data
 -Eurasia-
 Number in training: 101
 Number in test: 30
-Score: 0.1667
+Score: 0.3333
 Base: 0.8000
 
 -North America-
 Number in training: 115
 Number in test: 16
-Score: 0.3125
+Score: 0.1875
 Base: 0.5625
 
 -Papunesia-
 Number in training: 93
 Number in test: 38
-Score: 0.2632
+Score: 0.3158
 Base: 0.5263
 
 -South America-
 Number in training: 110
 Number in test: 21
-Score: 0.4286
+Score: 0.2857
 Base: 0.4286
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2726
+Score: 0.2629
 Base: 0.6096
 
 --119A Nominal and Locational Predication--
 -Africa-
 Number in training: 105
 Number in test: 26
-Score: 0.7692
+Score: 0.4615
 Base: 0.8077
 
 -Australia-
@@ -2775,38 +2653,36 @@ No test data
 -Eurasia-
 Number in training: 101
 Number in test: 30
-Score: 0.3333
+Score: 0.3667
 Base: 0.6000
 
 -North America-
 Number in training: 115
 Number in test: 16
-Score: 0.8125
+Score: 0.6875
 Base: 0.8750
 
 -Papunesia-
 Number in training: 93
 Number in test: 38
-Score: 0.3158
+Score: 0.3684
 Base: 0.8947
 
 -South America-
 Number in training: 110
 Number in test: 21
-Score: 0.5714
+Score: 0.5238
 Base: 0.5238
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5605
+Score: 0.4816
 Base: 0.7402
 
 --120A Zero Copula for Predicate Nominals--
 -Africa-
 Number in training: 105
 Number in test: 26
-Score: 0.6154
+Score: 0.5000
 Base: 0.7692
 
 -Australia-
@@ -2815,19 +2691,19 @@ No test data
 -Eurasia-
 Number in training: 101
 Number in test: 30
-Score: 0.5000
+Score: 0.3667
 Base: 0.7333
 
 -North America-
 Number in training: 115
 Number in test: 16
-Score: 0.5625
+Score: 0.3750
 Base: 0.9375
 
 -Papunesia-
 Number in training: 93
 Number in test: 38
-Score: 0.3684
+Score: 0.3421
 Base: 0.6579
 
 -South America-
@@ -2837,9 +2713,7 @@ Score: 0.3810
 Base: 0.6190
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4855
+Score: 0.3929
 Base: 0.7434
 
 --121A Comparative Constructions--
@@ -2882,7 +2756,7 @@ Base: 1.0000
 -Eurasia-
 Number in training: 181
 Number in test: 28
-Score: 0.8214
+Score: 0.6429
 Base: 0.7857
 
 -North America-
@@ -2894,26 +2768,24 @@ Base: 0.5091
 -Papunesia-
 Number in training: 179
 Number in test: 30
-Score: 0.3333
+Score: 0.4333
 Base: 0.6667
 
 -South America-
 Number in training: 138
 Number in test: 71
-Score: 0.7183
+Score: 0.7324
 Base: 0.8592
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.6476
+Score: 0.6369
 Base: 0.7237
 
 --130A Finger and Hand--
 -Africa-
 Number in training: 184
 Number in test: 21
-Score: 1.0000
+Score: 0.9524
 Base: 1.0000
 
 -Australia-
@@ -2925,7 +2797,7 @@ Base: 1.0000
 -Eurasia-
 Number in training: 177
 Number in test: 28
-Score: 1.0000
+Score: 0.9286
 Base: 1.0000
 
 -North America-
@@ -2947,9 +2819,7 @@ Score: 0.9275
 Base: 0.9275
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.8096
+Score: 0.7898
 Base: 0.9763
 
 --131A Numeral Bases--
@@ -2992,43 +2862,41 @@ Not enough languages
 -Africa-
 Number in training: 261
 Number in test: 86
-Score: 0.5465
+Score: 0.5000
 Base: 0.5465
 
 -Australia-
 Number in training: 341
 Number in test: 6
-Score: 0.6667
+Score: 0.1667
 Base: 0.6667
 
 -Eurasia-
 Number in training: 299
 Number in test: 48
-Score: 0.5000
+Score: 0.3125
 Base: 0.5000
 
 -North America-
 Number in training: 301
 Number in test: 46
-Score: 0.6957
+Score: 0.3913
 Base: 0.8696
 
 -Papunesia-
 Number in training: 247
 Number in test: 100
-Score: 0.4800
+Score: 0.4100
 Base: 0.5800
 
 -South America-
 Number in training: 286
 Number in test: 61
-Score: 0.2787
+Score: 0.2951
 Base: 0.5410
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5279
+Score: 0.3459
 Base: 0.6173
 
 --90B Prenominal relative clauses--
@@ -3041,7 +2909,7 @@ Not enough languages
 -Africa-
 Number in training: 140
 Number in test: 57
-Score: 1.0000
+Score: 0.9649
 Base: 1.0000
 
 -Australia-
@@ -3053,13 +2921,13 @@ Base: 1.0000
 -Eurasia-
 Number in training: 169
 Number in test: 28
-Score: 0.9286
+Score: 0.8929
 Base: 0.9286
 
 -North America-
 Number in training: 162
 Number in test: 35
-Score: 0.9429
+Score: 0.9143
 Base: 0.9429
 
 -Papunesia-
@@ -3075,16 +2943,14 @@ Score: 0.8824
 Base: 0.8824
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.9531
+Score: 0.9366
 Base: 0.9531
 
 --144P NegSOV Order--
 -Africa-
 Number in training: 90
 Number in test: 12
-Score: 0.8333
+Score: 0.7500
 Base: 0.8333
 
 -Australia-
@@ -3096,7 +2962,7 @@ Base: 1.0000
 -Eurasia-
 Number in training: 84
 Number in test: 18
-Score: 1.0000
+Score: 0.8889
 Base: 1.0000
 
 -North America-
@@ -3108,26 +2974,24 @@ Base: 1.0000
 -Papunesia-
 Number in training: 65
 Number in test: 37
-Score: 0.9730
+Score: 0.8919
 Base: 0.9730
 
 -South America-
 Number in training: 73
 Number in test: 29
-Score: 0.8966
+Score: 0.8621
 Base: 0.8966
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.9505
+Score: 0.8988
 Base: 0.9505
 
 --144J SVNegO Order--
 -Africa-
 Number in training: 75
 Number in test: 57
-Score: 0.7895
+Score: 0.6140
 Base: 0.7895
 
 -Australia-
@@ -3136,19 +3000,19 @@ No test data
 -Eurasia-
 Number in training: 108
 Number in test: 24
-Score: 0.7083
+Score: 0.6667
 Base: 0.7083
 
 -North America-
 Number in training: 121
 Number in test: 11
-Score: 1.0000
+Score: 0.9091
 Base: 1.0000
 
 -Papunesia-
 Number in training: 103
 Number in test: 29
-Score: 0.9655
+Score: 0.7241
 Base: 0.9655
 
 -South America-
@@ -3158,9 +3022,7 @@ Score: 0.6364
 Base: 0.6364
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.8199
+Score: 0.7101
 Base: 0.8199
 
 --144N Obligatory Double Negation in SOV languages--
@@ -3170,7 +3032,7 @@ Not enough languages
 -Africa-
 Number in training: 110
 Number in test: 14
-Score: 0.5000
+Score: 0.3571
 Base: 0.6429
 
 -Australia-
@@ -3182,7 +3044,7 @@ Base: 0.6667
 -Eurasia-
 Number in training: 105
 Number in test: 19
-Score: 0.4211
+Score: 0.1579
 Base: 0.4211
 
 -North America-
@@ -3194,7 +3056,7 @@ Base: 0.7000
 -Papunesia-
 Number in training: 77
 Number in test: 47
-Score: 0.2340
+Score: 0.0638
 Base: 0.4468
 
 -South America-
@@ -3204,9 +3066,7 @@ Score: 0.1290
 Base: 0.5806
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.2807
+Score: 0.1846
 Base: 0.5763
 
 --144X Verb-Initial with Clause-Final Negative--
@@ -3216,43 +3076,41 @@ Not enough languages
 -Africa-
 Number in training: 240
 Number in test: 77
-Score: 0.0909
+Score: 0.0519
 Base: 0.3377
 
 -Australia-
 Number in training: 314
 Number in test: 3
-Score: 0.3333
+Score: 0.0000
 Base: 0.6667
 
 -Eurasia-
 Number in training: 270
 Number in test: 47
-Score: 0.2340
+Score: 0.1064
 Base: 0.2340
 
 -North America-
 Number in training: 277
 Number in test: 40
-Score: 0.1250
+Score: 0.1750
 Base: 0.3000
 
 -Papunesia-
 Number in training: 221
 Number in test: 96
-Score: 0.1562
+Score: 0.1042
 Base: 0.1771
 
 -South America-
 Number in training: 263
 Number in test: 54
-Score: 0.1111
+Score: 0.0926
 Base: 0.5556
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.1751
+Score: 0.0883
 Base: 0.3785
 
 --90G Double-headed relative clauses--
@@ -3277,74 +3135,70 @@ No test data
 -Eurasia-
 Number in training: 99
 Number in test: 22
-Score: 0.3182
+Score: 0.4091
 Base: 0.6818
 
 -North America-
 Number in training: 115
 Number in test: 6
-Score: 0.6667
+Score: 0.8333
 Base: 1.0000
 
 -Papunesia-
 Number in training: 95
 Number in test: 26
-Score: 0.2308
+Score: 0.1538
 Base: 0.4231
 
 -South America-
 Number in training: 110
 Number in test: 11
-Score: 0.2727
+Score: 0.3636
 Base: 0.3636
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3298
+Score: 0.3841
 Base: 0.5580
 
 --144R SONegV Order--
 -Africa-
 Number in training: 90
 Number in test: 12
-Score: 0.8333
+Score: 0.5000
 Base: 0.8333
 
 -Australia-
 Number in training: 101
 Number in test: 1
-Score: 1.0000
+Score: 0.0000
 Base: 1.0000
 
 -Eurasia-
 Number in training: 84
 Number in test: 18
-Score: 0.6667
+Score: 0.6111
 Base: 0.6667
 
 -North America-
 Number in training: 97
 Number in test: 5
-Score: 0.6000
+Score: 0.4000
 Base: 0.6000
 
 -Papunesia-
 Number in training: 65
 Number in test: 37
-Score: 0.5405
+Score: 0.4054
 Base: 0.5405
 
 -South America-
 Number in training: 73
 Number in test: 29
-Score: 0.8621
+Score: 0.5517
 Base: 0.9310
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.7504
+Score: 0.4114
 Base: 0.7619
 
 --143B Obligatory Double Negation--
@@ -3363,7 +3217,7 @@ Not enough languages
 -Africa-
 Number in training: 75
 Number in test: 57
-Score: 0.6842
+Score: 0.6491
 Base: 0.6842
 
 -Australia-
@@ -3372,7 +3226,7 @@ No test data
 -Eurasia-
 Number in training: 108
 Number in test: 24
-Score: 0.9167
+Score: 0.7917
 Base: 0.9167
 
 -North America-
@@ -3384,7 +3238,7 @@ Base: 1.0000
 -Papunesia-
 Number in training: 103
 Number in test: 29
-Score: 0.5862
+Score: 0.5172
 Base: 0.5862
 
 -South America-
@@ -3394,16 +3248,14 @@ Score: 1.0000
 Base: 1.0000
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.8374
+Score: 0.7916
 Base: 0.8374
 
 --144B Position of negative words relative to beginning and end of clause and with respect to adjacency to verb--
 -Africa-
 Number in training: 130
 Number in test: 39
-Score: 0.3846
+Score: 0.2821
 Base: 0.3846
 
 -Australia-
@@ -3412,19 +3264,19 @@ No test data
 -Eurasia-
 Number in training: 140
 Number in test: 29
-Score: 0.6552
+Score: 0.5172
 Base: 0.6552
 
 -North America-
 Number in training: 145
 Number in test: 24
-Score: 0.7500
+Score: 0.6250
 Base: 0.9167
 
 -Papunesia-
 Number in training: 108
 Number in test: 61
-Score: 0.6230
+Score: 0.4918
 Base: 0.6721
 
 -South America-
@@ -3434,9 +3286,7 @@ Score: 0.4375
 Base: 0.4375
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.5700
+Score: 0.4707
 Base: 0.6132
 
 --144F Obligatory Double Negation in SVO languages--
@@ -3461,31 +3311,29 @@ No test data
 -Eurasia-
 Number in training: 110
 Number in test: 24
-Score: 0.2500
+Score: 0.1250
 Base: 0.4167
 
 -North America-
 Number in training: 123
 Number in test: 11
-Score: 0.1818
+Score: 0.2727
 Base: 0.3636
 
 -Papunesia-
 Number in training: 104
 Number in test: 30
-Score: 0.1333
+Score: 0.1000
 Base: 0.3333
 
 -South America-
 Number in training: 123
 Number in test: 11
-Score: 0.0909
+Score: 0.1818
 Base: 0.4545
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.1450
+Score: 0.1497
 Base: 0.3688
 
 --81B Languages with two Dominant Orders of Subject, Object, and Verb--
@@ -3495,19 +3343,19 @@ Not enough languages
 -Africa-
 Number in training: 261
 Number in test: 86
-Score: 0.4651
+Score: 0.3953
 Base: 0.4419
 
 -Australia-
 Number in training: 341
 Number in test: 6
-Score: 0.5000
+Score: 0.1667
 Base: 0.6667
 
 -Eurasia-
 Number in training: 299
 Number in test: 48
-Score: 0.6250
+Score: 0.4583
 Base: 0.6458
 
 -North America-
@@ -3525,13 +3373,11 @@ Base: 0.6300
 -South America-
 Number in training: 286
 Number in test: 61
-Score: 0.2295
+Score: 0.2459
 Base: 0.5902
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.4920
+Score: 0.3997
 Base: 0.6371
 
 --143C Optional Double Negation--
@@ -3544,31 +3390,31 @@ Not enough languages
 -Africa-
 Number in training: 261
 Number in test: 86
-Score: 0.2907
+Score: 0.2442
 Base: 0.2907
 
 -Australia-
 Number in training: 341
 Number in test: 6
-Score: 0.5000
+Score: 0.1667
 Base: 0.6667
 
 -Eurasia-
 Number in training: 299
 Number in test: 48
-Score: 0.4375
+Score: 0.2500
 Base: 0.4583
 
 -North America-
 Number in training: 301
 Number in test: 46
-Score: 0.5652
+Score: 0.2826
 Base: 0.8043
 
 -Papunesia-
 Number in training: 247
 Number in test: 100
-Score: 0.3500
+Score: 0.2900
 Base: 0.5100
 
 -South America-
@@ -3578,9 +3424,7 @@ Score: 0.1311
 Base: 0.4754
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.3791
+Score: 0.2274
 Base: 0.5342
 
 --144W Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object--
@@ -3605,7 +3449,7 @@ Base: 1.0000
 -Eurasia-
 Number in training: 84
 Number in test: 18
-Score: 1.0000
+Score: 0.9444
 Base: 1.0000
 
 -North America-
@@ -3617,7 +3461,7 @@ Base: 0.6000
 -Papunesia-
 Number in training: 65
 Number in test: 37
-Score: 0.9730
+Score: 0.8919
 Base: 0.9730
 
 -South America-
@@ -3627,9 +3471,7 @@ Score: 0.9655
 Base: 0.9655
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.8397
+Score: 0.8170
 Base: 0.8397
 
 --144L The Position of Negative Morphemes in SOV Languages--
@@ -3648,38 +3490,36 @@ Base: 0.6667
 -Eurasia-
 Number in training: 113
 Number in test: 21
-Score: 0.2857
+Score: 0.1429
 Base: 0.3810
 
 -North America-
 Number in training: 124
 Number in test: 10
-Score: 0.1000
+Score: 0.2000
 Base: 0.5000
 
 -Papunesia-
 Number in training: 85
 Number in test: 49
-Score: 0.1837
+Score: 0.0612
 Base: 0.2653
 
 -South America-
 Number in training: 97
 Number in test: 37
-Score: 0.1622
+Score: 0.0811
 Base: 0.4595
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.1338
+Score: 0.0928
 Base: 0.4025
 
 --144H NegSVO Order--
 -Africa-
 Number in training: 65
 Number in test: 56
-Score: 0.9107
+Score: 0.8750
 Base: 0.9107
 
 -Australia-
@@ -3688,7 +3528,7 @@ No test data
 -Eurasia-
 Number in training: 99
 Number in test: 22
-Score: 1.0000
+Score: 0.9545
 Base: 1.0000
 
 -North America-
@@ -3710,9 +3550,7 @@ Score: 0.7273
 Base: 0.7273
 
 -Average-
-Number in training: 0
-Number in test: 0
-Score: 0.9199
+Score: 0.9037
 Base: 0.9199
 
 --144C Languages with different word order in negative clauses--
@@ -3759,8 +3597,6 @@ Score: 1.0000
 Base: 1.0000
 
 -Average-
-Number in training: 0
-Number in test: 0
 Score: 0.9961
 Base: 0.9961
 
