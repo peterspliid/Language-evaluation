@@ -249,7 +249,8 @@ def maps(folder, averages, language_data):
         # lang[8] is the language area
         if not lang[8] in lang_areas:
             lang_areas[lang[8]] = {}
-        lang_areas[lang[8]][lang[1]] = averages['individual_languages']['languages'][lang[1]]
+        if lang[1] in averages['individual_languages']['languages']:
+            lang_areas[lang[8]][lang[1]] = averages['individual_languages']['languages'][lang[1]]
 
     for area_name, area in lang_areas.items():
         area_folder = check_folder(maps_folder + area_name + '/')
