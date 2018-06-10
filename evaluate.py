@@ -1,5 +1,90 @@
-from evaluatemod import run
+from sklearn import neighbors
 import argparse
+import pickle
+import csv
+import os
+
+from evaluate_module import evaluate, calculate_averages
+from output import write_report, graph, maps, count_score_graph
+
+def run(embeddings_file, report = False, graphs = False, knn_k = 10,
+        classifier = 'knn', selected_feature_groups = None,
+        selected_features = None, folder = 'output', echo = False):
+
+    if not os.path.isfile(embeddings_file):
+        print('Could not find embeddings file {}'.format(embeddings_file))
+        return
+
+    with open(embeddings_file, 'rb') as f:
+        embeddings = pickle.load(f)
+
+    if folder and not folder.endswith("/"):
+        folder += "/"
+
+    if folder and not os.path.isdir(folder):
+        print("Could not find the path {}".format(folder))
+        return
+
+    with open('language.csv', 'rt', encoding='utf8') as file:
+        reader = csv.reader(file)
+        languages = list(reader)
+    headers = languages.pop(0)
+    # Remove languages we do not have embeddings for
+    languages = [lang for lang in languages if lang[1] in embeddings]
+
+    with open('feature_groups.csv', 'rt', encoding='utf8') as file:
+        reader = csv.reader(file)
+        feature_groups = {rows[0]:rows[1] for rows in reader}
+
+    included_features = get_included_features(feature_groups, selected_feature_groups,
+                                              selected_features)
+    if classifier == 'knn':
+        classifier = neighbors.KNeighborsClassifier(knn_k)
+    elif classifier == 'nn':
+        from sklearn.neural_network import MLPClassifier
+        # ‘lbfgs’ is an optimizer in the family of quasi-Newton methods, which
+        # should work well with 'smaller' datasets
+        classifier = MLPClassifier(solver='lbfgs')
+    else:
+        classifier = neighbors.KNeighborsClassifier(knn_k)
+
+    results = evaluate(languages, headers, embeddings, included_features, classifier)
+    averages = calculate_averages(results)
+
+    if report:
+        write_report(folder, results, averages)
+
+    if graphs:
+        graph(folder, results, averages)
+        maps(folder, averages, languages)
+        count_score_graph(folder, averages, languages)
+
+    # Printing the total results
+    if echo:
+        for method, method_name in {'across_areas': 'Across areas',
+                                    'within_areas': 'Within areas',
+                                    'individual_languages': 'Individual Languages'}.items():
+            print('{}:'.format(method_name))
+            print('Score: {:1.4f}'.format(averages[method]['total']['score']))
+            print('Base: {:1.4f}\n'.format(averages[method]['total']['base']))
+
+    return (results, averages)
+
+def get_included_features(features, selected_feature_groups, selected_features):
+    included_features = 'all'
+    if selected_feature_groups:
+        feature_group_map = ['None', 'Phonology', 'Morphology',
+                             'Nominal Categories', 'Nominal Syntax',
+                             'Verbal Categories', 'Word Order',
+                             'Simple Clauses', 'Complex Sentences',
+                             'Lexicon', 'Sign Languages', 'Other', 'Word Order']
+        selected_feature_group_names = set([feature_group_map[fg_id] for fg_id
+                                        in selected_feature_groups])
+        included_features = set([feature for feature, group in features.items()
+                                 if group in selected_feature_group_names])
+        if selected_features:
+            included_features |= set([f.upper() for f in selected_features])
+    return included_features
 
 def main():
     argparser = argparse.ArgumentParser(description="Evaluate language representations",
