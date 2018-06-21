@@ -1,0 +1,91 @@
+--Total average--
+Score: 0.9033
+Base: 0.9033
+Count: 31
+
+--Area average--
+-Eurasia-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-Papunesia-
+Score: 0.8067
+Base: 0.8067
+Count: 26
+
+--63A Noun Phrase Conjunction--
+-Average-
+Score: 0.7000
+Base: 0.7000
+Count: 10
+
+-Eurasia-
+Amount in training: 19
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 18
+Amount in test: 5
+Score: 0.4000
+Base: 0.4000
+
+--58A Obligatory Possessive Inflection--
+-Average-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-Papunesia-
+Amount in training: 18
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+--64A Nominal and Verbal Conjunction--
+-Average-
+Score: 0.8333
+Base: 0.8333
+Count: 6
+
+-Papunesia-
+Amount in training: 22
+Amount in test: 6
+Score: 0.8333
+Base: 0.8333
+
+--61A Adjectives without Nouns--
+Not enough languages
+
+--59A Possessive Classification--
+-Average-
+Score: 0.8000
+Base: 0.8000
+Count: 5
+
+-Papunesia-
+Amount in training: 18
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+--62A Action Nominal Constructions--
+Not enough languages
+
+--58B Number of Possessive Nouns--
+-Average-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-Papunesia-
+Amount in training: 18
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+--60A Genitives, Adjectives and Relative Clauses--
+Not enough languages
+

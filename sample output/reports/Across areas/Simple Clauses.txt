@@ -1,0 +1,1050 @@
+--Total average--
+Score: 0.4901
+Base: 0.5114
+Count: 2821
+
+--Area average--
+-South America-
+Score: 0.5061
+Base: 0.5283
+Count: 560
+
+-Papunesia-
+Score: 0.4962
+Base: 0.5220
+Count: 729
+
+-Africa-
+Score: 0.5237
+Base: 0.5293
+Count: 637
+
+-North America-
+Score: 0.5417
+Base: 0.5655
+Count: 328
+
+-Eurasia-
+Score: 0.4884
+Base: 0.5133
+Count: 547
+
+-Australia-
+Score: 0.3846
+Base: 0.4103
+Count: 20
+
+--101A Expression of Pronominal Subjects--
+-Average-
+Score: 0.5176
+Base: 0.5231
+Count: 201
+
+-South America-
+Amount in training: 174
+Amount in test: 27
+Score: 0.7778
+Base: 0.7778
+
+-Australia-
+Amount in training: 200
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in training: 141
+Amount in test: 60
+Score: 0.6167
+Base: 0.6167
+
+-North America-
+Amount in training: 183
+Amount in test: 18
+Score: 0.7778
+Base: 0.7778
+
+-Eurasia-
+Amount in training: 166
+Amount in test: 35
+Score: 0.4000
+Base: 0.4000
+
+-Africa-
+Amount in training: 141
+Amount in test: 60
+Score: 0.5333
+Base: 0.5667
+
+--113A Symmetric and Asymmetric Standard Negation--
+-Average-
+Score: 0.3467
+Base: 0.3070
+Count: 88
+
+-South America-
+Amount in training: 65
+Amount in test: 23
+Score: 0.4783
+Base: 0.4348
+
+-Australia-
+Amount in training: 87
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in training: 71
+Amount in test: 17
+Score: 0.5882
+Base: 0.4706
+
+-North America-
+Amount in training: 75
+Amount in test: 13
+Score: 0.3077
+Base: 0.2308
+
+-Eurasia-
+Amount in training: 71
+Amount in test: 17
+Score: 0.4118
+Base: 0.4118
+
+-Africa-
+Amount in training: 71
+Amount in test: 17
+Score: 0.2941
+Base: 0.2941
+
+--121A Comparative Constructions--
+-Average-
+Score: 0.1084
+Base: 0.1247
+Count: 59
+
+-South America-
+Amount in training: 45
+Amount in test: 14
+Score: 0.0714
+Base: 0.1429
+
+-North America-
+Amount in training: 55
+Amount in test: 4
+Score: 0.2500
+Base: 0.2500
+
+-Eurasia-
+Amount in training: 44
+Amount in test: 15
+Score: 0.0667
+Base: 0.0000
+
+-Africa-
+Amount in training: 46
+Amount in test: 13
+Score: 0.1538
+Base: 0.0000
+
+-Papunesia-
+Amount in training: 46
+Amount in test: 13
+Score: 0.0000
+Base: 0.2308
+
+--105A Ditransitive Constructions: The Verb 'Give'--
+-Average-
+Score: 0.4018
+Base: 0.4470
+Count: 105
+
+-South America-
+Amount in training: 85
+Amount in test: 20
+Score: 0.3500
+Base: 0.4000
+
+-Australia-
+Amount in training: 102
+Amount in test: 3
+Score: 0.3333
+Base: 0.3333
+
+-Papunesia-
+Amount in training: 82
+Amount in test: 23
+Score: 0.4348
+Base: 0.4783
+
+-North America-
+Amount in training: 95
+Amount in test: 10
+Score: 0.5000
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 86
+Amount in test: 19
+Score: 0.5263
+Base: 0.7368
+
+-Africa-
+Amount in training: 75
+Amount in test: 30
+Score: 0.2667
+Base: 0.2333
+
+--99A Alignment of Case Marking of Pronouns--
+-Average-
+Score: 0.3254
+Base: 0.3773
+Count: 59
+
+-South America-
+Amount in training: 44
+Amount in test: 15
+Score: 0.4000
+Base: 0.4000
+
+-North America-
+Amount in training: 54
+Amount in test: 5
+Score: 0.4000
+Base: 0.6000
+
+-Eurasia-
+Amount in training: 46
+Amount in test: 13
+Score: 0.0769
+Base: 0.0769
+
+-Africa-
+Amount in training: 45
+Amount in test: 14
+Score: 0.5000
+Base: 0.6429
+
+-Papunesia-
+Amount in training: 47
+Amount in test: 12
+Score: 0.2500
+Base: 0.1667
+
+--116A Polar Questions--
+-Average-
+Score: 0.6507
+Base: 0.6507
+Count: 271
+
+-South America-
+Amount in training: 223
+Amount in test: 48
+Score: 0.4375
+Base: 0.4375
+
+-Australia-
+Amount in training: 268
+Amount in test: 3
+Score: 0.6667
+Base: 0.6667
+
+-Papunesia-
+Amount in training: 195
+Amount in test: 76
+Score: 0.6447
+Base: 0.6447
+
+-North America-
+Amount in training: 237
+Amount in test: 34
+Score: 0.7941
+Base: 0.7941
+
+-Eurasia-
+Amount in training: 225
+Amount in test: 46
+Score: 0.6739
+Base: 0.6739
+
+-Africa-
+Amount in training: 207
+Amount in test: 64
+Score: 0.6875
+Base: 0.6875
+
+--118A Predicative Adjectives--
+-Average-
+Score: 0.2632
+Base: 0.1947
+Count: 131
+
+-South America-
+Amount in training: 110
+Amount in test: 21
+Score: 0.3333
+Base: 0.4286
+
+-North America-
+Amount in training: 115
+Amount in test: 16
+Score: 0.2500
+Base: 0.0625
+
+-Eurasia-
+Amount in training: 101
+Amount in test: 30
+Score: 0.1333
+Base: 0.1667
+
+-Africa-
+Amount in training: 105
+Amount in test: 26
+Score: 0.2308
+Base: 0.0000
+
+-Papunesia-
+Amount in training: 93
+Amount in test: 38
+Score: 0.3684
+Base: 0.3158
+
+--119A Nominal and Locational Predication--
+-Average-
+Score: 0.5960
+Base: 0.6907
+Count: 131
+
+-South America-
+Amount in training: 110
+Amount in test: 21
+Score: 0.4762
+Base: 0.4762
+
+-North America-
+Amount in training: 115
+Amount in test: 16
+Score: 0.8750
+Base: 0.8750
+
+-Eurasia-
+Amount in training: 101
+Amount in test: 30
+Score: 0.4000
+Base: 0.4000
+
+-Africa-
+Amount in training: 105
+Amount in test: 26
+Score: 0.8077
+Base: 0.8077
+
+-Papunesia-
+Amount in training: 93
+Amount in test: 38
+Score: 0.4211
+Base: 0.8947
+
+--106A Reciprocal Constructions--
+-Average-
+Score: 0.4867
+Base: 0.4867
+Count: 57
+
+-South America-
+Amount in training: 36
+Amount in test: 21
+Score: 0.6667
+Base: 0.6667
+
+-North America-
+Amount in training: 51
+Amount in test: 6
+Score: 0.1667
+Base: 0.1667
+
+-Eurasia-
+Amount in training: 45
+Amount in test: 12
+Score: 0.5000
+Base: 0.5000
+
+-Africa-
+Amount in training: 47
+Amount in test: 10
+Score: 0.6000
+Base: 0.6000
+
+-Papunesia-
+Amount in training: 49
+Amount in test: 8
+Score: 0.5000
+Base: 0.5000
+
+--100A Alignment of Verbal Person Marking--
+-Average-
+Score: 0.4688
+Base: 0.4771
+Count: 121
+
+-South America-
+Amount in training: 96
+Amount in test: 25
+Score: 0.3200
+Base: 0.3200
+
+-Australia-
+Amount in training: 120
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in training: 88
+Amount in test: 33
+Score: 0.5758
+Base: 0.5758
+
+-North America-
+Amount in training: 104
+Amount in test: 17
+Score: 0.6471
+Base: 0.6471
+
+-Eurasia-
+Amount in training: 101
+Amount in test: 20
+Score: 0.7500
+Base: 0.8000
+
+-Africa-
+Amount in training: 96
+Amount in test: 25
+Score: 0.5200
+Base: 0.5200
+
+--112A Negative Morphemes--
+-Average-
+Score: 0.3345
+Base: 0.4677
+Count: 304
+
+-South America-
+Amount in training: 247
+Amount in test: 57
+Score: 0.1579
+Base: 0.2456
+
+-Australia-
+Amount in training: 301
+Amount in test: 3
+Score: 0.0000
+Base: 0.3333
+
+-Papunesia-
+Amount in training: 220
+Amount in test: 84
+Score: 0.3810
+Base: 0.5357
+
+-North America-
+Amount in training: 266
+Amount in test: 38
+Score: 0.5526
+Base: 0.7632
+
+-Eurasia-
+Amount in training: 259
+Amount in test: 45
+Score: 0.5778
+Base: 0.5778
+
+-Africa-
+Amount in training: 227
+Amount in test: 77
+Score: 0.3377
+Base: 0.3506
+
+--117A Predicative Possession--
+-Average-
+Score: 0.1692
+Base: 0.2897
+Count: 84
+
+-South America-
+Amount in training: 68
+Amount in test: 16
+Score: 0.1875
+Base: 0.3750
+
+-North America-
+Amount in training: 74
+Amount in test: 10
+Score: 0.3000
+Base: 0.6000
+
+-Eurasia-
+Amount in training: 63
+Amount in test: 21
+Score: 0.0952
+Base: 0.0000
+
+-Africa-
+Amount in training: 65
+Amount in test: 19
+Score: 0.2632
+Base: 0.4737
+
+-Papunesia-
+Amount in training: 66
+Amount in test: 18
+Score: 0.0000
+Base: 0.0000
+
+--103A Third Person Zero of Verbal Person Marking--
+-Average-
+Score: 0.4168
+Base: 0.4118
+Count: 121
+
+-South America-
+Amount in training: 96
+Amount in test: 25
+Score: 0.4000
+Base: 0.3600
+
+-Australia-
+Amount in training: 120
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in training: 88
+Amount in test: 33
+Score: 0.6970
+Base: 0.6970
+
+-North America-
+Amount in training: 104
+Amount in test: 17
+Score: 0.2941
+Base: 0.2941
+
+-Eurasia-
+Amount in training: 101
+Amount in test: 20
+Score: 0.7500
+Base: 0.8000
+
+-Africa-
+Amount in training: 96
+Amount in test: 25
+Score: 0.3600
+Base: 0.3200
+
+--102A Verbal Person Marking--
+-Average-
+Score: 0.4039
+Base: 0.3824
+Count: 121
+
+-South America-
+Amount in training: 96
+Amount in test: 25
+Score: 0.5600
+Base: 0.4800
+
+-Australia-
+Amount in training: 120
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in training: 88
+Amount in test: 33
+Score: 0.5152
+Base: 0.4848
+
+-North America-
+Amount in training: 104
+Amount in test: 17
+Score: 0.5882
+Base: 0.5294
+
+-Eurasia-
+Amount in training: 101
+Amount in test: 20
+Score: 0.4000
+Base: 0.4000
+
+-Africa-
+Amount in training: 96
+Amount in test: 25
+Score: 0.3600
+Base: 0.4000
+
+--110A Periphrastic Causative Constructions--
+-Average-
+Score: 0.5535
+Base: 0.6335
+Count: 43
+
+-South America-
+Amount in training: 38
+Amount in test: 5
+Score: 0.4000
+Base: 0.4000
+
+-Australia-
+Amount in training: 42
+Amount in test: 1
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 32
+Amount in test: 11
+Score: 0.4545
+Base: 0.5455
+
+-North America-
+Amount in training: 38
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+-Eurasia-
+Amount in training: 34
+Amount in test: 9
+Score: 0.3333
+Base: 0.5556
+
+-Africa-
+Amount in training: 31
+Amount in test: 12
+Score: 0.3333
+Base: 0.5000
+
+--108A Antipassive Constructions--
+-Average-
+Score: 0.8239
+Base: 0.8239
+Count: 63
+
+-South America-
+Amount in training: 49
+Amount in test: 14
+Score: 0.9286
+Base: 0.9286
+
+-North America-
+Amount in training: 58
+Amount in test: 5
+Score: 0.6000
+Base: 0.6000
+
+-Eurasia-
+Amount in training: 49
+Amount in test: 14
+Score: 0.7857
+Base: 0.7857
+
+-Africa-
+Amount in training: 50
+Amount in test: 13
+Score: 0.9231
+Base: 0.9231
+
+-Papunesia-
+Amount in training: 46
+Amount in test: 17
+Score: 0.8824
+Base: 0.8824
+
+--115A Negative Indefinite Pronouns and Predicate Negation--
+-Average-
+Score: 0.7220
+Base: 0.7220
+Count: 66
+
+-South America-
+Amount in training: 53
+Amount in test: 13
+Score: 0.8462
+Base: 0.8462
+
+-North America-
+Amount in training: 57
+Amount in test: 9
+Score: 0.4444
+Base: 0.4444
+
+-Eurasia-
+Amount in training: 41
+Amount in test: 25
+Score: 0.6400
+Base: 0.6400
+
+-Africa-
+Amount in training: 53
+Amount in test: 13
+Score: 0.8462
+Base: 0.8462
+
+-Papunesia-
+Amount in training: 60
+Amount in test: 6
+Score: 0.8333
+Base: 0.8333
+
+--104A Order of Person Markers on the Verb--
+-Average-
+Score: 0.6179
+Base: 0.6212
+Count: 120
+
+-South America-
+Amount in training: 96
+Amount in test: 24
+Score: 0.5417
+Base: 0.5417
+
+-Australia-
+Amount in training: 119
+Amount in test: 1
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 87
+Amount in test: 33
+Score: 0.4848
+Base: 0.5152
+
+-North America-
+Amount in training: 103
+Amount in test: 17
+Score: 0.4706
+Base: 0.4706
+
+-Eurasia-
+Amount in training: 100
+Amount in test: 20
+Score: 0.6500
+Base: 0.6000
+
+-Africa-
+Amount in training: 95
+Amount in test: 25
+Score: 0.5600
+Base: 0.6000
+
+--120A Zero Copula for Predicate Nominals--
+-Average-
+Score: 0.5777
+Base: 0.6326
+Count: 131
+
+-South America-
+Amount in training: 110
+Amount in test: 21
+Score: 0.3810
+Base: 0.3810
+
+-North America-
+Amount in training: 115
+Amount in test: 16
+Score: 0.8750
+Base: 0.9375
+
+-Eurasia-
+Amount in training: 101
+Amount in test: 30
+Score: 0.5333
+Base: 0.7333
+
+-Africa-
+Amount in training: 105
+Amount in test: 26
+Score: 0.7308
+Base: 0.7692
+
+-Papunesia-
+Amount in training: 93
+Amount in test: 38
+Score: 0.3684
+Base: 0.3421
+
+--107A Passive Constructions--
+-Average-
+Score: 0.5740
+Base: 0.5038
+Count: 118
+
+-South America-
+Amount in training: 94
+Amount in test: 24
+Score: 0.6667
+Base: 0.6250
+
+-Australia-
+Amount in training: 117
+Amount in test: 1
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 86
+Amount in test: 32
+Score: 0.3750
+Base: 0.1875
+
+-North America-
+Amount in training: 102
+Amount in test: 16
+Score: 0.5625
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 98
+Amount in test: 20
+Score: 0.2000
+Base: 0.1500
+
+-Africa-
+Amount in training: 93
+Amount in test: 25
+Score: 0.6400
+Base: 0.5600
+
+--114A Subtypes of Asymmetric Standard Negation--
+-Average-
+Score: 0.3625
+Base: 0.3839
+Count: 88
+
+-South America-
+Amount in training: 65
+Amount in test: 23
+Score: 0.4783
+Base: 0.4348
+
+-Australia-
+Amount in training: 87
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in training: 71
+Amount in test: 17
+Score: 0.5294
+Base: 0.4706
+
+-North America-
+Amount in training: 75
+Amount in test: 13
+Score: 0.4615
+Base: 0.6923
+
+-Eurasia-
+Amount in training: 71
+Amount in test: 17
+Score: 0.4118
+Base: 0.4118
+
+-Africa-
+Amount in training: 71
+Amount in test: 17
+Score: 0.2941
+Base: 0.2941
+
+--108B Productivity of the Antipassive Construction--
+-Average-
+Score: 0.8803
+Base: 0.8803
+Count: 60
+
+-South America-
+Amount in training: 47
+Amount in test: 13
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 56
+Amount in test: 4
+Score: 0.7500
+Base: 0.7500
+
+-Eurasia-
+Amount in training: 47
+Amount in test: 13
+Score: 0.8462
+Base: 0.8462
+
+-Africa-
+Amount in training: 47
+Amount in test: 13
+Score: 0.9231
+Base: 0.9231
+
+-Papunesia-
+Amount in training: 43
+Amount in test: 17
+Score: 0.8824
+Base: 0.8824
+
+--109A Applicative Constructions--
+-Average-
+Score: 0.4514
+Base: 0.5476
+Count: 61
+
+-South America-
+Amount in training: 46
+Amount in test: 15
+Score: 0.4000
+Base: 0.6667
+
+-North America-
+Amount in training: 57
+Amount in test: 4
+Score: 0.5000
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 47
+Amount in test: 14
+Score: 0.7143
+Base: 0.8571
+
+-Africa-
+Amount in training: 47
+Amount in test: 14
+Score: 0.4286
+Base: 0.4286
+
+-Papunesia-
+Amount in training: 47
+Amount in test: 14
+Score: 0.2143
+Base: 0.2857
+
+--109B Other Roles of Applied Objects--
+-Average-
+Score: 0.5343
+Base: 0.5476
+Count: 61
+
+-South America-
+Amount in training: 46
+Amount in test: 15
+Score: 0.6000
+Base: 0.6667
+
+-North America-
+Amount in training: 57
+Amount in test: 4
+Score: 0.5000
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 47
+Amount in test: 14
+Score: 0.8571
+Base: 0.8571
+
+-Africa-
+Amount in training: 47
+Amount in test: 14
+Score: 0.4286
+Base: 0.4286
+
+-Papunesia-
+Amount in training: 47
+Amount in test: 14
+Score: 0.2857
+Base: 0.2857
+
+--98A Alignment of Case Marking of Full Noun Phrases--
+-Average-
+Score: 0.5214
+Base: 0.5481
+Count: 63
+
+-South America-
+Amount in training: 48
+Amount in test: 15
+Score: 0.4000
+Base: 0.4000
+
+-North America-
+Amount in training: 57
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
+
+-Eurasia-
+Amount in training: 50
+Amount in test: 13
+Score: 0.2308
+Base: 0.2308
+
+-Africa-
+Amount in training: 49
+Amount in test: 14
+Score: 0.6429
+Base: 0.6429
+
+-Papunesia-
+Amount in training: 48
+Amount in test: 15
+Score: 0.6667
+Base: 0.8000
+
+--111A Nonperiphrastic Causative Constructions--
+-Average-
+Score: 0.8774
+Base: 0.8774
+Count: 94
+
+-South America-
+Amount in training: 74
+Amount in test: 20
+Score: 0.9000
+Base: 0.9000
+
+-Australia-
+Amount in training: 92
+Amount in test: 2
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 65
+Amount in test: 29
+Score: 0.9310
+Base: 0.9310
+
+-North America-
+Amount in training: 86
+Amount in test: 8
+Score: 0.7500
+Base: 0.7500
+
+-Eurasia-
+Amount in training: 79
+Amount in test: 15
+Score: 0.7333
+Base: 0.7333
+
+-Africa-
+Amount in training: 74
+Amount in test: 20
+Score: 0.9500
+Base: 0.9500
+

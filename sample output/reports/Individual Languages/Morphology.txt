@@ -1,0 +1,1954 @@
+--Total average--
+Score: 0.5825
+Base: 0.5494
+Count: 960
+
+--Area average--
+-South America-
+Score: 0.5715
+Base: 0.5709
+Count: 206
+
+-Africa-
+Score: 0.5784
+Base: 0.5643
+Count: 163
+
+-Australia-
+Score: 0.7389
+Base: 0.5722
+Count: 15
+
+-North America-
+Score: 0.5704
+Base: 0.5845
+Count: 113
+
+-Eurasia-
+Score: 0.5160
+Base: 0.4408
+Count: 193
+
+-Papunesia-
+Score: 0.5201
+Base: 0.5634
+Count: 270
+
+--20A Fusion of Selected Inflectional Formatives--
+-Average-
+Score: 0.8117
+Base: 0.8117
+Count: 48
+
+-South America-
+Amount in test: 12
+Score: 0.9167
+Base: 0.9167
+
+-North America-
+Amount in test: 6
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in test: 12
+Score: 0.9167
+Base: 0.9167
+
+-Papunesia-
+Amount in test: 10
+Score: 0.6000
+Base: 0.6000
+
+-Africa-
+Amount in test: 8
+Score: 0.6250
+Base: 0.6250
+
+--27A Reduplication--
+-Average-
+Score: 0.6502
+Base: 0.6415
+Count: 111
+
+-South America-
+Amount in test: 16
+Score: 0.5000
+Base: 0.5000
+
+-Africa-
+Amount in test: 21
+Score: 0.7619
+Base: 0.7619
+
+-Australia-
+Amount in test: 5
+Score: 0.6000
+Base: 0.6000
+
+-North America-
+Amount in test: 12
+Score: 0.7500
+Base: 0.7500
+
+-Eurasia-
+Amount in test: 19
+Score: 0.3684
+Base: 0.3158
+
+-Papunesia-
+Amount in test: 38
+Score: 0.9211
+Base: 0.9211
+
+--24A Locus of Marking in Possessive Noun Phrases--
+-Average-
+Score: 0.3869
+Base: 0.2149
+Count: 67
+
+-South America-
+Amount in test: 16
+Score: 0.1250
+Base: 0.2500
+
+-Australia-
+Amount in test: 1
+Score: 1.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in test: 20
+Score: 0.2500
+Base: 0.2000
+
+-North America-
+Amount in test: 8
+Score: 0.1250
+Base: 0.3750
+
+-Eurasia-
+Amount in test: 14
+Score: 0.5714
+Base: 0.2143
+
+-Africa-
+Amount in test: 8
+Score: 0.2500
+Base: 0.2500
+
+--21A Exponence of Selected Inflectional Formatives--
+-Average-
+Score: 0.5239
+Base: 0.5408
+Count: 47
+
+-South America-
+Amount in test: 11
+Score: 0.6364
+Base: 0.5455
+
+-North America-
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
+
+-Eurasia-
+Amount in test: 12
+Score: 0.4167
+Base: 0.1667
+
+-Papunesia-
+Amount in test: 10
+Score: 0.4000
+Base: 0.7000
+
+-Africa-
+Amount in test: 8
+Score: 0.5000
+Base: 0.6250
+
+--28A Case Syncretism--
+-Average-
+Score: 0.6471
+Base: 0.6471
+Count: 64
+
+-South America-
+Amount in test: 16
+Score: 0.7500
+Base: 0.7500
+
+-North America-
+Amount in test: 6
+Score: 0.8333
+Base: 0.8333
+
+-Eurasia-
+Amount in test: 13
+Score: 0.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in test: 15
+Score: 0.8667
+Base: 0.8667
+
+-Africa-
+Amount in test: 14
+Score: 0.7857
+Base: 0.7857
+
+--23A Locus of Marking in the Clause--
+-Average-
+Score: 0.2399
+Base: 0.2536
+Count: 67
+
+-South America-
+Amount in test: 16
+Score: 0.5000
+Base: 0.2500
+
+-Australia-
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in test: 20
+Score: 0.3500
+Base: 0.4500
+
+-North America-
+Amount in test: 8
+Score: 0.0000
+Base: 0.3750
+
+-Eurasia-
+Amount in test: 14
+Score: 0.2143
+Base: 0.0714
+
+-Africa-
+Amount in test: 8
+Score: 0.3750
+Base: 0.3750
+
+--21B Exponence of Tense-Aspect-Mood Inflection--
+-Average-
+Score: 0.7552
+Base: 0.7552
+Count: 47
+
+-South America-
+Amount in test: 11
+Score: 0.9091
+Base: 0.9091
+
+-North America-
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
+
+-Eurasia-
+Amount in test: 12
+Score: 0.7500
+Base: 0.7500
+
+-Africa-
+Amount in test: 8
+Score: 0.7500
+Base: 0.7500
+
+-Papunesia-
+Amount in test: 10
+Score: 0.7000
+Base: 0.7000
+
+--26A Prefixing vs. Suffixing in Inflectional Morphology--
+-Average-
+Score: 0.5013
+Base: 0.4948
+Count: 267
+
+-South America-
+Amount in test: 48
+Score: 0.5000
+Base: 0.5833
+
+-Australia-
+Amount in test: 6
+Score: 0.8333
+Base: 0.8333
+
+-Papunesia-
+Amount in test: 83
+Score: 0.3976
+Base: 0.4337
+
+-North America-
+Amount in test: 36
+Score: 0.2778
+Base: 0.2222
+
+-Eurasia-
+Amount in test: 44
+Score: 0.6591
+Base: 0.6364
+
+-Africa-
+Amount in test: 50
+Score: 0.3400
+Base: 0.2600
+
+--29A Syncretism in Verbal Person/Number Marking--
+-Average-
+Score: 0.2664
+Base: 0.1798
+Count: 63
+
+-South America-
+Amount in test: 16
+Score: 0.0625
+Base: 0.1875
+
+-North America-
+Amount in test: 5
+Score: 0.4000
+Base: 0.0000
+
+-Eurasia-
+Amount in test: 13
+Score: 0.3077
+Base: 0.2308
+
+-Papunesia-
+Amount in test: 15
+Score: 0.1333
+Base: 0.2667
+
+-Africa-
+Amount in test: 14
+Score: 0.4286
+Base: 0.2143
+
+--25A Locus of Marking: Whole-language Typology--
+-Average-
+Score: 0.6577
+Base: 0.6577
+Count: 67
+
+-South America-
+Amount in test: 16
+Score: 0.6250
+Base: 0.6250
+
+-Australia-
+Amount in test: 1
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in test: 20
+Score: 0.5000
+Base: 0.5000
+
+-North America-
+Amount in test: 8
+Score: 0.3750
+Base: 0.3750
+
+-Eurasia-
+Amount in test: 14
+Score: 0.5714
+Base: 0.5714
+
+-Africa-
+Amount in test: 8
+Score: 0.8750
+Base: 0.8750
+
+--25B Zero Marking of A and P Arguments--
+-Average-
+Score: 0.9625
+Base: 0.9625
+Count: 67
+
+-South America-
+Amount in test: 16
+Score: 1.0000
+Base: 1.0000
+
+-Australia-
+Amount in test: 1
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in test: 20
+Score: 0.9000
+Base: 0.9000
+
+-North America-
+Amount in test: 8
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in test: 14
+Score: 1.0000
+Base: 1.0000
+
+-Africa-
+Amount in test: 8
+Score: 0.8750
+Base: 0.8750
+
+--22A Inflectional Synthesis of the Verb--
+-Average-
+Score: 0.4194
+Base: 0.4194
+Count: 45
+
+-South America-
+Amount in test: 12
+Score: 0.3333
+Base: 0.3333
+
+-North America-
+Amount in test: 4
+Score: 0.7500
+Base: 0.7500
+
+-Eurasia-
+Amount in test: 12
+Score: 0.4167
+Base: 0.4167
+
+-Africa-
+Amount in test: 8
+Score: 0.3750
+Base: 0.3750
+
+-Papunesia-
+Amount in test: 9
+Score: 0.2222
+Base: 0.2222
+
+--Individual Languages--
+-bcl-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-nld-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-ntp-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-kng-
+Score: 1.0000
+Base: 0.3333
+Count: 3
+
+-ljp-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-snc-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ban-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-laj-
+Score: 0.4167
+Base: 0.3333
+Count: 12
+
+-nbl-
+Score: 1.0000
+Base: 0.5000
+Count: 2
+
+-mig-
+Score: 0.7273
+Base: 0.6364
+Count: 11
+
+-dan-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-bmr-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-apn-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-yor-
+Score: 0.3333
+Base: 0.4167
+Count: 12
+
+-mri-
+Score: 0.4545
+Base: 0.3636
+Count: 11
+
+-bzd-
+Score: 0.5714
+Base: 0.5714
+Count: 7
+
+-irk-
+Score: 0.6667
+Base: 0.6667
+Count: 3
+
+-ibo-
+Score: 1.0000
+Base: 0.6667
+Count: 3
+
+-mhi-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-cap-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-ita-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-njm-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-min-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-emp-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-tna-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-tih-
+Score: 1.0000
+Base: 0.5000
+Count: 2
+
+-ifb-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-sun-
+Score: 1.0000
+Base: 0.5000
+Count: 2
+
+-kjs-
+Score: 0.5455
+Base: 0.3636
+Count: 11
+
+-snp-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-naf-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-dgz-
+Score: 0.5833
+Base: 0.6667
+Count: 12
+
+-kup-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-mad-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-viv-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-auc-
+Score: 0.6000
+Base: 0.6000
+Count: 5
+
+-mbc-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-ape-
+Score: 0.7500
+Base: 0.8333
+Count: 12
+
+-gnn-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-nob-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-ctd-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-kik-
+Score: 1.0000
+Base: 0.5000
+Count: 2
+
+-byr-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-btx-
+Score: 0.3333
+Base: 0.6667
+Count: 3
+
+-ong-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-spp-
+Score: 0.2727
+Base: 0.3636
+Count: 11
+
+-jiv-
+Score: 0.6000
+Base: 0.4000
+Count: 5
+
+-zul-
+Score: 0.7500
+Base: 0.7500
+Count: 12
+
+-mej-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-iba-
+Score: 1.0000
+Base: 0.0000
+Count: 1
+
+-ood-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-mna-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-sua-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-tzo-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-sna-
+Score: 1.0000
+Base: 0.0000
+Count: 1
+
+-huu-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-fra-
+Score: 0.7500
+Base: 0.5833
+Count: 12
+
+-kpx-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-chk-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-nak-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-huv-
+Score: 0.4000
+Base: 0.6000
+Count: 10
+
+-chq-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-yss-
+Score: 0.2500
+Base: 0.5000
+Count: 4
+
+-gle-
+Score: 0.2500
+Base: 0.2500
+Count: 4
+
+-mzh-
+Score: 0.5000
+Base: 0.5000
+Count: 12
+
+-bum-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-nko-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-tlf-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-mau-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-gde-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-awb-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-aoj-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-nhg-
+Score: 0.6667
+Base: 0.3333
+Count: 3
+
+-tuo-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-nvm-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-mzm-
+Score: 1.0000
+Base: 0.0000
+Count: 1
+
+-fij-
+Score: 0.3333
+Base: 0.4167
+Count: 12
+
+-aly-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-pol-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-agt-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-chf-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-kue-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-zpq-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-wal-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-tbg-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-xsu-
+Score: 0.6364
+Base: 0.6364
+Count: 11
+
+-gya-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-cym-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-yli-
+Score: 0.5000
+Base: 0.5000
+Count: 4
+
+-swh-
+Score: 0.7500
+Base: 0.8333
+Count: 12
+
+-agd-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-snn-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-sue-
+Score: 0.5714
+Base: 0.7143
+Count: 7
+
+-pam-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-nab-
+Score: 0.5556
+Base: 0.6667
+Count: 9
+
+-emi-
+Score: 1.0000
+Base: 0.0000
+Count: 1
+
+-for-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-noa-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-mio-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-tac-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-pad-
+Score: 0.5000
+Base: 0.5000
+Count: 8
+
+-chd-
+Score: 0.4286
+Base: 0.8571
+Count: 7
+
+-mbb-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ndo-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-nyn-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-gil-
+Score: 0.5000
+Base: 0.5000
+Count: 4
+
+-cle-
+Score: 0.2500
+Base: 0.2500
+Count: 4
+
+-lit-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-bvr-
+Score: 0.0000
+Base: 0.0000
+Count: 2
+
+-bsn-
+Score: 0.7500
+Base: 0.5833
+Count: 12
+
+-spa-
+Score: 0.5000
+Base: 0.4167
+Count: 12
+
+-cnh-
+Score: 0.5556
+Base: 0.3333
+Count: 9
+
+-are-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-hun-
+Score: 0.5833
+Base: 0.5833
+Count: 12
+
+-amp-
+Score: 0.5833
+Base: 0.7500
+Count: 12
+
+-ssd-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-bis-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-mie-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ace-
+Score: 0.4000
+Base: 0.4000
+Count: 5
+
+-kmo-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-meu-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-run-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-sur-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-tzj-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-cat-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-miq-
+Score: 0.4000
+Base: 0.8000
+Count: 5
+
+-chr-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-agg-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-gug-
+Score: 0.5455
+Base: 0.6364
+Count: 11
+
+-hla-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-ind-
+Score: 0.2500
+Base: 0.4167
+Count: 12
+
+-sag-
+Score: 0.5455
+Base: 0.4545
+Count: 11
+
+-tca-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-zaw-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-tsz-
+Score: 0.7500
+Base: 0.5000
+Count: 8
+
+-ilo-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-bim-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-kyc-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-qvi-
+Score: 0.4167
+Base: 0.3333
+Count: 12
+
+-mva-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-tur-
+Score: 0.5000
+Base: 0.5000
+Count: 12
+
+-yaq-
+Score: 0.5000
+Base: 0.5000
+Count: 12
+
+-kal-
+Score: 0.5000
+Base: 0.4167
+Count: 12
+
+-aom-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-war-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-cbt-
+Score: 0.7500
+Base: 0.5000
+Count: 4
+
+-azb-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-ign-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-djr-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-nas-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-wol-
+Score: 0.0000
+Base: 0.0000
+Count: 2
+
+-mhx-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-toj-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-cbr-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-tbc-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-fub-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-pag-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-gla-
+Score: 0.0000
+Base: 0.0000
+Count: 2
+
+-gvf-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-cme-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-mil-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ctu-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-haw-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-tob-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-amk-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ote-
+Score: 0.4000
+Base: 0.5000
+Count: 10
+
+-ncl-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-kaa-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-hae-
+Score: 0.5000
+Base: 0.5833
+Count: 12
+
+-eus-
+Score: 0.6667
+Base: 0.5000
+Count: 12
+
+-dyo-
+Score: 0.6667
+Base: 0.3333
+Count: 3
+
+-cbi-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-sot-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-nhu-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-plt-
+Score: 0.6667
+Base: 0.6667
+Count: 12
+
+-dip-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-apu-
+Score: 0.4167
+Base: 0.5000
+Count: 12
+
+-quy-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-arn-
+Score: 0.5455
+Base: 0.5455
+Count: 11
+
+-bre-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ura-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-hin-
+Score: 0.5833
+Base: 0.5000
+Count: 12
+
+-sll-
+Score: 0.6000
+Base: 0.6000
+Count: 5
+
+-kto-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-too-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-xsi-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-apy-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-wnu-
+Score: 0.5000
+Base: 0.5000
+Count: 6
+
+-cpc-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-cbk-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-shk-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-jbu-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-sba-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-spl-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-nia-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-yrb-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-sme-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-bam-
+Score: 0.6667
+Base: 0.6667
+Count: 3
+
+-mak-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-kpw-
+Score: 0.5714
+Base: 0.5714
+Count: 7
+
+-qvh-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-amn-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-des-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-srq-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-kdj-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ssw-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-bex-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-mpt-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-swe-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-bgr-
+Score: 0.0000
+Base: 0.0000
+Count: 3
+
+-pbb-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-aey-
+Score: 0.6667
+Base: 0.8333
+Count: 12
+
+-kkl-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-alp-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-cbc-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-mal-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-okv-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-mqy-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-khk-
+Score: 0.5833
+Base: 0.4167
+Count: 12
+
+-plg-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-bmu-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-shp-
+Score: 0.5556
+Base: 0.5556
+Count: 9
+
+-trc-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-kms-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-est-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-men-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-tfr-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-ksd-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-teo-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-slv-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-faa-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-nhe-
+Score: 1.0000
+Base: 0.0000
+Count: 1
+
+-bbc-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ces-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-dow-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-tpt-
+Score: 1.0000
+Base: 0.0000
+Count: 1
+
+-bvz-
+Score: 0.2500
+Base: 0.2500
+Count: 4
+
+-abt-
+Score: 0.2500
+Base: 0.2500
+Count: 4
+
+-myb-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-tsn-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ium-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ese-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-hto-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-yad-
+Score: 0.4167
+Base: 0.6667
+Count: 12
+
+-mos-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-kwi-
+Score: 0.6667
+Base: 0.5833
+Count: 12
+
+-lus-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-yua-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-sja-
+Score: 0.6667
+Base: 0.5833
+Count: 12
+
+-luo-
+Score: 0.0000
+Base: 0.0000
+Count: 2
+
+-apw-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-xav-
+Score: 0.0000
+Base: 0.0000
+Count: 2
+
+-tee-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-zai-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-gvn-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-mur-
+Score: 0.3333
+Base: 0.0000
+Count: 3
+
+-wed-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ron-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-xho-
+Score: 1.0000
+Base: 0.5000
+Count: 2
+
+-tlb-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-cha-
+Score: 0.4167
+Base: 0.4167
+Count: 12
+
+-por-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-djk-
+Score: 0.5000
+Base: 0.5000
+Count: 4
+
+-som-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-ahk-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-cko-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-poi-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-wsk-
+Score: 0.8333
+Base: 0.8333
+Count: 6
+
+-mnb-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-isl-
+Score: 0.8000
+Base: 0.6000
+Count: 5
+
+-hch-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-wbp-
+Score: 0.8333
+Base: 0.6667
+Count: 6
+
+-gah-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-nus-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-kao-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-acu-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-car-
+Score: 0.2500
+Base: 0.5000
+Count: 4
+
+-eng-
+Score: 0.5000
+Base: 0.5833
+Count: 12
+
+-uig-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-aia-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-pib-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-smo-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-aln-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-fin-
+Score: 0.4167
+Base: 0.4167
+Count: 12
+
+-jae-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-kac-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-mxt-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-tbl-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-guc-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-usa-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-adj-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-kyq-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-lac-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-csy-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-hus-
+Score: 1.0000
+Base: 0.5000
+Count: 2
+
+-urb-
+Score: 0.3333
+Base: 0.6667
+Count: 3
+
+-deu-
+Score: 0.5000
+Base: 0.3333
+Count: 12
+
+-avt-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-tgl-
+Score: 0.5000
+Base: 0.5000
+Count: 12
+
+-moc-
+Score: 1.0000
+Base: 0.0000
+Count: 1
+
+-ann-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-hil-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-tbo-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
