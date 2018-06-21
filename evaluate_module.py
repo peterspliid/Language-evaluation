@@ -1,4 +1,4 @@
-from sklearn import neighbors
+from sklearn import neighbors, svm, neural_network
 import numpy as np
 import random
 import csv
@@ -182,6 +182,21 @@ def calculate_averages(results):
 
     return averages
 
+def is_evaluatable(classifier, labels_training, labels_test):
+    '''
+    Checks if the requirements are met for the classifer to train and test
+    '''
+    if type(classifier) == neighbors.classification.KNeighborsClassifier and \
+        len(labels_training) > classifier.get_params()['n_neighbors'] and labels_test:
+        return True
+    elif type(classifier) == svm.classes.SVC and len(set(labels_training)) > 1 and labels_test:
+        return True
+    elif type(classifier) == neural_network.multilayer_perceptron.MLPClassifier and labels_test and labels_training:
+        return True
+    else:
+        return False
+
+
 def evaluate(languages, headers, embeddings, included_features, classifier):
     all_features = included_features == 'all'
 
@@ -247,10 +262,7 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
             labels_test = area_labels[area]
             emb_test = area_embeddings[area]
 
-            # We skip if the training set is smaller than k
-            if (not (type(classifier) == neighbors.classification.KNeighborsClassifier and
-                    len(labels_training) < classifier.get_params()['n_neighbors']) and
-                labels_test and labels_test and emb_training and labels_training):
+            if is_evaluatable(classifier, labels_training, labels_test):
                 across_areas[fa][feature][area] = {}
                 model = classifier.fit(emb_training, labels_training)
                 score = model.score(emb_test, labels_test)
@@ -270,10 +282,7 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
             labels_test = area_labels[area][amount_in_training:]
             emb_test = area_embeddings[area][amount_in_training:]
 
-            # We skip if the training set is smaller than k
-            if ((type(classifier) == neighbors.classification.KNeighborsClassifier and
-                    amount_in_training < classifier.get_params()['n_neighbors']) or
-                not labels_test or not labels_training or not emb_training or not labels_training):
+            if not is_evaluatable(classifier, labels_training, labels_test):
                 continue
             within_areas[fa][feature][area] = {}
             model = classifier.fit(emb_training, labels_training)
@@ -314,12 +323,7 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
             labels_test = [int(language_lookup[lang][1].split()[0]) for lang in testing_languages]
             emb_test = [embeddings[lang] for lang in testing_languages]
 
-            # We skip if the training set is smaller than k
-            if not (type(classifier) == neighbors.classification.KNeighborsClassifier and
-                    len(labels_training) < classifier.get_params()['n_neighbors']):
-
-                if not (emb_test and emb_training):
-                    continue
+            if is_evaluatable(classifier, labels_training, labels_test):
                 model = classifier.fit(emb_training, labels_training)
 
                 predictions = model.predict(emb_test)

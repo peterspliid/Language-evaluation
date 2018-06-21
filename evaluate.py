@@ -1,4 +1,4 @@
-from sklearn import neighbors
+from sklearn import neighbors, svm
 import argparse
 import pickle
 import csv
@@ -38,13 +38,13 @@ def run_evaluation(embeddings, report = False, graphs = False, knn_k = 10,
                                               selected_features)
     if classifier == 'knn':
         classifier = neighbors.KNeighborsClassifier(knn_k)
-    elif classifier == 'nn':
+    elif classifier == 'mlp':
         from sklearn.neural_network import MLPClassifier
         # ‘lbfgs’ is an optimizer in the family of quasi-Newton methods, which
         # should work well with 'smaller' datasets
         classifier = MLPClassifier(solver='lbfgs')
     else:
-        classifier = neighbors.KNeighborsClassifier(knn_k)
+        classifier = svm.SVC()
 
     print("Evaluating embeddings")
     results = evaluate(languages, headers, embeddings, included_features, classifier)

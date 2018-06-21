@@ -311,7 +311,7 @@ def single_map(languages, lang_coords, title, location):
         x, y = lang_coords[lang_name]
         scatter = ax.scatter(x, y, c=scores[lang_name], cmap='RdYlGn',
                              marker='o', gid=lang_name, norm=normalize,
-                             transform=ccrs.PlateCarree())
+                             transform=ccrs.PlateCarree(), edgecolors='#606060')
 
     # Vertical color bar
     cbar = fig.colorbar(scatter, fraction=0.015)
