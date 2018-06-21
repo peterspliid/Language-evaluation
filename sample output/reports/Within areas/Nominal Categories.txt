@@ -4,15 +4,10 @@ Base: 0.5188
 Count: 345
 
 --Area average--
--South America-
-Score: 0.6231
-Base: 0.6231
-Count: 57
-
--North America-
-Score: 0.4771
-Base: 0.4771
-Count: 30
+-Papunesia-
+Score: 0.4562
+Base: 0.4465
+Count: 99
 
 -Eurasia-
 Score: 0.6057
@@ -24,96 +19,17 @@ Score: 0.4969
 Base: 0.4880
 Count: 62
 
--Papunesia-
-Score: 0.4562
-Base: 0.4465
-Count: 99
-
---32A Systems of Gender Assignment--
-Not enough languages
-
---43A Third Person Pronouns and Demonstratives--
-Not enough languages
-
---37A Definite Articles--
--Average-
-Score: 0.4328
-Base: 0.3878
-Count: 38
-
 -South America-
-Amount in training: 22
-Amount in test: 6
-Score: 0.6667
-Base: 0.6667
+Score: 0.6231
+Base: 0.6231
+Count: 57
 
 -North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.6000
-Base: 0.6000
-
--Eurasia-
-Amount in training: 30
-Amount in test: 8
-Score: 0.3750
-Base: 0.2500
-
--Africa-
-Amount in training: 37
-Amount in test: 9
-Score: 0.2222
-Base: 0.2222
-
--Papunesia-
-Amount in training: 42
-Amount in test: 10
-Score: 0.3000
-Base: 0.2000
+Score: 0.4771
+Base: 0.4771
+Count: 30
 
 --42A Pronominal and Adnominal Demonstratives--
-Not enough languages
-
---36A The Associative Plural--
--Average-
-Score: 0.4000
-Base: 0.4000
-Count: 5
-
--Eurasia-
-Amount in training: 19
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
---39B Inclusive/Exclusive Forms in Pama-Nyungan--
-Not enough languages
-
---48A Person Marking on Adpositions--
--Average-
-Score: 0.5143
-Base: 0.5143
-Count: 17
-
--South America-
-Amount in training: 21
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
--Africa-
-Amount in training: 20
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
--Papunesia-
-Amount in training: 26
-Amount in test: 7
-Score: 0.1429
-Base: 0.1429
-
---56A Conjunctions and Universal Quantifiers--
 Not enough languages
 
 --45A Politeness Distinctions in Pronouns--
@@ -128,23 +44,92 @@ Amount in test: 6
 Score: 0.8333
 Base: 0.8333
 
+--48A Person Marking on Adpositions--
+-Average-
+Score: 0.5143
+Base: 0.5143
+Count: 17
+
+-Papunesia-
+Amount in training: 26
+Amount in test: 7
+Score: 0.1429
+Base: 0.1429
+
+-South America-
+Amount in training: 21
+Amount in test: 5
+Score: 0.4000
+Base: 0.4000
+
+-Africa-
+Amount in training: 20
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+--50A Asymmetrical Case-Marking--
+-Average-
+Score: 0.6000
+Base: 0.6000
+Count: 5
+
+-Eurasia-
+Amount in training: 22
+Amount in test: 5
+Score: 0.6000
+Base: 0.6000
+
+--56A Conjunctions and Universal Quantifiers--
+Not enough languages
+
+--37A Definite Articles--
+-Average-
+Score: 0.4328
+Base: 0.3878
+Count: 38
+
+-Papunesia-
+Amount in training: 42
+Amount in test: 10
+Score: 0.3000
+Base: 0.2000
+
+-Eurasia-
+Amount in training: 30
+Amount in test: 8
+Score: 0.3750
+Base: 0.2500
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.6000
+Base: 0.6000
+
+-Africa-
+Amount in training: 37
+Amount in test: 9
+Score: 0.2222
+Base: 0.2222
+
+-South America-
+Amount in training: 22
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
+
 --33A Coding of Nominal Plurality--
 -Average-
 Score: 0.5815
 Base: 0.5422
 Count: 57
 
--South America-
-Amount in training: 43
-Amount in test: 11
-Score: 0.8182
-Base: 0.8182
-
--North America-
-Amount in training: 30
-Amount in test: 7
-Score: 0.2857
-Base: 0.2857
+-Papunesia-
+Amount in training: 63
+Amount in test: 16
+Score: 0.3750
+Base: 0.2500
 
 -Eurasia-
 Amount in training: 35
@@ -152,17 +137,26 @@ Amount in test: 9
 Score: 1.0000
 Base: 1.0000
 
+-North America-
+Amount in training: 30
+Amount in test: 7
+Score: 0.2857
+Base: 0.2857
+
 -Africa-
 Amount in training: 55
 Amount in test: 14
 Score: 0.4286
 Base: 0.3571
 
--Papunesia-
-Amount in training: 63
-Amount in test: 16
-Score: 0.3750
-Base: 0.2500
+-South America-
+Amount in training: 43
+Amount in test: 11
+Score: 0.8182
+Base: 0.8182
+
+--40A Inclusive/Exclusive Distinction in Verbal Inflection--
+Not enough languages
 
 --53A Ordinal Numerals--
 -Average-
@@ -182,9 +176,6 @@ Amount in test: 4
 Score: 0.7500
 Base: 0.7500
 
---30A Number of Genders--
-Not enough languages
-
 --52A Comitatives and Instrumentals--
 -Average-
 Score: 0.8000
@@ -197,194 +188,14 @@ Amount in test: 5
 Score: 0.8000
 Base: 0.8000
 
---55A Numeral Classifiers--
--Average-
-Score: 0.4857
-Base: 0.7000
-Count: 12
-
--South America-
-Amount in training: 21
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
--Papunesia-
-Amount in training: 27
-Amount in test: 7
-Score: 0.5714
-Base: 1.0000
-
---40A Inclusive/Exclusive Distinction in Verbal Inflection--
+--31A Sex-based and Non-sex-based Gender Systems--
 Not enough languages
 
 --39A Inclusive/Exclusive Distinction in Independent Pronouns--
 Not enough languages
 
---57A Position of Pronominal Possessive Affixes--
--Average-
-Score: 0.5307
-Base: 0.5307
-Count: 50
-
--South America-
-Amount in training: 39
-Amount in test: 10
-Score: 0.7000
-Base: 0.7000
-
--North America-
-Amount in training: 30
-Amount in test: 8
-Score: 0.5000
-Base: 0.5000
-
--Eurasia-
-Amount in training: 26
-Amount in test: 7
-Score: 0.5714
-Base: 0.5714
-
--Africa-
-Amount in training: 35
-Amount in test: 9
-Score: 0.4444
-Base: 0.4444
-
--Papunesia-
-Amount in training: 66
-Amount in test: 16
-Score: 0.4375
-Base: 0.4375
-
---51A Position of Case Affixes--
--Average-
-Score: 0.4741
-Base: 0.4741
-Count: 51
-
--South America-
-Amount in training: 42
-Amount in test: 10
-Score: 0.4000
-Base: 0.4000
-
--North America-
-Amount in training: 25
-Amount in test: 6
-Score: 0.5000
-Base: 0.5000
-
--Eurasia-
-Amount in training: 34
-Amount in test: 9
-Score: 0.5556
-Base: 0.5556
-
--Africa-
-Amount in training: 38
-Amount in test: 9
-Score: 0.4444
-Base: 0.4444
-
--Papunesia-
-Amount in training: 66
-Amount in test: 17
-Score: 0.4706
-Base: 0.4706
-
---44A Gender Distinctions in Independent Personal Pronouns--
--Average-
-Score: 0.6381
-Base: 0.6381
-Count: 17
-
--South America-
-Amount in training: 20
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
-
--Africa-
-Amount in training: 19
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
--Papunesia-
-Amount in training: 26
-Amount in test: 7
-Score: 0.7143
-Base: 0.7143
-
---31A Sex-based and Non-sex-based Gender Systems--
+--43A Third Person Pronouns and Demonstratives--
 Not enough languages
-
---38A Indefinite Articles--
--Average-
-Score: 0.5621
-Base: 0.4271
-Count: 34
-
--South America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
-
--North America-
-Amount in training: 18
-Amount in test: 4
-Score: 0.5000
-Base: 0.5000
-
--Eurasia-
-Amount in training: 33
-Amount in test: 8
-Score: 0.6250
-Base: 0.2500
-
--Africa-
-Amount in training: 30
-Amount in test: 7
-Score: 0.2857
-Base: 0.2857
-
--Papunesia-
-Amount in training: 38
-Amount in test: 10
-Score: 0.6000
-Base: 0.3000
-
---54A Distributive Numerals--
--Average-
-Score: 0.1833
-Base: 0.1833
-Count: 11
-
--Eurasia-
-Amount in training: 24
-Amount in test: 6
-Score: 0.1667
-Base: 0.1667
-
--Papunesia-
-Amount in training: 20
-Amount in test: 5
-Score: 0.2000
-Base: 0.2000
-
---35A Plurality in Independent Personal Pronouns--
--Average-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--Papunesia-
-Amount in training: 18
-Amount in test: 4
-Score: 0.7500
-Base: 0.7500
 
 --49A Number of Cases--
 -Average-
@@ -398,32 +209,80 @@ Amount in test: 5
 Score: 0.4000
 Base: 0.4000
 
---50A Asymmetrical Case-Marking--
+--38A Indefinite Articles--
 -Average-
+Score: 0.5621
+Base: 0.4271
+Count: 34
+
+-Papunesia-
+Amount in training: 38
+Amount in test: 10
 Score: 0.6000
-Base: 0.6000
+Base: 0.3000
+
+-Eurasia-
+Amount in training: 33
+Amount in test: 8
+Score: 0.6250
+Base: 0.2500
+
+-North America-
+Amount in training: 18
+Amount in test: 4
+Score: 0.5000
+Base: 0.5000
+
+-Africa-
+Amount in training: 30
+Amount in test: 7
+Score: 0.2857
+Base: 0.2857
+
+-South America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+--36A The Associative Plural--
+-Average-
+Score: 0.4000
+Base: 0.4000
 Count: 5
 
 -Eurasia-
-Amount in training: 22
+Amount in training: 19
 Amount in test: 5
-Score: 0.6000
-Base: 0.6000
+Score: 0.4000
+Base: 0.4000
 
---41A Distance Contrasts in Demonstratives--
+--30A Number of Genders--
 Not enough languages
 
---46A Indefinite Pronouns--
+--35A Plurality in Independent Personal Pronouns--
 -Average-
-Score: 0.3333
-Base: 0.3333
-Count: 6
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-Papunesia-
+Amount in training: 18
+Amount in test: 4
+Score: 0.7500
+Base: 0.7500
+
+--34A Occurrence of Nominal Plurality--
+-Average-
+Score: 1.0000
+Base: 1.0000
+Count: 5
 
 -Eurasia-
-Amount in training: 22
-Amount in test: 6
-Score: 0.3333
-Base: 0.3333
+Amount in training: 18
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
 
 --47A Intensifiers and Reflexive Pronouns--
 -Average-
@@ -437,15 +296,156 @@ Amount in test: 5
 Score: 0.8000
 Base: 0.6000
 
---34A Occurrence of Nominal Plurality--
+--39B Inclusive/Exclusive Forms in Pama-Nyungan--
+Not enough languages
+
+--51A Position of Case Affixes--
 -Average-
-Score: 1.0000
-Base: 1.0000
-Count: 5
+Score: 0.4741
+Base: 0.4741
+Count: 51
+
+-Papunesia-
+Amount in training: 66
+Amount in test: 17
+Score: 0.4706
+Base: 0.4706
 
 -Eurasia-
-Amount in training: 18
-Amount in test: 5
-Score: 1.0000
+Amount in training: 34
+Amount in test: 9
+Score: 0.5556
+Base: 0.5556
+
+-North America-
+Amount in training: 25
+Amount in test: 6
+Score: 0.5000
+Base: 0.5000
+
+-Africa-
+Amount in training: 38
+Amount in test: 9
+Score: 0.4444
+Base: 0.4444
+
+-South America-
+Amount in training: 42
+Amount in test: 10
+Score: 0.4000
+Base: 0.4000
+
+--57A Position of Pronominal Possessive Affixes--
+-Average-
+Score: 0.5307
+Base: 0.5307
+Count: 50
+
+-Papunesia-
+Amount in training: 66
+Amount in test: 16
+Score: 0.4375
+Base: 0.4375
+
+-Eurasia-
+Amount in training: 26
+Amount in test: 7
+Score: 0.5714
+Base: 0.5714
+
+-North America-
+Amount in training: 30
+Amount in test: 8
+Score: 0.5000
+Base: 0.5000
+
+-Africa-
+Amount in training: 35
+Amount in test: 9
+Score: 0.4444
+Base: 0.4444
+
+-South America-
+Amount in training: 39
+Amount in test: 10
+Score: 0.7000
+Base: 0.7000
+
+--32A Systems of Gender Assignment--
+Not enough languages
+
+--55A Numeral Classifiers--
+-Average-
+Score: 0.4857
+Base: 0.7000
+Count: 12
+
+-Papunesia-
+Amount in training: 27
+Amount in test: 7
+Score: 0.5714
 Base: 1.0000
+
+-South America-
+Amount in training: 21
+Amount in test: 5
+Score: 0.4000
+Base: 0.4000
+
+--41A Distance Contrasts in Demonstratives--
+Not enough languages
+
+--54A Distributive Numerals--
+-Average-
+Score: 0.1833
+Base: 0.1833
+Count: 11
+
+-Papunesia-
+Amount in training: 20
+Amount in test: 5
+Score: 0.2000
+Base: 0.2000
+
+-Eurasia-
+Amount in training: 24
+Amount in test: 6
+Score: 0.1667
+Base: 0.1667
+
+--46A Indefinite Pronouns--
+-Average-
+Score: 0.3333
+Base: 0.3333
+Count: 6
+
+-Eurasia-
+Amount in training: 22
+Amount in test: 6
+Score: 0.3333
+Base: 0.3333
+
+--44A Gender Distinctions in Independent Personal Pronouns--
+-Average-
+Score: 0.6381
+Base: 0.6381
+Count: 17
+
+-Papunesia-
+Amount in training: 26
+Amount in test: 7
+Score: 0.7143
+Base: 0.7143
+
+-South America-
+Amount in training: 20
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+-Africa-
+Amount in training: 19
+Amount in test: 5
+Score: 0.4000
+Base: 0.4000
 

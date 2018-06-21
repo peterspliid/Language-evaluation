@@ -4,23 +4,23 @@ Base: 0.8750
 Count: 8
 
 --Area average--
--Africa-
-Score: 1.0000
-Base: 1.0000
-Count: 4
-
 -Papunesia-
 Score: 0.7500
 Base: 0.7500
 Count: 4
 
---126A 'When' Clauses--
+-Africa-
+Score: 1.0000
+Base: 1.0000
+Count: 4
+
+--122A Relativization on Subjects--
 Not enough languages
 
 --125A Purpose Clauses--
 Not enough languages
 
---122A Relativization on Subjects--
+--123A Relativization on Obliques--
 Not enough languages
 
 --127A Reason Clauses--
@@ -35,18 +35,18 @@ Score: 0.8750
 Base: 0.8750
 Count: 8
 
--Africa-
-Amount in training: 17
-Amount in test: 4
-Score: 1.0000
-Base: 1.0000
-
 -Papunesia-
 Amount in training: 17
 Amount in test: 4
 Score: 0.7500
 Base: 0.7500
 
---123A Relativization on Obliques--
+-Africa-
+Amount in training: 17
+Amount in test: 4
+Score: 1.0000
+Base: 1.0000
+
+--126A 'When' Clauses--
 Not enough languages
 

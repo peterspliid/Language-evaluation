@@ -1,397 +1,54 @@
 --Total average--
-Score: 0.5933
+Score: 0.5860
 Base: 0.6023
 Count: 1110
 
 --Area average--
+-Papunesia-
+Score: 0.6970
+Base: 0.7218
+Count: 201
+
 -South America-
-Score: 0.7144
+Score: 0.7169
 Base: 0.7569
 Count: 321
 
--Africa-
-Score: 0.5185
+-North America-
+Score: 0.5328
+Base: 0.5652
+Count: 244
+
+-Eurasia-
+Score: 0.6508
 Base: 0.5350
-Count: 160
+Count: 172
 
 -Australia-
 Score: 0.4167
 Base: 0.5000
 Count: 12
 
--North America-
-Score: 0.5467
-Base: 0.5652
-Count: 244
-
--Eurasia-
-Score: 0.6555
+-Africa-
+Score: 0.5017
 Base: 0.5350
-Count: 172
-
--Papunesia-
-Score: 0.7081
-Base: 0.7218
-Count: 201
-
---137A N-M Pronouns--
--Average-
-Score: 0.8433
-Base: 0.8433
-Count: 64
-
--South America-
-Amount in test: 15
-Score: 0.7333
-Base: 0.7333
-
--North America-
-Amount in test: 12
-Score: 0.5833
-Base: 0.5833
-
--Eurasia-
-Amount in test: 12
-Score: 1.0000
-Base: 1.0000
-
--Papunesia-
-Amount in test: 15
-Score: 1.0000
-Base: 1.0000
-
--Africa-
-Amount in test: 10
-Score: 0.9000
-Base: 0.9000
-
---134A Green and Blue--
--Average-
-Score: 0.5731
-Base: 0.4566
-Count: 74
-
--South America-
-Amount in test: 27
-Score: 0.7407
-Base: 0.8148
-
--Australia-
-Amount in test: 2
-Score: 0.5000
-Base: 0.5000
-
--Africa-
-Amount in test: 10
-Score: 0.2000
-Base: 0.1000
-
--North America-
-Amount in test: 18
-Score: 0.5556
-Base: 0.5556
-
--Eurasia-
-Amount in test: 4
-Score: 0.7500
-Base: 0.0000
-
--Papunesia-
-Amount in test: 13
-Score: 0.6923
-Base: 0.7692
-
---130A Finger and Hand--
--Average-
-Score: 0.8096
-Base: 0.8096
-Count: 205
-
--South America-
-Amount in test: 69
-Score: 0.9275
-Base: 0.9275
-
--Australia-
-Amount in test: 2
-Score: 0.0000
-Base: 0.0000
-
--Africa-
-Amount in test: 21
-Score: 1.0000
-Base: 1.0000
-
--North America-
-Amount in test: 55
-Score: 0.9636
-Base: 0.9636
-
--Eurasia-
-Amount in test: 28
-Score: 1.0000
-Base: 1.0000
-
--Papunesia-
-Amount in test: 30
-Score: 0.9667
-Base: 0.9667
-
---136B M in First Person Singular--
--Average-
-Score: 0.5967
-Base: 0.6300
-Count: 64
-
--South America-
-Amount in test: 15
-Score: 0.8000
-Base: 0.8667
-
--North America-
-Amount in test: 12
-Score: 0.9167
-Base: 0.9167
-
--Eurasia-
-Amount in test: 12
-Score: 0.1667
-Base: 0.1667
-
--Africa-
-Amount in test: 10
-Score: 0.3000
-Base: 0.4000
-
--Papunesia-
-Amount in test: 15
-Score: 0.8000
-Base: 0.8000
-
---132A Number of Non-Derived Basic Colour Categories--
--Average-
-Score: 0.4490
-Base: 0.3882
-Count: 74
-
--South America-
-Amount in test: 27
-Score: 0.4444
-Base: 0.5926
-
--Africa-
-Amount in test: 10
-Score: 0.1000
-Base: 0.1000
-
--Papunesia-
-Amount in test: 13
-Score: 0.5385
-Base: 0.6923
-
--North America-
-Amount in test: 18
-Score: 0.6111
-Base: 0.4444
-
--Eurasia-
-Amount in test: 4
-Score: 0.5000
-Base: 0.0000
-
--Australia-
-Amount in test: 2
-Score: 0.5000
-Base: 0.5000
-
---137B M in Second Person Singular--
--Average-
-Score: 0.5567
-Base: 0.6033
-Count: 64
-
--South America-
-Amount in test: 15
-Score: 0.3333
-Base: 0.4667
-
--North America-
-Amount in test: 12
-Score: 0.1667
-Base: 0.3333
-
--Eurasia-
-Amount in test: 12
-Score: 0.9167
-Base: 0.9167
-
--Papunesia-
-Amount in test: 15
-Score: 0.6667
-Base: 0.6000
-
--Africa-
-Amount in test: 10
-Score: 0.7000
-Base: 0.7000
-
---131A Numeral Bases--
--Average-
-Score: 0.5688
-Base: 0.5688
-Count: 62
-
--South America-
-Amount in test: 10
-Score: 0.6000
-Base: 0.6000
-
--North America-
-Amount in test: 11
-Score: 0.2727
-Base: 0.2727
-
--Eurasia-
-Amount in test: 15
-Score: 0.7333
-Base: 0.7333
-
--Papunesia-
-Amount in test: 14
-Score: 0.5714
-Base: 0.5714
-
--Africa-
-Amount in test: 12
-Score: 0.6667
-Base: 0.6667
-
---130B Cultural Categories of Languages with Identity of 'Finger' and 'Hand'--
-Not enough languages
-
---136A M-T Pronouns--
--Average-
-Score: 0.7900
-Base: 0.7900
-Count: 64
-
--South America-
-Amount in test: 15
-Score: 1.0000
-Base: 1.0000
-
--North America-
-Amount in test: 12
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Amount in test: 12
-Score: 0.2500
-Base: 0.2500
-
--Papunesia-
-Amount in test: 15
-Score: 0.8000
-Base: 0.8000
-
--Africa-
-Amount in test: 10
-Score: 0.9000
-Base: 0.9000
-
---133A Number of Basic Colour Categories--
--Average-
-Score: 0.2001
-Base: 0.3245
-Count: 74
-
--South America-
-Amount in test: 27
-Score: 0.3333
-Base: 0.4074
-
--Australia-
-Amount in test: 2
-Score: 0.0000
-Base: 0.5000
-
--Africa-
-Amount in test: 10
-Score: 0.1000
-Base: 0.3000
-
--North America-
-Amount in test: 18
-Score: 0.0556
-Base: 0.2778
-
--Eurasia-
-Amount in test: 4
-Score: 0.2500
-Base: 0.0000
-
--Papunesia-
-Amount in test: 13
-Score: 0.4615
-Base: 0.4615
-
---135A Red and Yellow--
--Average-
-Score: 0.7932
-Base: 0.7932
-Count: 74
-
--South America-
-Amount in test: 27
-Score: 0.8148
-Base: 0.8148
-
--Africa-
-Amount in test: 10
-Score: 0.5000
-Base: 0.5000
-
--Australia-
-Amount in test: 2
-Score: 0.5000
-Base: 0.5000
-
--North America-
-Amount in test: 18
-Score: 0.9444
-Base: 0.9444
-
--Eurasia-
-Amount in test: 4
-Score: 1.0000
-Base: 1.0000
-
--Papunesia-
-Amount in test: 13
-Score: 1.0000
-Base: 1.0000
+Count: 160
 
 --129A Hand and Arm--
 -Average-
-Score: 0.6628
+Score: 0.6555
 Base: 0.6579
 Count: 209
+
+-Papunesia-
+Amount in test: 30
+Score: 0.3333
+Base: 0.3333
 
 -South America-
 Amount in test: 71
 Score: 0.8451
 Base: 0.8592
-
--Australia-
-Amount in test: 2
-Score: 1.0000
-Base: 1.0000
-
--Papunesia-
-Amount in test: 30
-Score: 0.3333
-Base: 0.3333
 
 -North America-
 Amount in test: 55
@@ -403,126 +60,409 @@ Amount in test: 28
 Score: 0.7857
 Base: 0.7857
 
+-Australia-
+Amount in test: 2
+Score: 1.0000
+Base: 1.0000
+
 -Africa-
 Amount in test: 23
-Score: 0.5217
+Score: 0.4783
 Base: 0.4783
+
+--135A Red and Yellow--
+-Average-
+Score: 0.7932
+Base: 0.7932
+Count: 74
+
+-Papunesia-
+Amount in test: 13
+Score: 1.0000
+Base: 1.0000
+
+-South America-
+Amount in test: 27
+Score: 0.8148
+Base: 0.8148
+
+-North America-
+Amount in test: 18
+Score: 0.9444
+Base: 0.9444
+
+-Eurasia-
+Amount in test: 4
+Score: 1.0000
+Base: 1.0000
+
+-Australia-
+Amount in test: 2
+Score: 0.5000
+Base: 0.5000
+
+-Africa-
+Amount in test: 10
+Score: 0.5000
+Base: 0.5000
+
+--136B M in First Person Singular--
+-Average-
+Score: 0.6100
+Base: 0.6300
+Count: 64
+
+-Papunesia-
+Amount in test: 15
+Score: 0.8000
+Base: 0.8000
+
+-Eurasia-
+Amount in test: 12
+Score: 0.1667
+Base: 0.1667
+
+-Africa-
+Amount in test: 10
+Score: 0.3000
+Base: 0.4000
+
+-North America-
+Amount in test: 12
+Score: 0.9167
+Base: 0.9167
+
+-South America-
+Amount in test: 15
+Score: 0.8667
+Base: 0.8667
+
+--134A Green and Blue--
+-Average-
+Score: 0.4484
+Base: 0.4566
+Count: 74
+
+-Papunesia-
+Amount in test: 13
+Score: 0.6923
+Base: 0.7692
+
+-Australia-
+Amount in test: 2
+Score: 0.5000
+Base: 0.5000
+
+-North America-
+Amount in test: 18
+Score: 0.4444
+Base: 0.5556
+
+-Eurasia-
+Amount in test: 4
+Score: 0.2500
+Base: 0.0000
+
+-South America-
+Amount in test: 27
+Score: 0.7037
+Base: 0.8148
+
+-Africa-
+Amount in test: 10
+Score: 0.1000
+Base: 0.1000
+
+--137B M in Second Person Singular--
+-Average-
+Score: 0.4800
+Base: 0.6033
+Count: 64
+
+-Papunesia-
+Amount in test: 15
+Score: 0.4667
+Base: 0.6000
+
+-South America-
+Amount in test: 15
+Score: 0.3333
+Base: 0.4667
+
+-Africa-
+Amount in test: 10
+Score: 0.6000
+Base: 0.7000
+
+-Eurasia-
+Amount in test: 12
+Score: 0.8333
+Base: 0.9167
+
+-North America-
+Amount in test: 12
+Score: 0.1667
+Base: 0.3333
 
 --138A Tea--
 -Average-
-Score: 0.5027
+Score: 0.5298
 Base: 0.5218
 Count: 82
 
--South America-
-Amount in test: 3
-Score: 1.0000
-Base: 1.0000
+-Papunesia-
+Amount in test: 15
+Score: 0.7333
+Base: 0.6667
+
+-Eurasia-
+Amount in test: 37
+Score: 0.5405
+Base: 0.5676
+
+-Africa-
+Amount in test: 24
+Score: 0.3750
+Base: 0.3750
 
 -North America-
 Amount in test: 3
 Score: 0.0000
 Base: 0.0000
 
--Eurasia-
-Amount in test: 37
-Score: 0.5135
-Base: 0.5676
+-South America-
+Amount in test: 3
+Score: 1.0000
+Base: 1.0000
+
+--136A M-T Pronouns--
+-Average-
+Score: 0.7900
+Base: 0.7900
+Count: 64
 
 -Papunesia-
 Amount in test: 15
+Score: 0.8000
+Base: 0.8000
+
+-South America-
+Amount in test: 15
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in test: 12
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in test: 12
+Score: 0.2500
+Base: 0.2500
+
+-Africa-
+Amount in test: 10
+Score: 0.9000
+Base: 0.9000
+
+--131A Numeral Bases--
+-Average-
+Score: 0.5688
+Base: 0.5688
+Count: 62
+
+-Papunesia-
+Amount in test: 14
+Score: 0.5714
+Base: 0.5714
+
+-Eurasia-
+Amount in test: 15
+Score: 0.7333
+Base: 0.7333
+
+-Africa-
+Amount in test: 12
 Score: 0.6667
 Base: 0.6667
 
+-South America-
+Amount in test: 10
+Score: 0.6000
+Base: 0.6000
+
+-North America-
+Amount in test: 11
+Score: 0.2727
+Base: 0.2727
+
+--137A N-M Pronouns--
+-Average-
+Score: 0.8433
+Base: 0.8433
+Count: 64
+
+-Papunesia-
+Amount in test: 15
+Score: 1.0000
+Base: 1.0000
+
+-South America-
+Amount in test: 15
+Score: 0.7333
+Base: 0.7333
+
+-North America-
+Amount in test: 12
+Score: 0.5833
+Base: 0.5833
+
+-Eurasia-
+Amount in test: 12
+Score: 1.0000
+Base: 1.0000
+
 -Africa-
-Amount in test: 24
-Score: 0.3333
-Base: 0.3750
+Amount in test: 10
+Score: 0.9000
+Base: 0.9000
+
+--130A Finger and Hand--
+-Average-
+Score: 0.8096
+Base: 0.8096
+Count: 205
+
+-Papunesia-
+Amount in test: 30
+Score: 0.9667
+Base: 0.9667
+
+-Australia-
+Amount in test: 2
+Score: 0.0000
+Base: 0.0000
+
+-North America-
+Amount in test: 55
+Score: 0.9636
+Base: 0.9636
+
+-Eurasia-
+Amount in test: 28
+Score: 1.0000
+Base: 1.0000
+
+-South America-
+Amount in test: 69
+Score: 0.9275
+Base: 0.9275
+
+-Africa-
+Amount in test: 21
+Score: 1.0000
+Base: 1.0000
+
+--130B Cultural Categories of Languages with Identity of 'Finger' and 'Hand'--
+Not enough languages
+
+--132A Number of Non-Derived Basic Colour Categories--
+-Average-
+Score: 0.5421
+Base: 0.3882
+Count: 74
+
+-Papunesia-
+Amount in test: 13
+Score: 0.6154
+Base: 0.6923
+
+-Australia-
+Amount in test: 2
+Score: 0.5000
+Base: 0.5000
+
+-North America-
+Amount in test: 18
+Score: 0.5556
+Base: 0.4444
+
+-Eurasia-
+Amount in test: 4
+Score: 1.0000
+Base: 0.0000
+
+-South America-
+Amount in test: 27
+Score: 0.4815
+Base: 0.5926
+
+-Africa-
+Amount in test: 10
+Score: 0.1000
+Base: 0.1000
+
+--133A Number of Basic Colour Categories--
+-Average-
+Score: 0.1811
+Base: 0.3245
+Count: 74
+
+-Papunesia-
+Amount in test: 13
+Score: 0.3846
+Base: 0.4615
+
+-South America-
+Amount in test: 27
+Score: 0.2963
+Base: 0.4074
+
+-North America-
+Amount in test: 18
+Score: 0.0556
+Base: 0.2778
+
+-Eurasia-
+Amount in test: 4
+Score: 0.2500
+Base: 0.0000
+
+-Australia-
+Amount in test: 2
+Score: 0.0000
+Base: 0.5000
+
+-Africa-
+Amount in test: 10
+Score: 0.1000
+Base: 0.3000
 
 --Individual Languages--
--myw-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--nas-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--kwi-
-Score: 0.7143
-Base: 0.8571
-Count: 7
-
--tar-
-Score: 0.5000
-Base: 0.5000
-Count: 6
-
--viv-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--ljp-
+-cui-
 Score: 1.0000
 Base: 1.0000
+Count: 2
+
+-wol-
+Score: 0.0000
+Base: 0.0000
 Count: 1
 
--bcl-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--agr-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--kpj-
-Score: 0.3333
-Base: 0.1667
-Count: 6
-
--laj-
-Score: 1.0000
-Base: 1.0000
-Count: 5
-
--cax-
-Score: 0.4000
-Base: 0.4000
-Count: 5
-
--mig-
-Score: 0.5714
-Base: 0.7143
-Count: 7
-
--dan-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--gwi-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--apn-
-Score: 0.8333
+-amr-
+Score: 0.6667
 Base: 0.8333
 Count: 6
 
--yor-
-Score: 0.5000
-Base: 0.6667
-Count: 6
+-cat-
+Score: 1.0000
+Base: 1.0000
+Count: 3
 
--mri-
+-sgz-
 Score: 0.7500
-Base: 0.7500
+Base: 1.0000
 Count: 4
 
 -bzd-
@@ -530,1119 +470,59 @@ Score: 1.0000
 Base: 1.0000
 Count: 1
 
--mca-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--ibo-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--sua-
-Score: 1.0000
-Base: 1.0000
-Count: 4
-
--wbp-
-Score: 0.6667
-Base: 0.8333
-Count: 6
-
--sey-
+-gui-
 Score: 1.0000
 Base: 1.0000
 Count: 2
 
--min-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--emp-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--ifb-
-Score: 0.5000
-Base: 0.5000
-Count: 6
-
--urb-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--kjs-
-Score: 1.0000
-Base: 1.0000
-Count: 6
-
--not-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--tsz-
-Score: 0.8333
-Base: 0.8333
-Count: 6
-
--dgz-
-Score: 0.8000
-Base: 0.8000
-Count: 5
-
--mad-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--kng-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--ape-
-Score: 1.0000
-Base: 1.0000
-Count: 4
-
--snn-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--cbv-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--cbu-
-Score: 0.5000
-Base: 0.2500
-Count: 4
-
--nob-
-Score: 1.0000
-Base: 1.0000
-Count: 3
-
--nld-
-Score: 1.0000
-Base: 1.0000
-Count: 3
-
--crq-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--kik-
+-gvn-
 Score: 0.0000
 Base: 0.0000
-Count: 1
-
--mop-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--bqc-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--con-
-Score: 0.5000
-Base: 0.8333
-Count: 6
-
--btx-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--coe-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--auc-
-Score: 0.3750
-Base: 0.3750
-Count: 8
-
--jiv-
-Score: 0.6667
-Base: 0.6667
-Count: 6
-
--cbr-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--ood-
-Score: 0.6000
-Base: 0.6000
-Count: 10
-
--cat-
-Score: 1.0000
-Base: 1.0000
-Count: 3
-
--gux-
-Score: 0.5000
-Base: 0.5000
-Count: 2
+Count: 4
 
 -sna-
 Score: 0.5000
 Base: 0.5000
 Count: 2
 
--fra-
-Score: 0.7500
-Base: 0.5833
-Count: 12
-
--hil-
-Score: 0.6667
-Base: 0.6667
-Count: 3
-
--xon-
-Score: 0.0000
-Base: 0.0000
-Count: 4
-
--chk-
-Score: 0.6667
-Base: 0.6667
-Count: 3
-
--tlf-
-Score: 0.8333
-Base: 0.8333
-Count: 6
-
--ceb-
-Score: 0.6667
-Base: 0.6667
-Count: 3
-
--huv-
-Score: 0.5455
-Base: 0.5455
-Count: 11
-
--huu-
+-sey-
 Score: 1.0000
 Base: 1.0000
 Count: 2
 
--gle-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--mzh-
-Score: 0.5714
-Base: 0.5714
-Count: 7
-
--mjc-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--cjo-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--cut-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--qvc-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--ptp-
-Score: 0.5000
-Base: 0.7500
-Count: 4
-
--cof-
-Score: 0.6667
-Base: 0.6667
-Count: 6
-
--nhg-
-Score: 0.6667
-Base: 0.6667
-Count: 3
-
--tuo-
-Score: 0.6667
-Base: 0.5000
-Count: 6
-
--jic-
-Score: 0.8333
-Base: 0.8333
-Count: 6
-
--mil-
-Score: 0.5000
-Base: 0.7500
-Count: 4
-
--aly-
+-myw-
 Score: 0.5000
 Base: 0.5000
 Count: 2
-
--pol-
-Score: 0.6667
-Base: 0.6667
-Count: 3
-
--wol-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--chf-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--muh-
-Score: 0.0000
-Base: 0.0000
-Count: 4
-
--zpq-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--des-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--gym-
-Score: 0.6000
-Base: 0.6000
-Count: 10
-
--kmr-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--cym-
-Score: 0.6667
-Base: 1.0000
-Count: 3
-
--swh-
-Score: 0.6250
-Base: 0.6250
-Count: 8
-
--agd-
-Score: 0.2500
-Base: 0.7500
-Count: 4
-
--myu-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--nab-
-Score: 1.0000
-Base: 1.0000
-Count: 4
-
--cak-
-Score: 0.6667
-Base: 0.3333
-Count: 6
-
--pir-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--nya-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--top-
-Score: 0.8333
-Base: 0.8333
-Count: 6
-
--srm-
-Score: 0.5000
-Base: 0.5000
-Count: 4
-
--vag-
-Score: 0.2500
-Base: 0.2500
-Count: 4
-
--gvc-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--agt-
-Score: 1.0000
-Base: 1.0000
-Count: 4
-
--tac-
-Score: 0.8000
-Base: 1.0000
-Count: 5
-
--sab-
-Score: 0.2500
-Base: 0.5000
-Count: 4
-
--maz-
-Score: 0.8333
-Base: 0.3333
-Count: 6
-
--chd-
-Score: 0.5000
-Base: 0.5000
-Count: 6
-
--mco-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--mnk-
-Score: 0.7500
-Base: 1.0000
-Count: 4
-
--mbb-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--mcb-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--spa-
-Score: 0.5833
-Base: 0.5833
-Count: 12
-
--tfr-
-Score: 0.6667
-Base: 0.6667
-Count: 6
-
--kmh-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--cle-
-Score: 0.7143
-Base: 0.7143
-Count: 7
-
--lit-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--ame-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--bsn-
-Score: 0.7143
-Base: 0.7143
-Count: 7
-
--bkd-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--gum-
-Score: 0.6667
-Base: 0.8333
-Count: 6
-
--hun-
-Score: 0.7500
-Base: 0.7500
-Count: 8
-
--amp-
-Score: 0.8000
-Base: 0.8000
-Count: 5
-
--isl-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--kwd-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--ncj-
-Score: 0.5000
-Base: 0.2500
-Count: 4
-
--sur-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--ace-
-Score: 1.0000
-Base: 1.0000
-Count: 5
-
--tbl-
-Score: 0.5000
-Base: 1.0000
-Count: 4
-
--azb-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--dje-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--awb-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--miq-
-Score: 0.6667
-Base: 0.6667
-Count: 6
-
--kin-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--guo-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--ind-
-Score: 0.8750
-Base: 0.8750
-Count: 8
-
--sag-
-Score: 0.6667
-Base: 0.5000
-Count: 6
-
--tca-
-Score: 0.8333
-Base: 1.0000
-Count: 6
-
--zaw-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--spp-
-Score: 0.2000
-Base: 0.2000
-Count: 5
-
--ilo-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--mih-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--nhr-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--sot-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--mto-
-Score: 0.5000
-Base: 0.5000
-Count: 4
-
--mib-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--ncu-
-Score: 0.2500
-Base: 0.2500
-Count: 4
-
--tur-
-Score: 0.6250
-Base: 0.6250
-Count: 8
-
--yaq-
-Score: 0.4000
-Base: 0.4000
-Count: 5
 
 -kal-
 Score: 0.4286
 Base: 0.4286
 Count: 7
 
--amr-
-Score: 0.6667
-Base: 0.8333
-Count: 6
-
--agm-
-Score: 0.5000
-Base: 0.5000
-Count: 4
-
--cbt-
-Score: 0.6667
-Base: 0.8333
-Count: 6
-
--rmy-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--zpz-
-Score: 0.7500
-Base: 1.0000
-Count: 4
-
--cbi-
-Score: 0.5000
-Base: 0.6667
-Count: 6
-
--poe-
-Score: 0.5000
-Base: 1.0000
-Count: 2
-
--tzh-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--afr-
-Score: 1.0000
-Base: 1.0000
-Count: 3
-
--tos-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--toj-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--kgp-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--cui-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--cha-
-Score: 0.7500
-Base: 0.6250
-Count: 8
-
--fub-
-Score: 0.2000
-Base: 0.2000
-Count: 5
-
--azz-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--crx-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--pag-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--plt-
-Score: 0.8750
-Base: 1.0000
-Count: 8
-
--deu-
-Score: 0.7500
-Base: 0.5833
-Count: 12
-
--ctu-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--tob-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--zul-
-Score: 0.7500
-Base: 0.7500
-Count: 8
-
--ote-
-Score: 0.4000
-Base: 0.6000
-Count: 5
-
--myy-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
 -kaa-
 Score: 0.0000
 Base: 0.0000
 Count: 1
 
--maq-
-Score: 0.5000
-Base: 0.6667
-Count: 6
-
--hae-
-Score: 0.8333
-Base: 0.8333
-Count: 6
-
--eus-
+-mnk-
 Score: 0.7500
-Base: 0.7500
-Count: 8
-
--jav-
-Score: 1.0000
 Base: 1.0000
-Count: 1
+Count: 4
 
--dyo-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--rmo-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--itv-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--gil-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--gla-
+-qvc-
 Score: 1.0000
 Base: 1.0000
 Count: 2
 
--dip-
-Score: 0.0000
-Base: 0.0000
-Count: 1
+-hil-
+Score: 0.6667
+Base: 0.6667
+Count: 3
 
 -dyi-
-Score: 0.5000
+Score: 0.2500
 Base: 0.5000
-Count: 4
-
--apu-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--sus-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--arn-
-Score: 0.7143
-Base: 0.7143
-Count: 7
-
--bre-
-Score: 1.0000
-Base: 1.0000
-Count: 3
-
--quc-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--sri-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--hin-
-Score: 0.5000
-Base: 0.5000
-Count: 6
-
--sll-
-Score: 0.5000
-Base: 0.5000
-Count: 4
-
--est-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--nfr-
-Score: 0.0000
-Base: 0.0000
-Count: 4
-
--efi-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--wnu-
-Score: 0.5000
-Base: 0.5000
-Count: 4
-
--cpc-
-Score: 0.4000
-Base: 0.4000
-Count: 10
-
--tna-
-Score: 0.6667
-Base: 0.6667
-Count: 6
-
--shk-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--luo-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--guh-
-Score: 0.6667
-Base: 1.0000
-Count: 6
-
--mic-
-Score: 0.5000
-Base: 0.6667
-Count: 6
-
--zpm-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--yrb-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--tgl-
-Score: 0.7500
-Base: 0.7500
-Count: 8
-
--tbo-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--mak-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--kpw-
-Score: 0.8000
-Base: 0.8000
-Count: 5
-
--fij-
-Score: 0.8571
-Base: 0.8571
-Count: 7
-
--bem-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--apz-
-Score: 1.0000
-Base: 0.7500
-Count: 4
-
--hub-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--srq-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--acf-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--sgz-
-Score: 1.0000
-Base: 1.0000
-Count: 4
-
--bmr-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--bgr-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--irk-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--tpi-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--aey-
-Score: 1.0000
-Base: 1.0000
-Count: 4
-
--kne-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--cbc-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--mal-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--cav-
-Score: 1.0000
-Base: 1.0000
-Count: 6
-
--fin-
-Score: 0.7500
-Base: 0.7500
-Count: 8
-
--ixl-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--khk-
-Score: 0.5000
-Base: 0.5000
-Count: 8
-
--gui-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--cjp-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--shp-
-Score: 1.0000
-Base: 1.0000
-Count: 6
-
--kaq-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--bex-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--kek-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--alq-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--tzj-
-Score: 1.0000
-Base: 1.0000
-Count: 4
-
--mzm-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--sun-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--slv-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--qvi-
-Score: 1.0000
-Base: 1.0000
-Count: 5
-
--dgc-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--yan-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--gub-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--mcf-
-Score: 0.6667
-Base: 0.6667
-Count: 6
-
--dnj-
-Score: 0.0000
-Base: 0.0000
-Count: 4
-
--haw-
-Score: 0.0000
-Base: 0.0000
-Count: 3
-
--mfy-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--bvz-
-Score: 1.0000
-Base: 0.7500
 Count: 4
 
 -cta-
@@ -1650,292 +530,62 @@ Score: 0.5000
 Base: 0.5000
 Count: 2
 
--ces-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--myb-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--tsn-
+-hus-
 Score: 1.0000
 Base: 1.0000
-Count: 3
+Count: 6
 
--bao-
-Score: 1.0000
-Base: 1.0000
+-mzm-
+Score: 0.5000
+Base: 0.5000
 Count: 2
 
--yaa-
-Score: 0.7500
+-apz-
+Score: 1.0000
 Base: 0.7500
 Count: 4
 
--ban-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--hto-
+-cbr-
 Score: 1.0000
 Base: 1.0000
 Count: 2
 
--yad-
-Score: 1.0000
-Base: 1.0000
-Count: 5
-
--for-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--pbb-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--maw-
-Score: 0.2500
-Base: 0.5000
-Count: 4
-
--kvn-
+-cbt-
 Score: 0.6667
 Base: 0.8333
 Count: 6
 
--apw-
-Score: 0.0000
-Base: 0.0000
-Count: 2
-
--srn-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--ita-
-Score: 1.0000
-Base: 1.0000
-Count: 3
-
--kbq-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--gug-
-Score: 1.0000
-Base: 1.0000
-Count: 8
-
--gvn-
-Score: 0.0000
-Base: 0.0000
-Count: 4
-
--ycn-
-Score: 0.8333
-Base: 1.0000
-Count: 6
-
--ron-
-Score: 0.6667
-Base: 0.6667
-Count: 3
-
--xho-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--chr-
-Score: 0.6667
-Base: 0.6667
-Count: 3
-
--zai-
+-sus-
 Score: 0.5000
 Base: 0.5000
 Count: 2
 
--cbk-
-Score: 0.2500
-Base: 0.2500
-Count: 4
-
--por-
-Score: 0.6667
-Base: 0.6667
-Count: 3
-
 -djk-
-Score: 0.4000
+Score: 0.6000
 Base: 0.6000
 Count: 5
 
--som-
+-jiv-
+Score: 0.6667
+Base: 0.6667
+Count: 6
+
+-coe-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-nfr-
 Score: 0.0000
 Base: 0.0000
-Count: 1
+Count: 4
 
--quy-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--guc-
-Score: 1.0000
-Base: 1.0000
-Count: 3
-
--ese-
+-wbp-
 Score: 0.6667
 Base: 0.8333
 Count: 6
 
--lin-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--mur-
-Score: 1.0000
-Base: 1.0000
-Count: 5
-
--wsk-
-Score: 0.2000
-Base: 0.2000
-Count: 5
-
--mna-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--ngu-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--hch-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--cbs-
-Score: 0.6667
-Base: 0.6667
-Count: 6
-
--acu-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--lus-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--car-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--eng-
-Score: 0.8333
-Base: 0.6667
-Count: 12
-
--uig-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--poi-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--pib-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--smo-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--wob-
-Score: 0.0000
-Base: 0.0000
-Count: 4
-
--moc-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--aln-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--pad-
-Score: 0.7500
-Base: 1.0000
-Count: 4
-
--swe-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--amu-
-Score: 0.2500
-Base: 0.2500
-Count: 4
-
--bav-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--arl-
-Score: 1.0000
-Base: 0.7500
-Count: 4
-
--kpg-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--boa-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
--esi-
-Score: 0.3333
-Base: 0.3333
-Count: 3
-
--crn-
-Score: 0.5000
-Base: 0.5000
-Count: 2
-
--yua-
+-ibo-
 Score: 0.3333
 Base: 0.3333
 Count: 3
@@ -1945,37 +595,557 @@ Score: 1.0000
 Base: 1.0000
 Count: 2
 
--aia-
+-huv-
+Score: 0.5455
+Base: 0.5455
+Count: 11
+
+-awb-
 Score: 0.5000
 Base: 0.5000
 Count: 2
 
--qug-
+-tca-
+Score: 0.6667
+Base: 1.0000
+Count: 6
+
+-agm-
+Score: 0.5000
+Base: 0.5000
+Count: 4
+
+-guh-
+Score: 0.6667
+Base: 1.0000
+Count: 6
+
+-kgp-
 Score: 1.0000
 Base: 1.0000
 Count: 2
 
--hus-
+-mfy-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-maq-
+Score: 0.5000
+Base: 0.6667
+Count: 6
+
+-zul-
+Score: 0.7500
+Base: 0.7500
+Count: 8
+
+-fra-
+Score: 0.6667
+Base: 0.5833
+Count: 12
+
+-lus-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-mco-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-bre-
+Score: 1.0000
+Base: 1.0000
+Count: 3
+
+-muh-
+Score: 0.0000
+Base: 0.0000
+Count: 4
+
+-afr-
+Score: 1.0000
+Base: 1.0000
+Count: 3
+
+-amp-
+Score: 0.6000
+Base: 0.8000
+Count: 5
+
+-yua-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-sua-
+Score: 1.0000
+Base: 1.0000
+Count: 4
+
+-mad-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-maw-
+Score: 0.2500
+Base: 0.5000
+Count: 4
+
+-xho-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-zpm-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-ind-
+Score: 0.8750
+Base: 0.8750
+Count: 8
+
+-chd-
+Score: 0.5000
+Base: 0.5000
+Count: 6
+
+-moc-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-cym-
+Score: 0.6667
+Base: 1.0000
+Count: 3
+
+-jic-
+Score: 0.8333
+Base: 0.8333
+Count: 6
+
+-nhr-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-ctu-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-pag-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-fin-
+Score: 0.7500
+Base: 0.7500
+Count: 8
+
+-zaw-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-mto-
+Score: 0.5000
+Base: 0.5000
+Count: 4
+
+-bsn-
+Score: 0.7143
+Base: 0.7143
+Count: 7
+
+-sll-
+Score: 0.2500
+Base: 0.5000
+Count: 4
+
+-apu-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-mcf-
+Score: 0.6667
+Base: 0.6667
+Count: 6
+
+-nld-
+Score: 1.0000
+Base: 1.0000
+Count: 3
+
+-swe-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-ifb-
+Score: 0.5000
+Base: 0.5000
+Count: 6
+
+-bao-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-huu-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-slv-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-mal-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-kwi-
+Score: 0.7143
+Base: 0.8571
+Count: 7
+
+-haw-
+Score: 0.0000
+Base: 0.0000
+Count: 3
+
+-swh-
+Score: 0.6250
+Base: 0.6250
+Count: 8
+
+-urb-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-azz-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-pol-
+Score: 0.6667
+Base: 0.6667
+Count: 3
+
+-poi-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-yor-
+Score: 0.3333
+Base: 0.6667
+Count: 6
+
+-cbi-
+Score: 0.6667
+Base: 0.6667
+Count: 6
+
+-viv-
+Score: 1.0000
+Base: 0.7500
+Count: 4
+
+-lit-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-ood-
+Score: 0.6000
+Base: 0.6000
+Count: 10
+
+-tar-
+Score: 0.5000
+Base: 0.5000
+Count: 6
+
+-mna-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-rmo-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-sag-
+Score: 0.6667
+Base: 0.5000
+Count: 6
+
+-gil-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-hun-
+Score: 0.7500
+Base: 0.7500
+Count: 8
+
+-cav-
 Score: 1.0000
 Base: 1.0000
 Count: 6
+
+-auc-
+Score: 0.3750
+Base: 0.3750
+Count: 8
+
+-pad-
+Score: 1.0000
+Base: 1.0000
+Count: 4
+
+-dgc-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-tsn-
+Score: 1.0000
+Base: 1.0000
+Count: 3
+
+-mcb-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-dip-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-sun-
+Score: 1.0000
+Base: 1.0000
+Count: 1
 
 -pio-
 Score: 1.0000
 Base: 1.0000
 Count: 2
 
--xsu-
-Score: 0.5000
-Base: 0.7500
+-laj-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-nab-
+Score: 1.0000
+Base: 1.0000
 Count: 4
 
--sme-
-Score: 0.3333
+-con-
+Score: 0.5000
+Base: 0.8333
+Count: 6
+
+-tob-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-myu-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-ban-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-apn-
+Score: 0.8333
+Base: 0.8333
+Count: 6
+
+-dje-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-sab-
+Score: 0.2500
+Base: 0.5000
+Count: 4
+
+-pbb-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-dyo-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-ame-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-cjp-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-gla-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-tna-
+Score: 0.5000
+Base: 0.6667
+Count: 6
+
+-nya-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-yan-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-quc-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-cak-
+Score: 0.8333
+Base: 0.3333
+Count: 6
+
+-ron-
+Score: 0.6667
 Base: 0.6667
 Count: 3
 
--too-
+-tpi-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-uig-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-mbb-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-mzh-
+Score: 0.5714
+Base: 0.5714
+Count: 7
+
+-emp-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-mop-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-itv-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-kjs-
+Score: 0.8333
+Base: 1.0000
+Count: 6
+
+-mur-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-kbq-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-nas-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-mak-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-cax-
+Score: 0.4000
+Base: 0.4000
+Count: 5
+
+-guc-
+Score: 1.0000
+Base: 1.0000
+Count: 3
+
+-alq-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-kmr-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-tzh-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-bcl-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-tur-
+Score: 0.6250
+Base: 0.6250
+Count: 8
+
+-agr-
 Score: 1.0000
 Base: 1.0000
 Count: 2
@@ -1985,13 +1155,843 @@ Score: 0.5000
 Base: 0.5000
 Count: 2
 
+-srq-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-ces-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
 -mwv-
 Score: 1.0000
 Base: 1.0000
 Count: 1
 
+-shk-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-bkd-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-not-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-car-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-gwi-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-top-
+Score: 0.8333
+Base: 0.8333
+Count: 6
+
+-nob-
+Score: 1.0000
+Base: 1.0000
+Count: 3
+
+-kne-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-cjo-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-isl-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-eng-
+Score: 0.7500
+Base: 0.6667
+Count: 12
+
+-sur-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-chf-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-tfr-
+Score: 0.5000
+Base: 0.6667
+Count: 6
+
+-arn-
+Score: 0.7143
+Base: 0.7143
+Count: 7
+
+-bex-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-qug-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-fub-
+Score: 0.4000
+Base: 0.2000
+Count: 5
+
+-spp-
+Score: 0.2000
+Base: 0.2000
+Count: 5
+
+-xon-
+Score: 0.0000
+Base: 0.0000
+Count: 4
+
+-ncj-
+Score: 0.5000
+Base: 0.2500
+Count: 4
+
+-mic-
+Score: 0.5000
+Base: 0.6667
+Count: 6
+
+-aia-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-gle-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-cbv-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-cha-
+Score: 0.8750
+Base: 0.6250
+Count: 8
+
+-hub-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-sot-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-gux-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-pib-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-yaa-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-kpw-
+Score: 0.8000
+Base: 0.8000
+Count: 5
+
+-miq-
+Score: 0.6667
+Base: 0.6667
+Count: 6
+
+-dgz-
+Score: 0.8000
+Base: 0.8000
+Count: 5
+
+-dnj-
+Score: 0.0000
+Base: 0.0000
+Count: 4
+
+-qvi-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-som-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-zai-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-sri-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-tsz-
+Score: 0.8333
+Base: 0.8333
+Count: 6
+
+-gug-
+Score: 1.0000
+Base: 1.0000
+Count: 8
+
+-ita-
+Score: 1.0000
+Base: 1.0000
+Count: 3
+
+-tgl-
+Score: 0.7500
+Base: 0.7500
+Count: 8
+
+-guo-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-for-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-ycn-
+Score: 0.8333
+Base: 1.0000
+Count: 6
+
+-mih-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-myy-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-eus-
+Score: 0.7500
+Base: 0.7500
+Count: 8
+
+-cpc-
+Score: 0.4000
+Base: 0.4000
+Count: 10
+
+-crq-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-nhg-
+Score: 0.6667
+Base: 0.6667
+Count: 3
+
+-cut-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-aly-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-des-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-kin-
+Score: 1.0000
+Base: 0.0000
+Count: 1
+
+-gub-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-arl-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-mjc-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-chk-
+Score: 0.6667
+Base: 0.6667
+Count: 3
+
+-deu-
+Score: 0.7500
+Base: 0.5833
+Count: 12
+
+-kng-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-cof-
+Score: 0.6667
+Base: 0.6667
+Count: 6
+
+-hch-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-kmh-
+Score: 0.5000
+Base: 0.7500
+Count: 4
+
+-quy-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-too-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-hin-
+Score: 0.5000
+Base: 0.5000
+Count: 6
+
+-efi-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-gym-
+Score: 0.6000
+Base: 0.6000
+Count: 10
+
+-ixl-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-min-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-kaq-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-por-
+Score: 0.6667
+Base: 0.6667
+Count: 3
+
+-pir-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-tac-
+Score: 0.8000
+Base: 1.0000
+Count: 5
+
+-dan-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-smo-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-bmr-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-esi-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-ape-
+Score: 1.0000
+Base: 1.0000
+Count: 4
+
+-hae-
+Score: 0.8333
+Base: 0.8333
+Count: 6
+
+-ljp-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-jav-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-sme-
+Score: 0.6667
+Base: 0.6667
+Count: 3
+
+-apw-
+Score: 0.0000
+Base: 0.0000
+Count: 2
+
+-maz-
+Score: 0.6667
+Base: 0.3333
+Count: 6
+
+-azb-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-bqc-
+Score: 0.5000
+Base: 1.0000
+Count: 2
+
+-chr-
+Score: 0.6667
+Base: 0.6667
+Count: 3
+
+-yad-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-ace-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-khk-
+Score: 0.5000
+Base: 0.5000
+Count: 8
+
+-srm-
+Score: 0.5000
+Base: 0.5000
+Count: 4
+
+-kpg-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-zpq-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-aln-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-ilo-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-mil-
+Score: 0.5000
+Base: 0.7500
+Count: 4
+
+-tbl-
+Score: 0.5000
+Base: 1.0000
+Count: 4
+
+-bem-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-toj-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-gvc-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-tos-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-zpz-
+Score: 0.2500
+Base: 1.0000
+Count: 4
+
+-bgr-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-kek-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-ncu-
+Score: 0.2500
+Base: 0.2500
+Count: 4
+
+-ese-
+Score: 0.6667
+Base: 0.8333
+Count: 6
+
+-est-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-cbk-
+Score: 0.5000
+Base: 0.2500
+Count: 4
+
+-tzj-
+Score: 1.0000
+Base: 1.0000
+Count: 4
+
+-cbu-
+Score: 0.5000
+Base: 0.2500
+Count: 4
+
+-mig-
+Score: 0.5714
+Base: 0.7143
+Count: 7
+
 -bam-
 Score: 0.7500
 Base: 0.5000
+Count: 4
+
+-cbs-
+Score: 0.6667
+Base: 0.6667
+Count: 6
+
+-gum-
+Score: 0.6667
+Base: 0.8333
+Count: 6
+
+-lin-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-mib-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-wsk-
+Score: 0.2000
+Base: 0.2000
+Count: 5
+
+-acf-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-btx-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-hto-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-ote-
+Score: 0.4000
+Base: 0.6000
+Count: 5
+
+-cle-
+Score: 0.7143
+Base: 0.7143
+Count: 7
+
+-rmy-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-luo-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-crn-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-mri-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-kvn-
+Score: 0.6667
+Base: 0.8333
+Count: 6
+
+-boa-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-tuo-
+Score: 0.6667
+Base: 0.5000
+Count: 6
+
+-mca-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-aey-
+Score: 1.0000
+Base: 1.0000
+Count: 4
+
+-plt-
+Score: 0.7500
+Base: 1.0000
+Count: 8
+
+-yrb-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-tlf-
+Score: 0.8333
+Base: 0.8333
+Count: 6
+
+-snn-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-wnu-
+Score: 0.5000
+Base: 0.5000
+Count: 4
+
+-bvz-
+Score: 1.0000
+Base: 0.7500
+Count: 4
+
+-ptp-
+Score: 0.5000
+Base: 0.7500
+Count: 4
+
+-amu-
+Score: 0.2500
+Base: 0.2500
+Count: 4
+
+-crx-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-fij-
+Score: 0.8571
+Base: 0.8571
+Count: 7
+
+-agd-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-irk-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-myb-
+Score: 0.3333
+Base: 0.3333
+Count: 3
+
+-acu-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-cbc-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-ceb-
+Score: 0.6667
+Base: 0.6667
+Count: 3
+
+-xsu-
+Score: 0.5000
+Base: 0.7500
+Count: 4
+
+-ngu-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-shp-
+Score: 1.0000
+Base: 1.0000
+Count: 6
+
+-tbo-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-poe-
+Score: 0.5000
+Base: 1.0000
+Count: 2
+
+-spa-
+Score: 0.6667
+Base: 0.5833
+Count: 12
+
+-srn-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-kwd-
+Score: 0.5000
+Base: 0.5000
+Count: 2
+
+-yaq-
+Score: 0.4000
+Base: 0.4000
+Count: 5
+
+-kik-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-kpj-
+Score: 0.3333
+Base: 0.1667
+Count: 6
+
+-agt-
+Score: 0.5000
+Base: 1.0000
+Count: 4
+
+-wob-
+Score: 0.0000
+Base: 0.0000
+Count: 4
+
+-bav-
+Score: 1.0000
+Base: 1.0000
+Count: 2
+
+-vag-
+Score: 0.2500
+Base: 0.2500
 Count: 4
 

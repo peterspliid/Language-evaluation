@@ -4,54 +4,54 @@ Base: 0.6898
 Count: 531
 
 --Area average--
--South America-
-Score: 0.6881
-Base: 0.7096
-Count: 135
-
--North America-
-Score: 0.6875
-Base: 0.7417
-Count: 59
+-Papunesia-
+Score: 0.7338
+Base: 0.6978
+Count: 156
 
 -Eurasia-
 Score: 0.6911
 Base: 0.6831
 Count: 98
 
+-North America-
+Score: 0.6875
+Base: 0.7417
+Count: 59
+
 -Africa-
 Score: 0.6548
 Base: 0.6167
 Count: 83
 
--Papunesia-
-Score: 0.7338
-Base: 0.6978
-Count: 156
+-South America-
+Score: 0.6881
+Base: 0.7096
+Count: 135
 
---19A Presence of Uncommon Consonants--
+--3A Consonant-Vowel Ratio--
 -Average-
-Score: 0.7794
-Base: 0.7794
+Score: 0.4333
+Base: 0.3906
 Count: 33
 
--South America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.8889
-Base: 0.8889
-
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
+-Papunesia-
+Amount in training: 30
+Amount in test: 8
+Score: 0.5000
+Base: 0.3750
 
 -Eurasia-
 Amount in training: 20
 Amount in test: 5
-Score: 0.8000
-Base: 0.8000
+Score: 0.4000
+Base: 0.2000
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.6000
+Base: 0.6000
 
 -Africa-
 Amount in training: 24
@@ -59,77 +59,98 @@ Amount in test: 6
 Score: 0.3333
 Base: 0.3333
 
+-South America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.3333
+Base: 0.4444
+
+--18A Absence of Common Consonants--
+-Average-
+Score: 0.9306
+Base: 0.9306
+Count: 33
+
 -Papunesia-
 Amount in training: 30
 Amount in test: 8
 Score: 0.8750
 Base: 0.8750
 
---4A Voicing in Plosives and Fricatives--
--Average-
-Score: 0.5939
-Base: 0.5356
-Count: 33
+-Eurasia-
+Amount in training: 20
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-Africa-
+Amount in training: 24
+Amount in test: 6
+Score: 1.0000
+Base: 1.0000
 
 -South America-
 Amount in training: 35
 Amount in test: 9
-Score: 0.4444
-Base: 0.4444
+Score: 0.7778
+Base: 0.7778
 
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.6000
-Base: 0.6000
+--10B Nasal Vowels in West Africa--
+Not enough languages
 
--Eurasia-
-Amount in training: 20
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
-
--Africa-
-Amount in training: 24
-Amount in test: 6
-Score: 0.5000
-Base: 0.3333
+--17A Rhythm Types--
+-Average-
+Score: 0.3571
+Base: 0.5714
+Count: 14
 
 -Papunesia-
-Amount in training: 30
-Amount in test: 8
-Score: 0.6250
-Base: 0.5000
-
---1A Consonant Inventories--
--Average-
-Score: 0.4989
-Base: 0.5178
-Count: 33
-
--South America-
-Amount in training: 34
-Amount in test: 9
-Score: 0.4444
-Base: 0.5556
-
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.2000
-Base: 0.6000
+Amount in training: 26
+Amount in test: 7
+Score: 0.5714
+Base: 0.7143
 
 -Eurasia-
+Amount in training: 30
+Amount in test: 7
+Score: 0.1429
+Base: 0.4286
+
+--14A Fixed Stress Locations--
+-Average-
+Score: 0.3889
+Base: 0.3889
+Count: 28
+
+-Papunesia-
+Amount in training: 55
+Amount in test: 14
+Score: 0.5000
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 38
+Amount in test: 9
+Score: 0.6667
+Base: 0.6667
+
+-South America-
 Amount in training: 20
 Amount in test: 5
-Score: 0.6000
-Base: 0.6000
+Score: 0.0000
+Base: 0.0000
 
--Africa-
-Amount in training: 24
-Amount in test: 6
-Score: 0.5000
-Base: 0.3333
+--8A Lateral Consonants--
+-Average-
+Score: 0.8322
+Base: 0.7822
+Count: 33
 
 -Papunesia-
 Amount in training: 30
@@ -137,77 +158,11 @@ Amount in test: 8
 Score: 0.7500
 Base: 0.5000
 
---15A Weight-Sensitive Stress--
--Average-
-Score: 0.7566
-Base: 0.6825
-Count: 28
-
--South America-
-Amount in training: 20
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Amount in training: 38
-Amount in test: 9
-Score: 0.5556
-Base: 0.3333
-
--Papunesia-
-Amount in training: 55
-Amount in test: 14
-Score: 0.7143
-Base: 0.7143
-
---11A Front Rounded Vowels--
--Average-
-Score: 0.9600
-Base: 0.9600
-Count: 33
-
--South America-
-Amount in training: 35
-Amount in test: 9
-Score: 1.0000
-Base: 1.0000
-
--North America-
-Amount in training: 18
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
 -Eurasia-
 Amount in training: 20
 Amount in test: 5
-Score: 0.8000
-Base: 0.8000
-
--Africa-
-Amount in training: 24
-Amount in test: 6
 Score: 1.0000
 Base: 1.0000
-
--Papunesia-
-Amount in training: 30
-Amount in test: 8
-Score: 1.0000
-Base: 1.0000
-
---5A Voicing and Gaps in Plosive Systems--
--Average-
-Score: 0.6311
-Base: 0.6561
-Count: 33
-
--South America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.5556
-Base: 0.5556
 
 -North America-
 Amount in training: 19
@@ -215,23 +170,41 @@ Amount in test: 5
 Score: 0.8000
 Base: 0.8000
 
--Eurasia-
-Amount in training: 20
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
-
 -Africa-
 Amount in training: 24
 Amount in test: 6
-Score: 0.5000
-Base: 0.5000
+Score: 0.8333
+Base: 0.8333
+
+-South America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.7778
+Base: 0.7778
+
+--15A Weight-Sensitive Stress--
+-Average-
+Score: 0.7566
+Base: 0.6825
+Count: 28
 
 -Papunesia-
-Amount in training: 30
-Amount in test: 8
-Score: 0.5000
-Base: 0.6250
+Amount in training: 55
+Amount in test: 14
+Score: 0.7143
+Base: 0.7143
+
+-Eurasia-
+Amount in training: 38
+Amount in test: 9
+Score: 0.5556
+Base: 0.3333
+
+-South America-
+Amount in training: 20
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
 
 --10A Vowel Nasalization--
 -Average-
@@ -251,95 +224,17 @@ Score: 0.7143
 Base: 0.7143
 Count: 14
 
+-Papunesia-
+Amount in training: 26
+Amount in test: 7
+Score: 0.5714
+Base: 0.5714
+
 -South America-
 Amount in training: 27
 Amount in test: 7
 Score: 0.8571
 Base: 0.8571
-
--Papunesia-
-Amount in training: 26
-Amount in test: 7
-Score: 0.5714
-Base: 0.5714
-
---17A Rhythm Types--
--Average-
-Score: 0.3571
-Base: 0.5714
-Count: 14
-
--Eurasia-
-Amount in training: 30
-Amount in test: 7
-Score: 0.1429
-Base: 0.4286
-
--Papunesia-
-Amount in training: 26
-Amount in test: 7
-Score: 0.5714
-Base: 0.7143
-
---6A Uvular Consonants--
--Average-
-Score: 0.9378
-Base: 0.9378
-Count: 33
-
--South America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.8889
-Base: 0.8889
-
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
-
--Eurasia-
-Amount in training: 20
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
--Africa-
-Amount in training: 24
-Amount in test: 6
-Score: 1.0000
-Base: 1.0000
-
--Papunesia-
-Amount in training: 30
-Amount in test: 8
-Score: 1.0000
-Base: 1.0000
-
---14A Fixed Stress Locations--
--Average-
-Score: 0.3889
-Base: 0.3889
-Count: 28
-
--South America-
-Amount in training: 20
-Amount in test: 5
-Score: 0.0000
-Base: 0.0000
-
--Eurasia-
-Amount in training: 38
-Amount in test: 9
-Score: 0.6667
-Base: 0.6667
-
--Papunesia-
-Amount in training: 55
-Amount in test: 14
-Score: 0.5000
-Base: 0.5000
 
 --2A Vowel Quality Inventories--
 -Average-
@@ -347,17 +242,11 @@ Score: 0.6467
 Base: 0.6467
 Count: 33
 
--South America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.6667
-Base: 0.6667
-
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
+-Papunesia-
+Amount in training: 30
+Amount in test: 8
+Score: 0.5000
+Base: 0.5000
 
 -Eurasia-
 Amount in training: 20
@@ -365,53 +254,23 @@ Amount in test: 5
 Score: 0.6000
 Base: 0.6000
 
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
 -Africa-
 Amount in training: 24
 Amount in test: 6
 Score: 0.6667
 Base: 0.6667
 
--Papunesia-
-Amount in training: 30
-Amount in test: 8
-Score: 0.5000
-Base: 0.5000
-
---7A Glottalized Consonants--
--Average-
-Score: 0.8022
-Base: 0.8022
-Count: 33
-
 -South America-
 Amount in training: 35
 Amount in test: 9
-Score: 0.7778
-Base: 0.7778
-
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
--Eurasia-
-Amount in training: 20
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
--Africa-
-Amount in training: 24
-Amount in test: 6
-Score: 0.8333
-Base: 0.8333
-
--Papunesia-
-Amount in training: 30
-Amount in test: 8
-Score: 1.0000
-Base: 1.0000
+Score: 0.6667
+Base: 0.6667
 
 --13A Tone--
 -Average-
@@ -419,23 +278,23 @@ Score: 0.6595
 Base: 0.7095
 Count: 28
 
--South America-
-Amount in training: 28
-Amount in test: 7
-Score: 0.7143
-Base: 0.7143
-
--North America-
-Amount in training: 18
-Amount in test: 4
-Score: 0.2500
-Base: 0.5000
+-Papunesia-
+Amount in training: 26
+Amount in test: 6
+Score: 1.0000
+Base: 1.0000
 
 -Eurasia-
 Amount in training: 19
 Amount in test: 5
 Score: 1.0000
 Base: 1.0000
+
+-North America-
+Amount in training: 18
+Amount in test: 4
+Score: 0.2500
+Base: 0.5000
 
 -Africa-
 Amount in training: 23
@@ -443,23 +302,29 @@ Amount in test: 6
 Score: 0.3333
 Base: 0.3333
 
--Papunesia-
-Amount in training: 26
-Amount in test: 6
-Score: 1.0000
-Base: 1.0000
+-South America-
+Amount in training: 28
+Amount in test: 7
+Score: 0.7143
+Base: 0.7143
 
---3A Consonant-Vowel Ratio--
+--4A Voicing in Plosives and Fricatives--
 -Average-
-Score: 0.4333
-Base: 0.3906
+Score: 0.5939
+Base: 0.5356
 Count: 33
 
--South America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.3333
-Base: 0.4444
+-Papunesia-
+Amount in training: 30
+Amount in test: 8
+Score: 0.6250
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 20
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
 
 -North America-
 Amount in training: 19
@@ -467,95 +332,35 @@ Amount in test: 5
 Score: 0.6000
 Base: 0.6000
 
--Eurasia-
-Amount in training: 20
-Amount in test: 5
-Score: 0.4000
-Base: 0.2000
-
 -Africa-
 Amount in training: 24
 Amount in test: 6
-Score: 0.3333
-Base: 0.3333
-
--Papunesia-
-Amount in training: 30
-Amount in test: 8
 Score: 0.5000
-Base: 0.3750
-
---16A Weight Factors in Weight-Sensitive Stress Systems--
--Average-
-Score: 0.6587
-Base: 0.6587
-Count: 28
-
--South America-
-Amount in training: 20
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Amount in training: 38
-Amount in test: 9
-Score: 0.3333
 Base: 0.3333
-
--Papunesia-
-Amount in training: 55
-Amount in test: 14
-Score: 0.6429
-Base: 0.6429
-
---18A Absence of Common Consonants--
--Average-
-Score: 0.9306
-Base: 0.9306
-Count: 33
 
 -South America-
 Amount in training: 35
 Amount in test: 9
-Score: 0.7778
-Base: 0.7778
+Score: 0.4444
+Base: 0.4444
 
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Amount in training: 20
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
--Africa-
-Amount in training: 24
-Amount in test: 6
-Score: 1.0000
-Base: 1.0000
+--6A Uvular Consonants--
+-Average-
+Score: 0.9378
+Base: 0.9378
+Count: 33
 
 -Papunesia-
 Amount in training: 30
 Amount in test: 8
-Score: 0.8750
-Base: 0.8750
+Score: 1.0000
+Base: 1.0000
 
---8A Lateral Consonants--
--Average-
-Score: 0.8322
-Base: 0.7822
-Count: 33
-
--South America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.7778
-Base: 0.7778
+-Eurasia-
+Amount in training: 20
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
 
 -North America-
 Amount in training: 19
@@ -563,17 +368,23 @@ Amount in test: 5
 Score: 0.8000
 Base: 0.8000
 
--Eurasia-
-Amount in training: 20
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
 -Africa-
 Amount in training: 24
 Amount in test: 6
-Score: 0.8333
-Base: 0.8333
+Score: 1.0000
+Base: 1.0000
+
+-South America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.8889
+Base: 0.8889
+
+--1A Consonant Inventories--
+-Average-
+Score: 0.4989
+Base: 0.5178
+Count: 33
 
 -Papunesia-
 Amount in training: 30
@@ -581,8 +392,137 @@ Amount in test: 8
 Score: 0.7500
 Base: 0.5000
 
---10B Nasal Vowels in West Africa--
-Not enough languages
+-Eurasia-
+Amount in training: 20
+Amount in test: 5
+Score: 0.6000
+Base: 0.6000
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.2000
+Base: 0.6000
+
+-Africa-
+Amount in training: 24
+Amount in test: 6
+Score: 0.5000
+Base: 0.3333
+
+-South America-
+Amount in training: 34
+Amount in test: 9
+Score: 0.4444
+Base: 0.5556
+
+--7A Glottalized Consonants--
+-Average-
+Score: 0.8022
+Base: 0.8022
+Count: 33
+
+-Papunesia-
+Amount in training: 30
+Amount in test: 8
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in training: 20
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.4000
+Base: 0.4000
+
+-Africa-
+Amount in training: 24
+Amount in test: 6
+Score: 0.8333
+Base: 0.8333
+
+-South America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.7778
+Base: 0.7778
+
+--19A Presence of Uncommon Consonants--
+-Average-
+Score: 0.7794
+Base: 0.7794
+Count: 33
+
+-Papunesia-
+Amount in training: 30
+Amount in test: 8
+Score: 0.8750
+Base: 0.8750
+
+-Eurasia-
+Amount in training: 20
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-Africa-
+Amount in training: 24
+Amount in test: 6
+Score: 0.3333
+Base: 0.3333
+
+-South America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.8889
+Base: 0.8889
+
+--5A Voicing and Gaps in Plosive Systems--
+-Average-
+Score: 0.6311
+Base: 0.6561
+Count: 33
+
+-Papunesia-
+Amount in training: 30
+Amount in test: 8
+Score: 0.5000
+Base: 0.6250
+
+-Eurasia-
+Amount in training: 20
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+-Africa-
+Amount in training: 24
+Amount in test: 6
+Score: 0.5000
+Base: 0.5000
+
+-South America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.5556
+Base: 0.5556
 
 --12A Syllable Structure--
 -Average-
@@ -590,11 +530,11 @@ Score: 0.4970
 Base: 0.4911
 Count: 23
 
--South America-
-Amount in training: 27
-Amount in test: 7
-Score: 0.5714
-Base: 0.7143
+-Papunesia-
+Amount in training: 26
+Amount in test: 6
+Score: 0.8333
+Base: 0.6667
 
 -Eurasia-
 Amount in training: 18
@@ -602,15 +542,75 @@ Amount in test: 4
 Score: 0.2500
 Base: 0.2500
 
+-South America-
+Amount in training: 27
+Amount in test: 7
+Score: 0.5714
+Base: 0.7143
+
 -Africa-
 Amount in training: 22
 Amount in test: 6
 Score: 0.3333
 Base: 0.3333
 
+--16A Weight Factors in Weight-Sensitive Stress Systems--
+-Average-
+Score: 0.6587
+Base: 0.6587
+Count: 28
+
 -Papunesia-
-Amount in training: 26
+Amount in training: 55
+Amount in test: 14
+Score: 0.6429
+Base: 0.6429
+
+-Eurasia-
+Amount in training: 38
+Amount in test: 9
+Score: 0.3333
+Base: 0.3333
+
+-South America-
+Amount in training: 20
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+--11A Front Rounded Vowels--
+-Average-
+Score: 0.9600
+Base: 0.9600
+Count: 33
+
+-Papunesia-
+Amount in training: 30
+Amount in test: 8
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in training: 20
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+-North America-
+Amount in training: 18
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-Africa-
+Amount in training: 24
 Amount in test: 6
-Score: 0.8333
-Base: 0.6667
+Score: 1.0000
+Base: 1.0000
+
+-South America-
+Amount in training: 35
+Amount in test: 9
+Score: 1.0000
+Base: 1.0000
 

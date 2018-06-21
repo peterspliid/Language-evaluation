@@ -1,3108 +1,3108 @@
 --Total--
-Score: 0.5917
-Base: 0.5874
+Score: 0.5926
+Base: 0.5848
 Count: 21840
 
 --Areas--
--South America-
-Score: 0.5219
-Base: 0.5187
-Count: 4211
-
--Australia-
-Score: 0.5801
-Base: 0.5928
-Count: 243
-
 -Papunesia-
-Score: 0.6262
-Base: 0.6395
+Score: 0.6278
+Base: 0.6346
 Count: 5988
 
+-South America-
+Score: 0.5223
+Base: 0.5162
+Count: 4211
+
 -North America-
-Score: 0.6377
-Base: 0.6357
+Score: 0.6341
+Base: 0.6332
 Count: 2731
 
 -Eurasia-
-Score: 0.6102
-Base: 0.5603
+Score: 0.6108
+Base: 0.5627
 Count: 3963
 
+-Australia-
+Score: 0.5855
+Base: 0.5838
+Count: 243
+
 -Africa-
-Score: 0.5743
-Base: 0.5773
+Score: 0.5748
+Base: 0.5781
 Count: 4704
 
 --Feature areas--
--Nominal Syntax-
-Score: 0.6251
-Base: 0.6311
-Count: 503
-
--Lexicon-
-Score: 0.5933
-Base: 0.6023
-Count: 1110
-
--Word Order-
-Score: 0.5906
-Base: 0.5819
-Count: 8428
-
--Morphology-
-Score: 0.5825
-Base: 0.5494
-Count: 960
-
--Verbal Categories-
-Score: 0.5151
-Base: 0.5405
-Count: 1821
-
--Simple Clauses-
-Score: 0.5316
-Base: 0.5286
-Count: 2814
-
 -Other-
 Score: 0.6393
 Base: 0.6393
 Count: 42
 
+-Morphology-
+Score: 0.5994
+Base: 0.5556
+Count: 960
+
+-Simple Clauses-
+Score: 0.5342
+Base: 0.5254
+Count: 2814
+
+-Phonology-
+Score: 0.6394
+Base: 0.6219
+Count: 2792
+
+-Verbal Categories-
+Score: 0.5125
+Base: 0.5379
+Count: 1821
+
 -Nominal Categories-
-Score: 0.5187
-Base: 0.4925
+Score: 0.5041
+Base: 0.4803
 Count: 2959
 
+-Word Order-
+Score: 0.5983
+Base: 0.5808
+Count: 8428
+
+-Nominal Syntax-
+Score: 0.6383
+Base: 0.6271
+Count: 503
+
+-Lexicon-
+Score: 0.5860
+Base: 0.6023
+Count: 1110
+
 -Complex Sentences-
-Score: 0.6857
+Score: 0.6831
 Base: 0.6863
 Count: 411
 
--Phonology-
-Score: 0.6455
-Base: 0.6296
-Count: 2792
-
 --Individual Languages--
--nds-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--pcm-
-Score: 1.0000
-Base: 1.0000
-Number of features: 4
-
--bcl-
-Score: 0.4306
-Base: 0.4889
-Number of features: 22
-
--ake-
-Score: 0.3077
-Base: 0.3077
-Number of features: 14
-
--rro-
-Score: 0.5625
-Base: 0.5000
-Number of features: 16
-
--viv-
-Score: 0.4700
-Base: 0.4700
-Number of features: 32
-
--ljp-
-Score: 0.5187
-Base: 0.5544
-Number of features: 43
-
--yon-
-Score: 0.8421
-Base: 0.8070
-Number of features: 21
-
--snc-
-Score: 0.3611
-Base: 0.3948
-Number of features: 43
-
--kpj-
-Score: 0.6528
-Base: 0.6944
-Number of features: 23
-
--cjo-
-Score: 0.6667
-Base: 0.8333
-Number of features: 5
-
--cax-
-Score: 0.3050
-Base: 0.2800
-Number of features: 17
-
--mig-
-Score: 0.6439
-Base: 0.6252
-Number of features: 134
-
--dan-
-Score: 0.8013
-Base: 0.5888
-Number of features: 57
-
--bmr-
-Score: 0.6196
-Base: 0.4711
-Number of features: 32
-
--apw-
-Score: 0.1063
-Base: 0.1280
-Number of features: 32
-
--for-
-Score: 0.5083
-Base: 0.4979
-Number of features: 26
-
--yor-
-Score: 0.6196
-Base: 0.6383
-Number of features: 140
-
--mri-
-Score: 0.5942
-Base: 0.5880
-Number of features: 144
-
--hat-
-Score: 0.8333
-Base: 0.8889
-Number of features: 8
-
--irk-
-Score: 0.5282
-Base: 0.5987
-Number of features: 118
-
--sxn-
-Score: 1.0000
-Base: 0.6667
-Number of features: 3
-
--gde-
-Score: 0.5935
-Base: 0.7123
-Number of features: 48
-
--mbt-
-Score: 0.0000
-Base: 0.3333
-Number of features: 3
-
--cap-
-Score: 0.7377
-Base: 0.6710
-Number of features: 30
-
--sey-
-Score: 0.9167
-Base: 0.7500
-Number of features: 7
-
--njm-
-Score: 0.4567
-Base: 0.5515
-Number of features: 38
-
--min-
-Score: 0.5500
-Base: 0.5269
-Number of features: 40
-
--bqp-
-Score: 0.1933
-Base: 0.1933
-Number of features: 30
-
--tos-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--bhg-
-Score: 0.6000
-Base: 0.6500
-Number of features: 17
-
--bvz-
-Score: 0.6828
-Base: 0.6218
-Number of features: 32
-
--ifb-
-Score: 0.3833
-Base: 0.3500
-Number of features: 36
-
--sun-
-Score: 0.6899
-Base: 0.6503
-Number of features: 59
-
--kjs-
-Score: 0.6924
-Base: 0.6765
-Number of features: 123
-
--not-
-Score: 0.7500
-Base: 0.7500
-Number of features: 3
-
--kgp-
-Score: 0.6905
-Base: 0.4592
-Number of features: 45
-
--kup-
-Score: 0.3940
-Base: 0.4410
-Number of features: 42
-
--pmf-
-Score: 1.0000
-Base: 0.7222
-Number of features: 8
-
--kng-
-Score: 0.7226
-Base: 0.6237
-Number of features: 69
-
--bvr-
-Score: 0.3536
-Base: 0.4134
-Number of features: 39
-
--gnn-
-Score: 0.0000
-Base: 0.0000
-Number of features: 1
-
--kje-
-Score: 0.8000
-Base: 0.8000
-Number of features: 5
-
--nob-
-Score: 0.7291
-Base: 0.5889
-Number of features: 66
-
--byr-
-Score: 0.0750
-Base: 0.3750
-Number of features: 15
-
--bqc-
-Score: 0.7870
-Base: 0.5957
-Number of features: 30
-
--poh-
-Score: 0.5000
-Base: 0.5000
-Number of features: 4
-
--btx-
-Score: 0.6560
-Base: 0.6592
-Number of features: 111
-
--coe-
-Score: 0.4143
-Base: 0.2286
-Number of features: 20
-
--auc-
-Score: 0.4623
-Base: 0.4286
-Number of features: 71
-
--arl-
-Score: 0.6825
-Base: 0.5992
-Number of features: 21
-
--ood-
-Score: 0.5649
-Base: 0.5808
-Number of features: 85
-
--sua-
-Score: 0.3884
-Base: 0.4018
-Number of features: 47
-
--auy-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--zai-
-Score: 0.4392
-Base: 0.4910
-Number of features: 43
-
--fra-
-Score: 0.6007
-Base: 0.5137
-Number of features: 156
-
--naf-
-Score: 0.5136
-Base: 0.5386
-Number of features: 37
-
--kpx-
-Score: 0.7667
-Base: 0.6750
-Number of features: 31
-
--chk-
-Score: 0.5417
-Base: 0.5417
-Number of features: 9
-
--nak-
-Score: 0.5473
-Base: 0.5345
-Number of features: 44
-
--huv-
-Score: 0.5157
-Base: 0.5147
-Number of features: 73
-
--mzh-
-Score: 0.4357
-Base: 0.4639
-Number of features: 128
-
--bum-
-Score: 0.6667
-Base: 0.6000
-Number of features: 7
-
--laj-
-Score: 0.6168
-Base: 0.6305
-Number of features: 141
-
--mau-
-Score: 0.2545
-Base: 0.4364
-Number of features: 16
-
--xbr-
-Score: 0.8147
-Base: 0.7671
-Number of features: 40
-
--awb-
-Score: 0.7415
-Base: 0.7258
-Number of features: 32
-
--aoj-
-Score: 0.3286
-Base: 0.3667
-Number of features: 30
-
--guo-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--tso-
-Score: 0.5833
-Base: 0.7500
-Number of features: 9
-
--acr-
-Score: 0.0000
-Base: 1.0000
-Number of features: 1
-
--mzm-
-Score: 0.5526
-Base: 0.4317
-Number of features: 61
-
--pol-
-Score: 0.7677
-Base: 0.5478
-Number of features: 89
-
--ctu-
-Score: 0.6667
-Base: 0.6667
-Number of features: 5
-
--ote-
-Score: 0.6358
-Base: 0.6326
-Number of features: 109
-
--kue-
-Score: 0.4952
-Base: 0.6143
-Number of features: 27
-
--sot-
-Score: 0.7169
-Base: 0.7818
-Number of features: 40
-
--mbj-
-Score: 0.7032
-Base: 0.6477
-Number of features: 31
-
--tbg-
-Score: 0.8600
-Base: 0.8100
-Number of features: 28
-
--ign-
-Score: 0.6392
-Base: 0.5622
-Number of features: 38
-
--yli-
-Score: 0.7500
-Base: 0.7500
-Number of features: 7
-
--swh-
-Score: 0.6907
-Base: 0.6770
-Number of features: 142
-
--gum-
-Score: 0.7500
-Base: 0.8333
-Number of features: 18
-
--bcw-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--des-
-Score: 0.4454
-Base: 0.5747
-Number of features: 43
-
--nab-
-Score: 0.5257
-Base: 0.5460
-Number of features: 61
-
--mih-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--pir-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--apn-
-Score: 0.5952
-Base: 0.5952
-Number of features: 36
-
--kpz-
-Score: 0.4848
-Base: 0.5657
-Number of features: 25
-
--ken-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--gvc-
-Score: 0.5000
-Base: 1.0000
-Number of features: 3
-
--tac-
-Score: 0.6156
-Base: 0.6489
-Number of features: 40
-
--fin-
-Score: 0.6547
-Base: 0.6009
-Number of features: 155
-
--mco-
-Score: 0.7967
-Base: 0.6700
-Number of features: 24
-
--gmv-
-Score: 0.5144
-Base: 0.5769
-Number of features: 20
-
--rwo-
-Score: 0.6000
-Base: 0.5833
-Number of features: 20
-
--tar-
-Score: 0.6786
-Base: 0.6548
-Number of features: 34
-
--nyn-
-Score: 0.6179
-Base: 0.5128
-Number of features: 34
-
--gil-
-Score: 0.6409
-Base: 0.6293
-Number of features: 85
-
--mnx-
-Score: 0.6867
-Base: 0.7267
-Number of features: 30
-
--tsz-
-Score: 0.7393
-Base: 0.7188
-Number of features: 82
-
--fry-
-Score: 0.6667
-Base: 0.6667
-Number of features: 3
-
--mbc-
-Score: 0.3271
-Base: 0.4843
-Number of features: 80
-
--ame-
-Score: 0.7486
-Base: 0.4752
-Number of features: 29
-
--mek-
-Score: 0.2708
-Base: 0.2917
-Number of features: 19
-
--bsn-
-Score: 0.5035
-Base: 0.4621
-Number of features: 112
-
--fon-
-Score: 0.2208
-Base: 0.2542
-Number of features: 35
-
--qvn-
-Score: 0.2500
-Base: 0.2500
-Number of features: 3
-
--lwo-
-Score: 0.6071
-Base: 0.9286
-Number of features: 9
-
--cnh-
-Score: 0.4271
-Base: 0.2774
-Number of features: 58
-
--are-
-Score: 0.6186
-Base: 0.6186
-Number of features: 22
-
--hun-
-Score: 0.6673
-Base: 0.6697
-Number of features: 153
-
--kwd-
-Score: 0.5439
-Base: 0.5089
-Number of features: 57
-
--sur-
-Score: 0.3685
-Base: 0.3781
-Number of features: 64
-
--way-
-Score: 0.5000
-Base: 0.5000
-Number of features: 3
-
--lin-
-Score: 0.4937
-Base: 0.4603
-Number of features: 45
-
--kmo-
-Score: 0.5726
-Base: 0.6054
-Number of features: 47
-
--poe-
-Score: 0.4375
-Base: 0.5938
-Number of features: 18
-
--tcc-
-Score: 0.5000
-Base: 1.0000
-Number of features: 2
-
--plg-
-Score: 0.4420
-Base: 0.4481
-Number of features: 36
-
--mif-
-Score: 0.4524
-Base: 0.4524
-Number of features: 17
-
--sag-
-Score: 0.6667
-Base: 0.6384
-Number of features: 125
-
--zaw-
-Score: 0.3203
-Base: 0.3758
-Number of features: 35
-
--ace-
-Score: 0.6691
-Base: 0.6169
-Number of features: 75
-
--nhr-
-Score: 0.5000
-Base: 0.5000
-Number of features: 3
-
--bmu-
-Score: 0.8333
-Base: 0.6667
-Number of features: 4
-
--qvi-
-Score: 0.6808
-Base: 0.6739
-Number of features: 127
-
--dow-
-Score: 0.4318
-Base: 0.4222
-Number of features: 62
-
--kac-
-Score: 0.4644
-Base: 0.3649
-Number of features: 49
-
--tur-
-Score: 0.5093
-Base: 0.5122
-Number of features: 154
-
--kvn-
-Score: 0.4856
-Base: 0.6645
-Number of features: 41
-
--meu-
-Score: 0.4459
-Base: 0.6305
-Number of features: 36
-
--aom-
-Score: 0.4725
-Base: 0.7059
-Number of features: 24
-
--ctp-
-Score: 0.7638
-Base: 0.7340
-Number of features: 57
-
--cbt-
-Score: 0.5208
-Base: 0.5000
-Number of features: 14
-
--azb-
-Score: 0.5485
-Base: 0.4680
-Number of features: 59
-
--etr-
-Score: 0.7000
-Base: 0.6000
-Number of features: 10
-
--hwc-
-Score: 0.2500
-Base: 0.3750
-Number of features: 5
-
--zpz-
-Score: 0.7500
-Base: 1.0000
-Number of features: 4
-
--dje-
-Score: 0.5000
-Base: 0.5125
-Number of features: 24
-
--tzh-
-Score: 0.5577
-Base: 0.5962
-Number of features: 15
-
--afr-
-Score: 0.6905
-Base: 0.5952
-Number of features: 16
-
--yua-
-Score: 0.7167
-Base: 0.5833
-Number of features: 23
-
--guz-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--inb-
-Score: 0.1250
-Base: 0.2500
-Number of features: 5
-
--cui-
-Score: 0.7941
-Base: 0.7206
-Number of features: 25
-
--nyo-
-Score: 0.8750
-Base: 0.5417
-Number of features: 20
-
--crx-
-Score: 0.3333
-Base: 0.3333
-Number of features: 4
-
--pag-
-Score: 0.7036
-Base: 0.6405
-Number of features: 35
-
--men-
-Score: 0.3196
-Base: 0.5620
-Number of features: 45
-
--miq-
-Score: 0.6880
-Base: 0.7556
-Number of features: 61
-
--nhg-
-Score: 0.6914
-Base: 0.6112
-Number of features: 108
-
--mil-
-Score: 0.4942
-Base: 0.5330
-Number of features: 46
-
--wob-
-Score: 0.0000
-Base: 0.0000
-Number of features: 4
-
--bwu-
-Score: 0.1905
-Base: 0.1667
-Number of features: 16
-
--zul-
-Score: 0.6788
-Base: 0.6264
-Number of features: 141
-
--amp-
-Score: 0.5363
-Base: 0.5779
-Number of features: 134
-
--ssd-
-Score: 0.6147
-Base: 0.6444
-Number of features: 45
-
--kpr-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--hae-
-Score: 0.5821
-Base: 0.6037
-Number of features: 141
-
--eus-
-Score: 0.6157
-Base: 0.5779
-Number of features: 153
-
--dyo-
-Score: 0.5944
-Base: 0.5091
-Number of features: 94
-
--rmo-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--rmy-
-Score: 0.6133
-Base: 0.3467
-Number of features: 13
-
--nhu-
-Score: 0.4807
-Base: 0.4346
-Number of features: 51
-
--plt-
-Score: 0.6766
-Base: 0.6855
-Number of features: 144
-
--dyi-
-Score: 0.5000
-Base: 0.5000
-Number of features: 4
-
--hay-
-Score: 0.4167
-Base: 0.2812
-Number of features: 31
-
--sus-
-Score: 0.4833
-Base: 0.4833
-Number of features: 18
-
--bef-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--srn-
-Score: 0.4000
-Base: 0.7000
-Number of features: 8
-
--bzd-
-Score: 0.4935
-Base: 0.5358
-Number of features: 66
-
--mqy-
-Score: 0.2917
-Base: 0.2824
-Number of features: 30
-
--kto-
-Score: 0.4878
-Base: 0.4487
-Number of features: 43
-
--est-
-Score: 0.6483
-Base: 0.5563
-Number of features: 60
-
--nfr-
-Score: 0.0000
-Base: 0.0000
-Number of features: 4
-
--efi-
-Score: 0.6269
-Base: 0.5936
-Number of features: 32
-
--mwv-
-Score: 0.9643
-Base: 0.8452
-Number of features: 12
-
--kbp-
-Score: 0.5351
-Base: 0.5088
-Number of features: 22
-
--jbu-
-Score: 0.2352
-Base: 0.2352
-Number of features: 36
-
--caa-
-Score: 0.3333
-Base: 0.3333
-Number of features: 4
-
--guh-
-Score: 0.4735
-Base: 0.5568
-Number of features: 28
-
--gag-
-Score: 0.3333
-Base: 0.3333
-Number of features: 7
-
--bpr-
-Score: 0.0000
-Base: 0.0000
-Number of features: 1
-
--poi-
-Score: 0.7407
-Base: 0.6852
-Number of features: 27
-
--ttc-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--sme-
-Score: 0.6657
-Base: 0.7212
-Number of features: 49
-
--bam-
-Score: 0.4071
-Base: 0.4459
-Number of features: 89
-
--wbp-
-Score: 0.6196
-Base: 0.5571
-Number of features: 43
-
--kpw-
-Score: 0.5897
-Base: 0.6314
-Number of features: 129
-
--bem-
-Score: 0.8500
-Base: 0.8000
-Number of features: 14
-
--amn-
-Score: 0.5000
-Base: 0.5148
-Number of features: 28
-
--hub-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--swe-
-Score: 0.6803
-Base: 0.5582
-Number of features: 78
-
 -kdj-
-Score: 0.4813
+Score: 0.5087
 Base: 0.4933
 Number of features: 42
 
--ghs-
-Score: 0.7083
-Base: 0.7250
-Number of features: 20
-
--mww-
-Score: 0.5000
-Base: 0.5000
-Number of features: 6
-
--ssw-
-Score: 0.6528
-Base: 0.6250
-Number of features: 24
-
--mpt-
-Score: 0.6733
-Base: 0.7133
+-plg-
+Score: 0.4004
+Base: 0.4481
 Number of features: 36
-
--bgr-
-Score: 0.5563
-Base: 0.5813
-Number of features: 97
-
--mcd-
-Score: 0.7917
-Base: 0.4861
-Number of features: 22
-
--pbi-
-Score: 0.5833
-Base: 0.5938
-Number of features: 29
-
--mcu-
-Score: 0.8974
-Base: 0.7863
-Number of features: 20
-
--gym-
-Score: 0.4028
-Base: 0.4111
-Number of features: 47
-
--xsu-
-Score: 0.4627
-Base: 0.4824
-Number of features: 122
-
--knk-
-Score: 0.3333
-Base: 0.3333
-Number of features: 4
-
--mal-
-Score: 0.4365
-Base: 0.4488
-Number of features: 68
-
--sps-
-Score: 0.5924
-Base: 0.5815
-Number of features: 29
-
--okv-
-Score: 0.4806
-Base: 0.5472
-Number of features: 28
-
--kgk-
-Score: 0.6667
-Base: 0.6667
-Number of features: 3
-
--alq-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--ixl-
-Score: 0.5333
-Base: 0.5333
-Number of features: 12
-
--deu-
-Score: 0.6285
-Base: 0.5430
-Number of features: 154
-
--gui-
-Score: 0.5000
-Base: 0.7222
-Number of features: 7
-
--emi-
-Score: 0.6357
-Base: 0.6333
-Number of features: 37
-
--shp-
-Score: 0.6087
-Base: 0.6094
-Number of features: 118
-
--trc-
-Score: 0.3894
-Base: 0.4005
-Number of features: 44
-
--mog-
-Score: 0.6667
-Base: 0.3333
-Number of features: 3
-
--kek-
-Score: 0.9318
-Base: 0.9318
-Number of features: 15
-
--nso-
-Score: 0.6458
-Base: 0.5042
-Number of features: 28
-
--ape-
-Score: 0.6627
-Base: 0.6808
-Number of features: 120
-
--ctd-
-Score: 0.3586
-Base: 0.3365
-Number of features: 40
-
--sri-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--bar-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--slv-
-Score: 0.6534
-Base: 0.5568
-Number of features: 43
-
--apz-
-Score: 1.0000
-Base: 0.7500
-Number of features: 4
-
--dgc-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--yan-
-Score: 0.5000
-Base: 1.0000
-Number of features: 3
-
--gub-
-Score: 0.5464
-Base: 0.3870
-Number of features: 34
-
--mcf-
-Score: 0.2583
-Base: 0.2333
-Number of features: 17
-
--dnj-
-Score: 0.5338
-Base: 0.6125
-Number of features: 44
-
--haw-
-Score: 0.5513
-Base: 0.5538
-Number of features: 80
-
--mfy-
-Score: 0.5000
-Base: 1.0000
-Number of features: 3
-
--sgz-
-Score: 0.5000
-Base: 0.5000
-Number of features: 5
-
--cbu-
-Score: 0.6600
-Base: 0.5833
-Number of features: 31
-
--amf-
-Score: 0.3846
-Base: 0.3726
-Number of features: 25
-
--wer-
-Score: 0.5000
-Base: 0.5000
-Number of features: 4
-
--ium-
-Score: 0.4361
-Base: 0.4639
-Number of features: 44
-
--yaa-
-Score: 0.3567
-Base: 0.3700
-Number of features: 24
-
--adj-
-Score: 0.2329
-Base: 0.3414
-Number of features: 37
-
--aia-
-Score: 0.5508
-Base: 0.4545
-Number of features: 44
-
--lus-
-Score: 0.4226
-Base: 0.5073
-Number of features: 51
-
--yam-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--maw-
-Score: 0.2500
-Base: 0.5000
-Number of features: 4
-
--mqj-
-Score: 1.0000
-Base: 0.6667
-Number of features: 3
-
--xav-
-Score: 0.3426
-Base: 0.4444
-Number of features: 18
-
--mic-
-Score: 0.7500
-Base: 0.5833
-Number of features: 8
-
--ita-
-Score: 0.6251
-Base: 0.5160
-Number of features: 81
-
--shu-
-Score: 0.7500
-Base: 0.2500
-Number of features: 3
-
--kal-
-Score: 0.5216
-Base: 0.5305
-Number of features: 144
-
--ron-
-Score: 0.6849
-Base: 0.4971
-Number of features: 83
-
--mop-
-Score: 0.5833
-Base: 0.7500
-Number of features: 5
-
--dyu-
-Score: 0.0000
-Base: 0.0000
-Number of features: 2
-
--hil-
-Score: 0.6952
-Base: 0.6476
-Number of features: 29
-
--tby-
-Score: 0.5000
-Base: 0.5000
-Number of features: 4
-
--yss-
-Score: 0.5365
-Base: 0.5571
-Number of features: 34
-
--som-
-Score: 0.4529
-Base: 0.4104
-Number of features: 87
-
--kyz-
-Score: 0.6250
-Base: 0.4659
-Number of features: 27
-
--kbq-
-Score: 0.7500
-Base: 0.7500
-Number of features: 4
-
--mur-
-Score: 0.5213
-Base: 0.5119
-Number of features: 97
-
--wsk-
-Score: 0.5749
-Base: 0.6571
-Number of features: 57
-
--mnb-
-Score: 0.6136
-Base: 0.6629
-Number of features: 63
-
--ngu-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--hch-
-Score: 0.6759
-Base: 0.6111
-Number of features: 36
-
--smo-
-Score: 0.5125
-Base: 0.5630
-Number of features: 73
-
--cbs-
-Score: 0.8056
-Base: 0.8056
-Number of features: 11
-
--gah-
-Score: 0.7133
-Base: 0.5976
-Number of features: 32
-
--nus-
-Score: 0.3545
-Base: 0.5829
-Number of features: 40
-
--kao-
-Score: 0.6208
-Base: 0.6208
-Number of features: 22
-
--msy-
-Score: 0.0000
-Base: 1.0000
-Number of features: 2
-
--otm-
-Score: 1.0000
-Base: 1.0000
-Number of features: 3
-
--pio-
-Score: 1.0000
-Base: 0.6667
-Number of features: 5
-
--pib-
-Score: 0.6181
-Base: 0.5938
-Number of features: 30
-
--spp-
-Score: 0.4425
-Base: 0.4653
-Number of features: 144
-
--avu-
-Score: 0.1414
-Base: 0.6162
-Number of features: 18
-
--yuj-
-Score: 0.2500
-Base: 0.1818
-Number of features: 24
-
--zab-
-Score: 0.7500
-Base: 0.7500
-Number of features: 7
-
--amu-
-Score: 0.4821
-Base: 0.4821
-Number of features: 18
-
--bav-
-Score: 0.5100
-Base: 0.5785
-Number of features: 66
-
--guc-
-Score: 0.6038
-Base: 0.6795
-Number of features: 55
-
--mpm-
-Score: 0.7604
-Base: 0.6146
-Number of features: 22
-
--boa-
-Score: 0.6250
-Base: 0.5000
-Number of features: 6
-
--zpi-
-Score: 0.5000
-Base: 0.5000
-Number of features: 5
-
--usa-
-Score: 0.5267
-Base: 0.4667
-Number of features: 29
-
--mhy-
-Score: 0.5000
-Base: 0.4375
-Number of features: 19
-
--kyq-
-Score: 0.5987
-Base: 0.6612
-Number of features: 31
-
--fao-
-Score: 0.8333
-Base: 0.3889
-Number of features: 11
-
--lac-
-Score: 0.9167
-Base: 0.8854
-Number of features: 29
-
--csy-
-Score: 0.2362
-Base: 0.2775
-Number of features: 32
-
--mna-
-Score: 0.5233
-Base: 0.6767
-Number of features: 32
-
--mxt-
-Score: 0.0000
-Base: 0.0000
-Number of features: 3
-
--tcz-
-Score: 0.1667
-Base: 0.5000
-Number of features: 6
-
--kmr-
-Score: 0.2738
-Base: 0.3095
-Number of features: 12
-
--myw-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--geb-
-Score: 0.2000
-Base: 0.7000
-Number of features: 21
-
--hla-
-Score: 0.3329
-Base: 0.3979
-Number of features: 37
-
--prk-
-Score: 0.6923
-Base: 0.7692
-Number of features: 13
-
--kwi-
-Score: 0.5704
-Base: 0.5614
-Number of features: 130
-
--ntp-
-Score: 0.3669
-Base: 0.3572
-Number of features: 55
-
--ptu-
-Score: 0.7500
-Base: 0.5000
-Number of features: 4
-
--awi-
-Score: 0.5926
-Base: 0.5926
-Number of features: 11
-
--agr-
-Score: 0.6667
-Base: 0.6667
-Number of features: 5
-
--bud-
-Score: 0.4231
-Base: 0.4519
-Number of features: 30
-
--nbl-
-Score: 0.7306
-Base: 0.5816
-Number of features: 36
-
--acf-
-Score: 0.0000
-Base: 0.0000
-Number of features: 2
-
--mfe-
-Score: 0.5333
-Base: 0.7000
-Number of features: 8
-
--gwi-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--toj-
-Score: 0.4375
-Base: 0.4375
-Number of features: 8
 
 -guq-
 Score: 0.6667
 Base: 0.5833
 Number of features: 12
 
--hus-
-Score: 0.5437
-Base: 0.4910
+-cat-
+Score: 0.6120
+Base: 0.5261
 Number of features: 62
 
--txu-
-Score: 0.7037
-Base: 0.3333
-Number of features: 23
+-cbi-
+Score: 0.7264
+Base: 0.5193
+Number of features: 45
 
--mca-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
+-gvn-
+Score: 0.5877
+Base: 0.6127
+Number of features: 58
 
--quh-
-Score: 0.6667
-Base: 0.8056
-Number of features: 17
+-gde-
+Score: 0.5935
+Base: 0.6838
+Number of features: 48
 
--ibo-
-Score: 0.7199
-Base: 0.6053
-Number of features: 95
+-iba-
+Score: 0.6175
+Base: 0.4487
+Number of features: 50
 
--mhi-
-Score: 0.3724
-Base: 0.4474
-Number of features: 46
+-sna-
+Score: 0.6095
+Base: 0.5012
+Number of features: 50
 
--crq-
-Score: 0.8750
-Base: 1.0000
-Number of features: 10
+-gfk-
+Score: 0.5000
+Base: 0.5000
+Number of features: 4
+
+-myw-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
 
 -twu-
 Score: 0.7778
 Base: 0.6944
 Number of features: 8
 
--suk-
-Score: 0.5357
-Base: 0.4643
-Number of features: 16
-
--emp-
-Score: 0.7167
-Base: 0.7479
-Number of features: 37
-
--tih-
-Score: 0.6680
-Base: 0.5600
-Number of features: 36
-
--urb-
-Score: 0.5321
-Base: 0.5332
-Number of features: 107
-
--tee-
-Score: 0.3900
-Base: 0.3588
+-ndo-
+Score: 0.3810
+Base: 0.5774
 Number of features: 41
 
--mbl-
-Score: 0.3036
-Base: 0.3690
-Number of features: 23
+-jbu-
+Score: 0.2352
+Base: 0.2352
+Number of features: 36
 
--bfd-
-Score: 0.5088
-Base: 0.5263
-Number of features: 24
+-snp-
+Score: 0.5263
+Base: 0.5453
+Number of features: 28
 
--bre-
-Score: 0.6618
-Base: 0.4766
-Number of features: 69
+-mzm-
+Score: 0.3728
+Base: 0.4113
+Number of features: 61
 
--mad-
-Score: 0.7619
-Base: 0.8095
-Number of features: 9
-
--rim-
-Score: 1.0000
-Base: 0.5962
-Number of features: 15
-
--sab-
+-dyi-
 Score: 0.2500
 Base: 0.5000
 Number of features: 4
 
--gvn-
-Score: 0.5019
-Base: 0.6451
-Number of features: 58
-
 -teo-
-Score: 0.4359
-Base: 0.4423
+Score: 0.4628
+Base: 0.4359
 Number of features: 39
 
--snn-
-Score: 0.5268
-Base: 0.4444
-Number of features: 35
-
--cbv-
-Score: 0.8462
-Base: 0.8077
-Number of features: 15
-
--cta-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--cya-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--nld-
-Score: 0.6885
-Base: 0.5816
-Number of features: 86
-
--gur-
-Score: 0.9167
-Base: 0.9167
-Number of features: 6
-
--kik-
-Score: 0.6433
-Base: 0.2850
-Number of features: 39
-
--gbi-
-Score: 0.5250
-Base: 0.6000
-Number of features: 12
-
--mks-
-Score: 0.5000
-Base: 0.0000
-Number of features: 2
+-txu-
+Score: 0.7037
+Base: 0.3333
+Number of features: 23
 
 -roo-
 Score: 0.3846
 Base: 0.4615
 Number of features: 13
 
--ong-
-Score: 0.5397
-Base: 0.6786
-Number of features: 37
+-tee-
+Score: 0.4300
+Base: 0.3588
+Number of features: 41
 
--agg-
-Score: 0.5547
-Base: 0.4787
-Number of features: 34
-
--jiv-
-Score: 0.6667
-Base: 0.4595
-Number of features: 50
-
--bug-
-Score: 0.6579
-Base: 0.6140
-Number of features: 25
-
--iba-
-Score: 0.7564
-Base: 0.4081
-Number of features: 50
-
--tpm-
-Score: 0.5385
-Base: 0.5385
-Number of features: 13
-
--cat-
-Score: 0.6120
-Base: 0.5499
-Number of features: 62
-
--tzo-
-Score: 0.6607
-Base: 0.5816
-Number of features: 36
-
--gux-
-Score: 0.2500
-Base: 0.2500
-Number of features: 3
-
--sna-
-Score: 0.6750
-Base: 0.4812
-Number of features: 50
-
--nya-
-Score: 0.8816
-Base: 0.6349
-Number of features: 45
-
--cso-
-Score: 0.0000
-Base: 0.0000
-Number of features: 1
-
--srq-
-Score: 0.6187
-Base: 0.5930
-Number of features: 44
-
--bzj-
-Score: 0.0000
-Base: 0.0000
-Number of features: 1
-
--ceb-
-Score: 0.5278
-Base: 0.5231
-Number of features: 34
-
--chq-
-Score: 0.4175
-Base: 0.3810
-Number of features: 47
-
--quz-
-Score: 0.4167
-Base: 0.3333
-Number of features: 8
-
--gle-
-Score: 0.5648
-Base: 0.5158
-Number of features: 119
-
--kpg-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--cut-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--qvc-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--ptp-
-Score: 0.3846
-Base: 0.4679
-Number of features: 31
-
--yuz-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--djk-
-Score: 0.5855
-Base: 0.5842
-Number of features: 117
-
--ppk-
-Score: 0.5583
-Base: 0.5250
-Number of features: 13
-
--fij-
-Score: 0.6096
-Base: 0.6383
-Number of features: 140
-
--aly-
-Score: 0.6172
-Base: 0.5887
-Number of features: 50
-
--gvf-
-Score: 0.4194
-Base: 0.7048
-Number of features: 32
-
--moc-
-Score: 0.6332
-Base: 0.5285
-Number of features: 37
-
--blz-
+-apz-
 Score: 1.0000
 Base: 0.7500
 Number of features: 4
 
--muh-
-Score: 0.0000
-Base: 0.0000
-Number of features: 4
-
--itv-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--wal-
-Score: 0.5801
-Base: 0.5340
-Number of features: 37
-
--rkb-
-Score: 0.1667
-Base: 0.3958
-Number of features: 15
-
--cbk-
-Score: 0.1250
-Base: 0.1250
-Number of features: 5
-
--gya-
-Score: 0.3222
-Base: 0.3306
-Number of features: 30
-
--huu-
-Score: 0.5942
-Base: 0.5837
-Number of features: 48
-
--upv-
-Score: 0.7500
-Base: 0.4167
-Number of features: 7
-
--agd-
-Score: 0.2865
-Base: 0.3021
-Number of features: 22
-
--sue-
-Score: 0.6580
-Base: 0.7071
-Number of features: 93
-
--pam-
-Score: 0.7979
-Base: 0.7610
-Number of features: 29
-
--por-
-Score: 0.6290
-Base: 0.5656
-Number of features: 59
-
--wnu-
-Score: 0.4818
-Base: 0.4873
-Number of features: 104
-
--gaa-
-Score: 0.5427
-Base: 0.6052
-Number of features: 37
-
--top-
-Score: 0.6939
-Base: 0.6576
-Number of features: 24
-
--noa-
-Score: 0.3222
-Base: 0.6167
-Number of features: 20
-
--vag-
-Score: 0.2917
-Base: 0.2917
-Number of features: 7
-
--agt-
-Score: 0.5670
-Base: 0.5453
-Number of features: 36
-
--kbr-
-Score: 0.3462
-Base: 0.8846
-Number of features: 14
-
--kne-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--maz-
-Score: 0.7083
-Base: 0.4167
-Number of features: 18
-
--chd-
-Score: 0.5317
-Base: 0.6746
-Number of features: 16
-
--jic-
-Score: 0.8470
-Base: 0.8595
-Number of features: 40
-
--tob-
-Score: 0.5148
-Base: 0.5033
-Number of features: 37
-
--mbb-
-Score: 0.3730
-Base: 0.4365
-Number of features: 34
-
--nwi-
-Score: 0.2500
-Base: 0.5000
-Number of features: 4
-
--bgz-
-Score: 0.6667
-Base: 0.4167
-Number of features: 6
-
--spa-
-Score: 0.6879
-Base: 0.6145
-Number of features: 155
-
--tuo-
-Score: 0.4909
-Base: 0.4782
-Number of features: 43
-
--bth-
-Score: 0.0000
-Base: 0.0000
-Number of features: 1
-
--nsn-
-Score: 0.6154
-Base: 0.6026
-Number of features: 29
-
--sda-
-Score: 1.0000
-Base: 0.6667
-Number of features: 3
-
--lit-
-Score: 0.6804
-Base: 0.4427
-Number of features: 80
-
--con-
-Score: 0.5227
-Base: 0.7348
-Number of features: 17
-
--mej-
-Score: 0.4179
-Base: 0.4571
-Number of features: 42
-
--bkd-
-Score: 0.5000
-Base: 0.5000
-Number of features: 3
-
--qvh-
-Score: 0.4288
-Base: 0.4457
-Number of features: 51
-
--ter-
-Score: 1.0000
-Base: 0.5000
-Number of features: 3
-
--ksf-
-Score: 0.6667
-Base: 0.7667
-Number of features: 13
-
--kki-
-Score: 0.6833
-Base: 0.3417
-Number of features: 19
-
--ncl-
-Score: 0.5778
-Base: 0.4148
-Number of features: 35
-
--mgh-
-Score: 0.9875
-Base: 0.2875
-Number of features: 24
-
--aau-
-Score: 0.3684
-Base: 0.4737
-Number of features: 19
-
--apr-
-Score: 0.5370
-Base: 0.6991
-Number of features: 33
-
--bis-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--mie-
-Score: 0.6452
-Base: 0.4833
-Number of features: 37
-
--run-
-Score: 1.0000
-Base: 0.5333
-Number of features: 8
-
--tzj-
-Score: 0.5636
-Base: 0.5117
-Number of features: 79
-
--cof-
-Score: 0.3500
-Base: 0.3583
-Number of features: 37
-
--pab-
-Score: 0.7500
-Base: 0.5000
-Number of features: 3
-
--kin-
-Score: 0.7087
-Base: 0.5107
-Number of features: 34
-
--nnb-
-Score: 0.5926
-Base: 0.2222
-Number of features: 11
-
--ura-
-Score: 0.6292
-Base: 0.6042
-Number of features: 26
-
--ind-
-Score: 0.6894
-Base: 0.7141
-Number of features: 154
-
--crs-
-Score: 1.0000
-Base: 1.0000
-Number of features: 4
-
--tca-
-Score: 0.4667
-Base: 0.3639
-Number of features: 33
-
--chr-
-Score: 0.5572
-Base: 0.4203
-Number of features: 51
-
--ilo-
-Score: 0.6972
-Base: 0.6889
-Number of features: 21
-
--snp-
-Score: 0.5453
-Base: 0.5558
-Number of features: 28
-
--kyc-
-Score: 0.3384
-Base: 0.5505
-Number of features: 22
-
--mto-
-Score: 0.5577
-Base: 0.4808
-Number of features: 17
-
--mib-
-Score: 0.3750
-Base: 0.4167
-Number of features: 7
-
--ncu-
-Score: 0.2500
-Base: 0.2500
-Number of features: 4
-
--mva-
-Score: 0.5733
-Base: 0.5450
-Number of features: 54
-
--kbc-
-Score: 0.5156
-Base: 0.5000
-Number of features: 22
-
--wnc-
-Score: 0.7692
-Base: 0.6154
-Number of features: 13
-
--zos-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--yaq-
-Score: 0.5741
-Base: 0.5524
-Number of features: 141
-
--mcb-
-Score: 0.6875
-Base: 0.7125
-Number of features: 22
-
--amr-
-Score: 0.7222
-Base: 0.6111
-Number of features: 11
-
--pad-
-Score: 0.5200
-Base: 0.5403
-Number of features: 117
-
--agm-
-Score: 0.5192
-Base: 0.5192
-Number of features: 17
-
--miz-
-Score: 0.5000
-Base: 1.0000
-Number of features: 2
-
--nvm-
-Score: 0.7172
-Base: 0.8583
-Number of features: 46
-
--ann-
-Score: 0.4592
-Base: 0.4490
-Number of features: 45
-
--wca-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--mhx-
-Score: 0.4018
-Base: 0.5089
-Number of features: 34
-
--guw-
-Score: 0.7222
-Base: 0.7222
-Number of features: 10
-
 -cbr-
-Score: 0.9034
-Base: 0.7034
+Score: 0.7673
+Base: 0.6748
 Number of features: 32
-
--tbc-
-Score: 0.4679
-Base: 0.3942
-Number of features: 32
-
--bkq-
-Score: 0.6154
-Base: 0.6154
-Number of features: 13
-
--azz-
-Score: 0.3333
-Base: 0.3333
-Number of features: 3
-
--amm-
-Score: 0.0000
-Base: 0.3333
-Number of features: 3
-
--gla-
-Score: 0.5044
-Base: 0.4096
-Number of features: 61
-
--jam-
-Score: 0.0000
-Base: 0.0000
-Number of features: 1
-
--cme-
-Score: 0.3769
-Base: 0.3692
-Number of features: 30
-
--wol-
-Score: 0.4532
-Base: 0.4893
-Number of features: 79
-
--byx-
-Score: 0.5865
-Base: 0.4231
-Number of features: 17
-
--mnk-
-Score: 0.8417
-Base: 0.8639
-Number of features: 40
-
--amk-
-Score: 0.2405
-Base: 0.3714
-Number of features: 37
-
--chf-
-Score: 0.7932
-Base: 0.7779
-Number of features: 41
-
--myy-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--kaa-
-Score: 0.5234
-Base: 0.4223
-Number of features: 38
-
--maq-
-Score: 0.4308
-Base: 0.4795
-Number of features: 37
-
--ndo-
-Score: 0.3810
-Base: 0.5774
-Number of features: 41
-
--lee-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--jav-
-Score: 0.4174
-Base: 0.3826
-Number of features: 28
-
--war-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--cbi-
-Score: 0.7097
-Base: 0.5134
-Number of features: 45
-
--zpq-
-Score: 0.3804
-Base: 0.3877
-Number of features: 31
-
--fub-
-Score: 0.5674
-Base: 0.6239
-Number of features: 66
-
--npy-
-Score: 0.5000
-Base: 0.3333
-Number of features: 4
-
--dip-
-Score: 0.1865
-Base: 0.3519
-Number of features: 56
-
--nko-
-Score: 0.2333
-Base: 0.3000
-Number of features: 35
-
--apu-
-Score: 0.5938
-Base: 0.5948
-Number of features: 129
-
--bba-
-Score: 0.5833
-Base: 0.5000
-Number of features: 12
-
--gfk-
-Score: 0.5000
-Base: 0.2500
-Number of features: 4
-
--arn-
-Score: 0.6051
-Base: 0.6087
-Number of features: 138
-
--mrw-
-Score: 0.7500
-Base: 0.6667
-Number of features: 12
-
--lew-
-Score: 1.0000
-Base: 0.6667
-Number of features: 3
-
--hin-
-Score: 0.5016
-Base: 0.5033
-Number of features: 143
-
--sll-
-Score: 0.6594
-Base: 0.5406
-Number of features: 51
-
--kms-
-Score: 0.2299
-Base: 0.3563
-Number of features: 37
-
--too-
-Score: 0.5541
-Base: 0.6273
-Number of features: 34
-
--xsi-
-Score: 0.2031
-Base: 0.3534
-Number of features: 42
-
--apy-
-Score: 0.6190
-Base: 0.5036
-Number of features: 53
-
--quy-
-Score: 0.7500
-Base: 0.6667
-Number of features: 7
-
--cpc-
-Score: 0.7100
-Base: 0.6916
-Number of features: 66
-
--cha-
-Score: 0.6568
-Base: 0.6565
-Number of features: 140
-
--shk-
-Score: 0.5821
-Base: 0.6227
-Number of features: 39
-
--ahk-
-Score: 0.4722
-Base: 0.5456
-Number of features: 37
-
--sba-
-Score: 0.4303
-Base: 0.4772
-Number of features: 42
-
--spl-
-Score: 0.7000
-Base: 0.8278
-Number of features: 36
-
--nia-
-Score: 0.4803
-Base: 0.4635
-Number of features: 47
-
--zpm-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--yrb-
-Score: 0.7084
-Base: 0.6550
-Number of features: 50
-
--tgl-
-Score: 0.5640
-Base: 0.5404
-Number of features: 144
-
--tbo-
-Score: 0.4467
-Base: 0.4192
-Number of features: 48
-
--mak-
-Score: 0.8000
-Base: 0.7333
-Number of features: 8
-
--tui-
-Score: 0.4500
-Base: 0.5500
-Number of features: 20
-
--cym-
-Score: 0.4938
-Base: 0.5825
-Number of features: 69
-
--tcs-
-Score: 0.7000
-Base: 0.7000
-Number of features: 7
-
--quc-
-Score: 0.2917
-Base: 0.5417
-Number of features: 7
-
--dts-
-Score: 0.5000
-Base: 0.4286
-Number of features: 14
-
--bex-
-Score: 0.1820
-Base: 0.3010
-Number of features: 41
-
--tfr-
-Score: 0.4666
-Base: 0.4852
-Number of features: 56
-
--xsm-
-Score: 0.8611
-Base: 0.8056
-Number of features: 11
-
--lcm-
-Score: 0.3932
-Base: 0.3675
-Number of features: 17
-
--ncj-
-Score: 0.6000
-Base: 0.4972
-Number of features: 39
-
--tpi-
-Score: 0.5000
-Base: 0.5833
-Number of features: 16
-
--aey-
-Score: 0.5705
-Base: 0.6275
-Number of features: 148
-
--kkl-
-Score: 0.6200
-Base: 0.6200
-Number of features: 20
-
--alp-
-Score: 0.3626
-Base: 0.3929
-Number of features: 38
-
--myu-
-Score: 0.4167
-Base: 0.3750
-Number of features: 12
-
--bao-
-Score: 0.6923
-Base: 0.7308
-Number of features: 15
-
--cav-
-Score: 0.6523
-Base: 0.6215
-Number of features: 34
-
--blw-
-Score: 0.5000
-Base: 0.2500
-Number of features: 4
-
--wwa-
-Score: 0.7500
-Base: 0.8750
-Number of features: 9
-
--hvn-
-Score: 0.5250
-Base: 0.5250
-Number of features: 24
-
--cjp-
-Score: 0.5000
-Base: 0.5000
-Number of features: 2
-
--kaq-
-Score: 0.8250
-Base: 0.8250
-Number of features: 14
-
--djr-
-Score: 0.6632
-Base: 0.4842
-Number of features: 23
-
--cak-
-Score: 0.3833
-Base: 0.3833
-Number of features: 37
-
--ban-
-Score: 0.6667
-Base: 0.7292
-Number of features: 14
-
--ksd-
-Score: 0.5156
-Base: 0.4817
-Number of features: 53
-
--opm-
-Score: 0.3900
-Base: 0.6100
-Number of features: 27
-
--faa-
-Score: 0.4620
-Base: 0.4120
-Number of features: 29
-
--nhe-
-Score: 0.8513
-Base: 0.6128
-Number of features: 35
-
--bbc-
-Score: 0.6192
-Base: 0.5984
-Number of features: 57
-
--ces-
-Score: 0.5320
-Base: 0.5318
-Number of features: 58
-
--uig-
-Score: 0.3587
-Base: 0.3190
-Number of features: 35
-
--mvn-
-Score: 0.3500
-Base: 0.2500
-Number of features: 11
-
--bjr-
-Score: 1.0000
-Base: 1.0000
-Number of features: 1
-
--abt-
-Score: 0.4846
-Base: 0.5132
-Number of features: 37
-
--myb-
-Score: 0.3221
-Base: 0.3876
-Number of features: 53
-
--tsn-
-Score: 0.6667
-Base: 0.6667
-Number of features: 5
-
--tpt-
-Score: 0.4316
-Base: 0.2680
-Number of features: 37
-
--yle-
-Score: 0.3932
-Base: 0.4735
-Number of features: 44
-
--ese-
-Score: 0.4745
-Base: 0.5464
-Number of features: 43
-
--hto-
-Score: 0.5189
-Base: 0.4751
-Number of features: 46
-
--yad-
-Score: 0.5831
-Base: 0.5949
-Number of features: 127
-
--mos-
-Score: 0.4389
-Base: 0.4489
-Number of features: 42
-
--crn-
-Score: 0.5367
-Base: 0.5150
-Number of features: 34
-
--qug-
-Score: 0.6667
-Base: 0.6667
-Number of features: 4
-
--sja-
-Score: 0.5436
-Base: 0.5445
-Number of features: 120
-
--luo-
-Score: 0.5020
-Base: 0.5182
-Number of features: 67
-
--pap-
-Score: 0.7500
-Base: 0.8750
-Number of features: 6
-
--wos-
-Score: 0.3269
-Base: 0.4038
-Number of features: 15
-
--gug-
-Score: 0.5585
-Base: 0.5891
-Number of features: 136
-
--srm-
-Score: 0.5222
-Base: 0.5222
-Number of features: 12
-
--ycn-
-Score: 0.8113
-Base: 0.8338
-Number of features: 31
-
--wed-
-Score: 0.2598
-Base: 0.1324
-Number of features: 22
-
--xho-
-Score: 0.6708
-Base: 0.4569
-Number of features: 36
-
--tlb-
-Score: 0.2955
-Base: 0.3596
-Number of features: 32
-
--tna-
-Score: 0.5939
-Base: 0.6237
-Number of features: 54
-
--tlf-
-Score: 0.7258
-Base: 0.7076
-Number of features: 28
-
--cbc-
-Score: 0.6481
-Base: 0.5278
-Number of features: 19
-
--mcp-
-Score: 0.2647
-Base: 0.2941
-Number of features: 18
-
--pwg-
-Score: 0.4750
-Base: 0.6500
-Number of features: 31
-
--yva-
-Score: 0.3141
-Base: 0.3141
-Number of features: 19
-
--sld-
-Score: 0.3214
-Base: 0.4286
-Number of features: 15
-
--dgz-
-Score: 0.7366
-Base: 0.7117
-Number of features: 111
-
--mio-
-Score: 0.6500
-Base: 0.4833
-Number of features: 31
-
--cko-
-Score: 0.3983
-Base: 0.4783
-Number of features: 36
-
--mjc-
-Score: 1.0000
-Base: 1.0000
-Number of features: 2
-
--glv-
-Score: 0.5556
-Base: 0.2222
-Number of features: 5
-
--mlp-
-Score: 0.1250
-Base: 0.1250
-Number of features: 7
-
--isl-
-Score: 0.7198
-Base: 0.5411
-Number of features: 76
-
--leu-
-Score: 0.2500
-Base: 0.2500
-Number of features: 4
-
--kmh-
-Score: 0.6472
-Base: 0.6139
-Number of features: 20
-
--bim-
-Score: 0.4630
-Base: 0.7852
-Number of features: 34
-
--acu-
-Score: 0.4643
-Base: 0.4881
-Number of features: 18
-
--lex-
-Score: 0.5000
-Base: 0.5000
-Number of features: 4
-
--car-
-Score: 0.5430
-Base: 0.4910
-Number of features: 91
 
 -eng-
-Score: 0.6619
-Base: 0.6046
+Score: 0.6715
+Base: 0.6102
 Number of features: 159
 
--aln-
-Score: 0.4956
-Base: 0.4534
-Number of features: 90
+-aia-
+Score: 0.6651
+Base: 0.4312
+Number of features: 44
 
--heh-
+-jam-
 Score: 1.0000
-Base: 0.6184
-Number of features: 21
+Base: 1.0000
+Number of features: 1
 
--mxp-
-Score: 0.4167
-Base: 0.2500
-Number of features: 20
-
--ian-
-Score: 0.8333
-Base: 0.8333
-Number of features: 4
-
--kzf-
-Score: 1.0000
-Base: 0.6667
-Number of features: 3
-
--loz-
-Score: 0.6667
-Base: 0.6667
-Number of features: 7
-
--jae-
-Score: 0.2399
-Base: 0.2734
-Number of features: 45
-
--acn-
-Score: 0.7143
-Base: 0.7143
-Number of features: 15
-
--kde-
-Score: 1.0000
-Base: 0.6029
-Number of features: 19
-
--tbl-
-Score: 0.4599
-Base: 0.5123
-Number of features: 38
-
--tik-
-Score: 0.5030
-Base: 0.5394
-Number of features: 17
-
--mps-
-Score: 0.6923
-Base: 0.5385
-Number of features: 13
-
--esi-
-Score: 0.3333
-Base: 0.3333
-Number of features: 3
-
--cjv-
-Score: 0.5455
-Base: 0.5455
-Number of features: 11
-
--zsm-
-Score: 0.0000
-Base: 0.6667
-Number of features: 4
+-ycn-
+Score: 0.8313
+Base: 0.8338
+Number of features: 31
 
 -tav-
 Score: 1.0000
 Base: 1.0000
 Number of features: 2
 
--hnn-
-Score: 0.2500
-Base: 0.1250
+-wed-
+Score: 0.2745
+Base: 0.1471
+Number of features: 22
+
+-glv-
+Score: 0.5556
+Base: 0.2222
 Number of features: 5
+
+-aoj-
+Score: 0.2381
+Base: 0.3167
+Number of features: 30
+
+-caa-
+Score: 0.3333
+Base: 0.3333
+Number of features: 4
+
+-awb-
+Score: 0.7343
+Base: 0.7186
+Number of features: 32
+
+-tca-
+Score: 0.4556
+Base: 0.3639
+Number of features: 33
+
+-agm-
+Score: 0.5577
+Base: 0.5192
+Number of features: 17
+
+-irk-
+Score: 0.5980
+Base: 0.6357
+Number of features: 118
+
+-dyu-
+Score: 0.0000
+Base: 0.0000
+Number of features: 2
+
+-ifb-
+Score: 0.3000
+Base: 0.3500
+Number of features: 36
+
+-tbg-
+Score: 0.8700
+Base: 0.8100
+Number of features: 28
+
+-mrw-
+Score: 0.7500
+Base: 0.7500
+Number of features: 12
+
+-mfy-
+Score: 0.5000
+Base: 1.0000
+Number of features: 3
+
+-zul-
+Score: 0.6571
+Base: 0.6157
+Number of features: 141
+
+-trc-
+Score: 0.3894
+Base: 0.4005
+Number of features: 44
+
+-lus-
+Score: 0.3745
+Base: 0.4895
+Number of features: 51
+
+-mxt-
+Score: 0.0000
+Base: 0.0000
+Number of features: 3
+
+-bex-
+Score: 0.2126
+Base: 0.3010
+Number of features: 41
+
+-zpq-
+Score: 0.5471
+Base: 0.4710
+Number of features: 31
+
+-amp-
+Score: 0.5437
+Base: 0.5779
+Number of features: 134
+
+-yua-
+Score: 0.6333
+Base: 0.5667
+Number of features: 23
+
+-lwo-
+Score: 0.6071
+Base: 0.6786
+Number of features: 9
+
+-agg-
+Score: 0.3707
+Base: 0.5367
+Number of features: 34
+
+-heh-
+Score: 1.0000
+Base: 0.6184
+Number of features: 21
+
+-sua-
+Score: 0.3929
+Base: 0.4062
+Number of features: 47
+
+-mad-
+Score: 0.7619
+Base: 0.8095
+Number of features: 9
+
+-xav-
+Score: 0.3611
+Base: 0.4444
+Number of features: 18
+
+-maw-
+Score: 0.2500
+Base: 0.5000
+Number of features: 4
+
+-kde-
+Score: 1.0000
+Base: 0.6029
+Number of features: 19
+
+-hch-
+Score: 0.6852
+Base: 0.6111
+Number of features: 36
+
+-bgz-
+Score: 0.6667
+Base: 0.4167
+Number of features: 6
+
+-apw-
+Score: 0.0652
+Base: 0.1353
+Number of features: 32
+
+-ann-
+Score: 0.4980
+Base: 0.4255
+Number of features: 45
+
+-bkq-
+Score: 0.6154
+Base: 0.6154
+Number of features: 13
+
+-nhr-
+Score: 0.5000
+Base: 0.5000
+Number of features: 3
+
+-ctu-
+Score: 0.6667
+Base: 0.6667
+Number of features: 5
+
+-emi-
+Score: 0.6357
+Base: 0.6476
+Number of features: 37
+
+-sps-
+Score: 0.5707
+Base: 0.5815
+Number of features: 29
+
+-ban-
+Score: 0.6667
+Base: 0.7708
+Number of features: 14
+
+-tuo-
+Score: 0.4825
+Base: 0.4782
+Number of features: 43
+
+-kaa-
+Score: 0.5179
+Base: 0.4278
+Number of features: 38
+
+-mbc-
+Score: 0.4590
+Base: 0.4714
+Number of features: 80
+
+-suk-
+Score: 0.5357
+Base: 0.4643
+Number of features: 16
+
+-mal-
+Score: 0.4083
+Base: 0.4694
+Number of features: 68
+
+-kwi-
+Score: 0.5764
+Base: 0.5665
+Number of features: 130
+
+-sba-
+Score: 0.5034
+Base: 0.4772
+Number of features: 42
+
+-kup-
+Score: 0.4059
+Base: 0.4322
+Number of features: 42
+
+-dje-
+Score: 0.5000
+Base: 0.5125
+Number of features: 24
+
+-mej-
+Score: 0.4571
+Base: 0.4571
+Number of features: 42
+
+-shu-
+Score: 0.7500
+Base: 0.2500
+Number of features: 3
+
+-swh-
+Score: 0.7014
+Base: 0.6869
+Number of features: 142
+
+-urb-
+Score: 0.5535
+Base: 0.4927
+Number of features: 107
+
+-ape-
+Score: 0.6690
+Base: 0.6933
+Number of features: 120
+
+-jav-
+Score: 0.3944
+Base: 0.3271
+Number of features: 28
+
+-srn-
+Score: 0.4000
+Base: 0.7000
+Number of features: 8
+
+-nhe-
+Score: 0.9179
+Base: 0.6128
+Number of features: 35
+
+-bug-
+Score: 0.8224
+Base: 0.6140
+Number of features: 25
+
+-lit-
+Score: 0.7016
+Base: 0.4685
+Number of features: 80
+
+-tzj-
+Score: 0.5318
+Base: 0.5117
+Number of features: 79
+
+-tar-
+Score: 0.6944
+Base: 0.6627
+Number of features: 34
+
+-mna-
+Score: 0.4333
+Base: 0.6767
+Number of features: 32
+
+-ssd-
+Score: 0.6421
+Base: 0.6444
+Number of features: 45
+
+-auc-
+Score: 0.4762
+Base: 0.4286
+Number of features: 71
+
+-pad-
+Score: 0.5487
+Base: 0.5287
+Number of features: 117
+
+-dgc-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-meu-
+Score: 0.4557
+Base: 0.5874
+Number of features: 36
+
+-mww-
+Score: 0.5000
+Base: 0.5000
+Number of features: 6
+
+-amn-
+Score: 0.5426
+Base: 0.5389
+Number of features: 28
+
+-men-
+Score: 0.3579
+Base: 0.5620
+Number of features: 45
+
+-sun-
+Score: 0.6860
+Base: 0.6503
+Number of features: 59
+
+-laj-
+Score: 0.6168
+Base: 0.6266
+Number of features: 141
+
+-nab-
+Score: 0.5133
+Base: 0.5583
+Number of features: 61
+
+-npy-
+Score: 0.5000
+Base: 0.3333
+Number of features: 4
+
+-ign-
+Score: 0.6304
+Base: 0.5774
+Number of features: 38
+
+-myu-
+Score: 0.5000
+Base: 0.3333
+Number of features: 12
+
+-ttc-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-tcs-
+Score: 0.7000
+Base: 0.7000
+Number of features: 7
+
+-acn-
+Score: 0.6786
+Base: 0.7143
+Number of features: 15
+
+-pbb-
+Score: 0.5936
+Base: 0.5197
+Number of features: 60
+
+-nsn-
+Score: 0.9487
+Base: 0.9487
+Number of features: 29
+
+-dyo-
+Score: 0.6210
+Base: 0.5747
+Number of features: 94
+
+-mva-
+Score: 0.5476
+Base: 0.5707
+Number of features: 54
+
+-bim-
+Score: 0.4630
+Base: 0.7926
+Number of features: 34
+
+-usa-
+Score: 0.5367
+Base: 0.4667
+Number of features: 29
+
+-hat-
+Score: 0.8333
+Base: 0.8889
+Number of features: 8
+
+-alq-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-yan-
+Score: 0.5000
+Base: 0.5000
+Number of features: 3
+
+-quc-
+Score: 0.5417
+Base: 0.5417
+Number of features: 7
+
+-zos-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-tpi-
+Score: 0.5000
+Base: 0.5694
+Number of features: 16
+
+-mnb-
+Score: 0.6527
+Base: 0.6425
+Number of features: 63
+
+-spp-
+Score: 0.4608
+Base: 0.4739
+Number of features: 144
+
+-mos-
+Score: 0.3714
+Base: 0.4439
+Number of features: 42
+
+-mqy-
+Score: 0.2917
+Base: 0.2824
+Number of features: 30
+
+-eus-
+Score: 0.6410
+Base: 0.5875
+Number of features: 153
+
+-kgp-
+Score: 0.7313
+Base: 0.4966
+Number of features: 45
+
+-inb-
+Score: 0.2500
+Base: 0.2500
+Number of features: 5
+
+-tgl-
+Score: 0.5526
+Base: 0.5178
+Number of features: 144
+
+-kjs-
+Score: 0.6775
+Base: 0.6686
+Number of features: 123
+
+-dan-
+Score: 0.7413
+Base: 0.6228
+Number of features: 57
+
+-kbq-
+Score: 0.7500
+Base: 0.7500
+Number of features: 4
+
+-mak-
+Score: 0.8000
+Base: 0.7333
+Number of features: 8
+
+-nya-
+Score: 0.8638
+Base: 0.6243
+Number of features: 45
+
+-gnn-
+Score: 0.0000
+Base: 0.0000
+Number of features: 1
+
+-smo-
+Score: 0.5120
+Base: 0.5630
+Number of features: 73
+
+-guc-
+Score: 0.5963
+Base: 0.6564
+Number of features: 55
+
+-kzf-
+Score: 1.0000
+Base: 0.6667
+Number of features: 3
+
+-way-
+Score: 0.5000
+Base: 0.5000
+Number of features: 3
+
+-est-
+Score: 0.5753
+Base: 0.5563
+Number of features: 60
+
+-gur-
+Score: 0.9167
+Base: 0.9167
+Number of features: 6
+
+-tur-
+Score: 0.5005
+Base: 0.4974
+Number of features: 154
+
+-faa-
+Score: 0.4453
+Base: 0.3825
+Number of features: 29
+
+-srq-
+Score: 0.5948
+Base: 0.5930
+Number of features: 44
+
+-ces-
+Score: 0.5593
+Base: 0.4861
+Number of features: 58
+
+-mwv-
+Score: 0.9643
+Base: 0.8452
+Number of features: 12
+
+-bvr-
+Score: 0.4925
+Base: 0.4134
+Number of features: 39
+
+-spa-
+Score: 0.7019
+Base: 0.6371
+Number of features: 155
+
+-ron-
+Score: 0.6957
+Base: 0.4971
+Number of features: 83
+
+-loz-
+Score: 0.6667
+Base: 0.6667
+Number of features: 7
+
+-ncl-
+Score: 0.5778
+Base: 0.4148
+Number of features: 35
+
+-geb-
+Score: 0.6750
+Base: 0.6750
+Number of features: 21
+
+-hil-
+Score: 0.7857
+Base: 0.6476
+Number of features: 29
+
+-tui-
+Score: 0.4500
+Base: 0.5500
+Number of features: 20
+
+-qvc-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-apy-
+Score: 0.5813
+Base: 0.4577
+Number of features: 53
+
+-nyn-
+Score: 0.6256
+Base: 0.4205
+Number of features: 34
+
+-kne-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-cjo-
+Score: 0.6667
+Base: 0.8333
+Number of features: 5
+
+-cap-
+Score: 0.6464
+Base: 0.6710
+Number of features: 30
+
+-kms-
+Score: 0.2437
+Base: 0.3425
+Number of features: 37
+
+-mks-
+Score: 0.5000
+Base: 0.0000
+Number of features: 2
+
+-sur-
+Score: 0.3670
+Base: 0.3632
+Number of features: 64
+
+-arn-
+Score: 0.5914
+Base: 0.6018
+Number of features: 138
+
+-lee-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-qug-
+Score: 0.6667
+Base: 0.6667
+Number of features: 4
+
+-yor-
+Score: 0.6349
+Base: 0.6366
+Number of features: 140
+
+-bbc-
+Score: 0.6192
+Base: 0.6262
+Number of features: 57
+
+-gah-
+Score: 0.7042
+Base: 0.5885
+Number of features: 32
 
 -xon-
 Score: 0.0000
 Base: 0.0000
 Number of features: 4
 
+-tob-
+Score: 0.5205
+Base: 0.5090
+Number of features: 37
+
+-okv-
+Score: 0.4639
+Base: 0.5556
+Number of features: 28
+
+-noa-
+Score: 0.3444
+Base: 0.6167
+Number of features: 20
+
+-amk-
+Score: 0.2405
+Base: 0.3714
+Number of features: 37
+
+-nas-
+Score: 0.5170
+Base: 0.5969
+Number of features: 59
+
+-mlp-
+Score: 0.1250
+Base: 0.1250
+Number of features: 7
+
+-cha-
+Score: 0.7002
+Base: 0.6469
+Number of features: 140
+
+-bjr-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-sot-
+Score: 0.7461
+Base: 0.8176
+Number of features: 40
+
+-gux-
+Score: 0.2500
+Base: 0.2500
+Number of features: 3
+
+-kue-
+Score: 0.7048
+Base: 0.7143
+Number of features: 27
+
+-pib-
+Score: 0.7118
+Base: 0.5868
+Number of features: 30
+
+-sue-
+Score: 0.6743
+Base: 0.7009
+Number of features: 93
+
+-coe-
+Score: 0.4143
+Base: 0.2286
+Number of features: 20
+
+-yuj-
+Score: 0.2500
+Base: 0.1818
+Number of features: 24
+
+-kpw-
+Score: 0.5854
+Base: 0.6293
+Number of features: 129
+
+-dgz-
+Score: 0.7376
+Base: 0.7101
+Number of features: 111
+
+-dnj-
+Score: 0.3823
+Base: 0.6125
+Number of features: 44
+
+-qvi-
+Score: 0.6684
+Base: 0.6569
+Number of features: 127
+
+-mop-
+Score: 0.5833
+Base: 0.7500
+Number of features: 5
+
+-ace-
+Score: 0.6754
+Base: 0.6492
+Number of features: 75
+
+-zai-
+Score: 0.4550
+Base: 0.4730
+Number of features: 43
+
+-etr-
+Score: 0.7000
+Base: 0.6000
+Number of features: 10
+
+-sri-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-ilo-
+Score: 0.6972
+Base: 0.7444
+Number of features: 21
+
+-wbp-
+Score: 0.6196
+Base: 0.5571
+Number of features: 43
+
+-ngu-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-maz-
+Score: 0.5417
+Base: 0.4167
+Number of features: 18
+
+-for-
+Score: 0.5458
+Base: 0.4854
+Number of features: 26
+
+-bmr-
+Score: 0.6808
+Base: 0.4711
+Number of features: 32
+
+-kto-
+Score: 0.4825
+Base: 0.4540
+Number of features: 43
+
+-cpc-
+Score: 0.6979
+Base: 0.6916
+Number of features: 66
+
+-gaa-
+Score: 0.4765
+Base: 0.6052
+Number of features: 37
+
 -nij-
 Score: 0.7500
 Base: 0.5000
 Number of features: 4
 
--wap-
-Score: 0.6923
-Base: 0.5385
+-crq-
+Score: 0.7500
+Base: 1.0000
+Number of features: 10
+
+-deu-
+Score: 0.6286
+Base: 0.5491
+Number of features: 154
+
+-des-
+Score: 0.5652
+Base: 0.5462
+Number of features: 43
+
+-lcm-
+Score: 0.5299
+Base: 0.3675
+Number of features: 17
+
+-gmv-
+Score: 0.5769
+Base: 0.4952
+Number of features: 20
+
+-tpt-
+Score: 0.4649
+Base: 0.2604
+Number of features: 37
+
+-chk-
+Score: 0.5417
+Base: 0.5417
+Number of features: 9
+
+-guo-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-kng-
+Score: 0.7043
+Base: 0.6237
+Number of features: 69
+
+-cof-
+Score: 0.3583
+Base: 0.3583
+Number of features: 37
+
+-nhu-
+Score: 0.4405
+Base: 0.4346
+Number of features: 51
+
+-kje-
+Score: 0.8000
+Base: 0.8000
+Number of features: 5
+
+-mvn-
+Score: 0.9000
+Base: 0.7500
+Number of features: 11
+
+-quy-
+Score: 0.8750
+Base: 0.6667
+Number of features: 7
+
+-amf-
+Score: 0.3341
+Base: 0.3726
+Number of features: 25
+
+-ong-
+Score: 0.6290
+Base: 0.6845
+Number of features: 37
+
+-zab-
+Score: 0.7500
+Base: 0.7500
+Number of features: 7
+
+-rim-
+Score: 1.0000
+Base: 0.5577
+Number of features: 15
+
+-ppk-
+Score: 0.6083
+Base: 0.5250
 Number of features: 13
 
--aoz-
+-por-
+Score: 0.6652
+Base: 0.5713
+Number of features: 59
+
+-pir-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-kac-
+Score: 0.4444
+Base: 0.3582
+Number of features: 49
+
+-tac-
+Score: 0.5400
+Base: 0.6422
+Number of features: 40
+
+-ptu-
+Score: 0.7500
+Base: 0.5000
+Number of features: 4
+
+-ntp-
+Score: 0.3520
+Base: 0.3572
+Number of features: 55
+
+-esi-
+Score: 0.3333
+Base: 0.3333
+Number of features: 3
+
+-tik-
+Score: 0.5030
+Base: 0.5394
+Number of features: 17
+
+-ljp-
+Score: 0.5238
+Base: 0.5493
+Number of features: 43
+
+-run-
+Score: 1.0000
+Base: 0.5333
+Number of features: 8
+
+-sme-
+Score: 0.6911
+Base: 0.7371
+Number of features: 49
+
+-tsz-
+Score: 0.7450
+Base: 0.7258
+Number of features: 82
+
+-azb-
+Score: 0.4173
+Base: 0.4501
+Number of features: 59
+
+-kmr-
+Score: 0.1905
+Base: 0.5238
+Number of features: 12
+
+-bqc-
+Score: 0.6870
+Base: 0.5957
+Number of features: 30
+
+-gvc-
+Score: 1.0000
+Base: 1.0000
+Number of features: 3
+
+-yad-
+Score: 0.5938
+Base: 0.5815
+Number of features: 127
+
+-guh-
+Score: 0.4735
+Base: 0.5318
+Number of features: 28
+
+-srm-
+Score: 0.4556
+Base: 0.5222
+Number of features: 12
+
+-kpg-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-mio-
+Score: 0.4417
+Base: 0.4083
+Number of features: 31
+
+-tbl-
+Score: 0.6759
+Base: 0.5123
+Number of features: 38
+
+-bem-
+Score: 0.8500
+Base: 0.8000
+Number of features: 14
+
+-hwc-
+Score: 0.2500
+Base: 0.3750
+Number of features: 5
+
+-rkb-
+Score: 0.1458
+Base: 0.3958
+Number of features: 15
+
+-tbc-
+Score: 0.4679
+Base: 0.4679
+Number of features: 32
+
+-ssw-
+Score: 0.6528
+Base: 0.6250
+Number of features: 24
+
+-wwa-
+Score: 0.7500
+Base: 0.8750
+Number of features: 9
+
+-zpz-
+Score: 0.2500
+Base: 1.0000
+Number of features: 4
+
+-bcw-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-kek-
+Score: 0.6818
+Base: 0.9091
+Number of features: 15
+
+-aom-
+Score: 0.4608
+Base: 0.7725
+Number of features: 24
+
+-pmf-
+Score: 1.0000
+Base: 0.7222
+Number of features: 8
+
+-cbu-
+Score: 0.6600
+Base: 0.5833
+Number of features: 31
+
+-alp-
+Score: 0.3348
+Base: 0.3929
+Number of features: 38
+
+-mib-
+Score: 0.2500
+Base: 0.1667
+Number of features: 7
+
+-bam-
+Score: 0.3827
+Base: 0.4263
+Number of features: 89
+
+-mfe-
+Score: 0.5333
+Base: 0.7000
+Number of features: 8
+
+-cbs-
+Score: 0.8056
+Base: 0.8056
+Number of features: 11
+
+-cme-
+Score: 0.3615
+Base: 0.3769
+Number of features: 30
+
+-cko-
+Score: 0.3500
+Base: 0.4383
+Number of features: 36
+
+-bre-
+Score: 0.6094
+Base: 0.5078
+Number of features: 69
+
+-maq-
+Score: 0.4308
+Base: 0.4795
+Number of features: 37
+
+-acf-
+Score: 0.0000
+Base: 0.0000
+Number of features: 2
+
+-btx-
+Score: 0.6391
+Base: 0.6802
+Number of features: 111
+
+-pab-
+Score: 0.7500
+Base: 0.5000
+Number of features: 3
+
+-nko-
+Score: 0.2407
+Base: 0.2926
+Number of features: 35
+
+-rmy-
+Score: 0.7200
+Base: 0.4533
+Number of features: 13
+
+-luo-
+Score: 0.5068
+Base: 0.5295
+Number of features: 67
+
+-mps-
+Score: 0.6154
+Base: 0.6154
+Number of features: 13
+
+-bar-
+Score: 1.0000
+Base: 0.5000
+Number of features: 2
+
+-mzh-
+Score: 0.4473
+Base: 0.4647
+Number of features: 128
+
+-plt-
+Score: 0.6499
+Base: 0.6932
+Number of features: 144
+
+-yrb-
+Score: 0.7084
+Base: 0.6074
+Number of features: 50
+
+-tlf-
+Score: 0.7439
+Base: 0.6576
+Number of features: 28
+
+-xsu-
+Score: 0.4652
+Base: 0.4851
+Number of features: 122
+
+-fon-
+Score: 0.2472
+Base: 0.2542
+Number of features: 35
+
+-wrs-
+Score: 0.8750
+Base: 0.7917
+Number of features: 15
+
+-wnu-
+Score: 0.4942
+Base: 0.4776
+Number of features: 104
+
+-bvz-
+Score: 0.6828
+Base: 0.6218
+Number of features: 32
+
+-nia-
+Score: 0.4850
+Base: 0.4682
+Number of features: 47
+
+-tzo-
+Score: 0.5816
+Base: 0.5816
+Number of features: 36
+
+-myb-
+Score: 0.3548
+Base: 0.3691
+Number of features: 53
+
+-acu-
+Score: 0.4881
+Base: 0.5714
+Number of features: 18
+
+-cbc-
+Score: 0.6481
+Base: 0.5463
+Number of features: 19
+
+-mcf-
+Score: 0.2833
+Base: 0.2333
+Number of features: 17
+
+-xsi-
+Score: 0.1973
+Base: 0.4009
+Number of features: 42
+
+-bhg-
+Score: 0.6000
+Base: 0.6500
+Number of features: 17
+
+-bef-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-byr-
+Score: 0.0750
+Base: 0.3750
+Number of features: 15
+
+-tbo-
+Score: 0.4576
+Base: 0.4348
+Number of features: 48
+
+-poe-
+Score: 0.4375
+Base: 0.5938
+Number of features: 18
+
+-mgh-
+Score: 0.9875
+Base: 0.3000
+Number of features: 24
+
+-njm-
+Score: 0.4541
+Base: 0.5163
+Number of features: 38
+
+-mqj-
 Score: 1.0000
 Base: 0.6667
 Number of features: 3
 
--cle-
-Score: 0.6082
-Base: 0.6151
-Number of features: 106
+-sja-
+Score: 0.5400
+Base: 0.5569
+Number of features: 120
 
--avt-
-Score: 0.3181
-Base: 0.3792
-Number of features: 41
+-pap-
+Score: 0.7500
+Base: 0.8750
+Number of features: 6
 
--wrs-
-Score: 0.8750
-Base: 0.8333
+-tsn-
+Score: 0.6667
+Base: 0.6667
+Number of features: 5
+
+-bum-
+Score: 0.6667
+Base: 0.6000
+Number of features: 7
+
+-agt-
+Score: 0.4837
+Base: 0.5870
+Number of features: 36
+
+-cui-
+Score: 0.7941
+Base: 0.7206
+Number of features: 25
+
+-qvh-
+Score: 0.4457
+Base: 0.4347
+Number of features: 51
+
+-tcc-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-sgz-
+Score: 0.3750
+Base: 0.5000
+Number of features: 5
+
+-cbk-
+Score: 0.2500
+Base: 0.1250
+Number of features: 5
+
+-zsm-
+Score: 0.0000
+Base: 0.6667
+Number of features: 4
+
+-wap-
+Score: 0.6154
+Base: 0.5385
+Number of features: 13
+
+-ncj-
+Score: 0.7111
+Base: 0.5083
+Number of features: 39
+
+-kbp-
+Score: 0.5088
+Base: 0.5088
+Number of features: 22
+
+-djr-
+Score: 0.6737
+Base: 0.4842
+Number of features: 23
+
+-mnk-
+Score: 0.8486
+Base: 0.8639
+Number of features: 40
+
+-upv-
+Score: 0.6667
+Base: 0.4167
+Number of features: 7
+
+-mbt-
+Score: 0.0000
+Base: 0.3333
+Number of features: 3
+
+-guw-
+Score: 0.6667
+Base: 0.7222
+Number of features: 10
+
+-kmh-
+Score: 0.5722
+Base: 0.6694
+Number of features: 20
+
+-pbi-
+Score: 0.4583
+Base: 0.7188
+Number of features: 29
+
+-hus-
+Score: 0.5205
+Base: 0.4826
+Number of features: 62
+
+-miz-
+Score: 0.5000
+Base: 1.0000
+Number of features: 2
+
+-nwi-
+Score: 0.2500
+Base: 0.5000
+Number of features: 4
+
+-mig-
+Score: 0.6309
+Base: 0.6297
+Number of features: 134
+
+-chq-
+Score: 0.4114
+Base: 0.3810
+Number of features: 47
+
+-cbt-
+Score: 0.5208
+Base: 0.5000
+Number of features: 14
+
+-kkl-
+Score: 0.6067
+Base: 0.6067
+Number of features: 20
+
+-ksd-
+Score: 0.4005
+Base: 0.4817
+Number of features: 53
+
+-aey-
+Score: 0.5669
+Base: 0.6145
+Number of features: 148
+
+-aoz-
+Score: 0.6667
+Base: 0.6667
+Number of features: 3
+
+-ibo-
+Score: 0.6148
+Base: 0.5976
+Number of features: 95
+
+-huv-
+Score: 0.4802
+Base: 0.5170
+Number of features: 73
+
+-tna-
+Score: 0.6340
+Base: 0.6237
+Number of features: 54
+
+-kmo-
+Score: 0.6054
+Base: 0.6454
+Number of features: 47
+
+-kyz-
+Score: 0.5227
+Base: 0.4659
+Number of features: 27
+
+-kyc-
+Score: 0.1717
+Base: 0.5505
+Number of features: 22
+
+-wal-
+Score: 0.5656
+Base: 0.5731
+Number of features: 37
+
+-blw-
+Score: 0.5000
+Base: 0.2500
+Number of features: 4
+
+-gvf-
+Score: 0.5885
+Base: 0.6739
+Number of features: 32
+
+-gbi-
+Score: 0.5875
+Base: 0.5375
+Number of features: 12
+
+-wca-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-isl-
+Score: 0.7068
+Base: 0.5031
+Number of features: 76
+
+-mek-
+Score: 0.2917
+Base: 0.2917
+Number of features: 19
+
+-poh-
+Score: 0.5000
+Base: 0.5000
+Number of features: 4
+
+-amm-
+Score: 0.0000
+Base: 0.3333
+Number of features: 3
+
+-slv-
+Score: 0.5779
+Base: 0.5643
+Number of features: 43
+
+-mbl-
+Score: 0.4286
+Base: 0.3690
+Number of features: 23
+
+-afr-
+Score: 0.7381
+Base: 0.6429
+Number of features: 16
+
+-sll-
+Score: 0.6344
+Base: 0.5500
+Number of features: 51
+
+-blz-
+Score: 1.0000
+Base: 0.7500
+Number of features: 4
+
+-hay-
+Score: 0.7500
+Base: 0.2812
+Number of features: 31
+
+-mpm-
+Score: 0.6771
+Base: 0.6146
+Number of features: 22
+
+-tby-
+Score: 0.7500
+Base: 0.5000
+Number of features: 4
+
+-nfr-
+Score: 0.0000
+Base: 0.0000
+Number of features: 4
+
+-ind-
+Score: 0.6977
+Base: 0.7145
+Number of features: 154
+
+-bpr-
+Score: 0.0000
+Base: 0.0000
+Number of features: 1
+
+-xho-
+Score: 0.6708
+Base: 0.4167
+Number of features: 36
+
+-zpm-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-efi-
+Score: 0.6436
+Base: 0.6090
+Number of features: 32
+
+-bwu-
+Score: 0.1905
+Base: 0.1667
+Number of features: 16
+
+-avu-
+Score: 0.1970
+Base: 0.6162
+Number of features: 18
+
+-swe-
+Score: 0.6813
+Base: 0.5800
+Number of features: 78
+
+-cut-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-aau-
+Score: 0.3158
+Base: 0.4211
+Number of features: 19
+
+-jic-
+Score: 0.7310
+Base: 0.8595
+Number of features: 40
+
+-gil-
+Score: 0.6367
+Base: 0.6219
+Number of features: 85
+
+-pag-
+Score: 0.6690
+Base: 0.6405
+Number of features: 35
+
+-fin-
+Score: 0.6537
+Base: 0.5876
+Number of features: 155
+
+-zaw-
+Score: 0.3203
+Base: 0.3203
+Number of features: 35
+
+-bsn-
+Score: 0.4847
+Base: 0.4716
+Number of features: 112
+
+-ghs-
+Score: 0.5833
+Base: 0.7250
+Number of features: 20
+
+-apu-
+Score: 0.6199
+Base: 0.6087
+Number of features: 129
+
+-mur-
+Score: 0.5187
+Base: 0.5134
+Number of features: 97
+
+-moc-
+Score: 0.6590
+Base: 0.5394
+Number of features: 37
+
+-fra-
+Score: 0.5988
+Base: 0.5127
+Number of features: 156
+
+-bao-
+Score: 0.6923
+Base: 0.7308
 Number of features: 15
 
+-hla-
+Score: 0.3329
+Base: 0.4470
+Number of features: 37
+
+-chf-
+Score: 0.6350
+Base: 0.8014
+Number of features: 41
+
+-gag-
+Score: 0.3333
+Base: 0.2500
+Number of features: 7
+
+-mhx-
+Score: 0.4107
+Base: 0.5089
+Number of features: 34
+
+-pam-
+Score: 0.7979
+Base: 0.7410
+Number of features: 29
+
+-nus-
+Score: 0.3545
+Base: 0.5273
+Number of features: 40
+
+-mpt-
+Score: 0.6733
+Base: 0.7456
+Number of features: 36
+
+-cta-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-zpi-
+Score: 0.5000
+Base: 0.5000
+Number of features: 5
+
+-poi-
+Score: 0.8056
+Base: 0.6852
+Number of features: 27
+
+-fub-
+Score: 0.5872
+Base: 0.5996
+Number of features: 66
+
+-ncu-
+Score: 0.2500
+Base: 0.2500
+Number of features: 4
+
+-viv-
+Score: 0.5280
+Base: 0.4700
+Number of features: 32
+
+-yli-
+Score: 0.6250
+Base: 0.7500
+Number of features: 7
+
+-mbj-
+Score: 0.4401
+Base: 0.6608
+Number of features: 31
+
+-dow-
+Score: 0.4373
+Base: 0.4326
+Number of features: 62
+
+-naf-
+Score: 0.2582
+Base: 0.5440
+Number of features: 37
+
+-boa-
+Score: 0.5000
+Base: 0.5000
+Number of features: 6
+
+-sld-
+Score: 0.3929
+Base: 0.4286
+Number of features: 15
+
+-rmo-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-msy-
+Score: 0.0000
+Base: 1.0000
+Number of features: 2
+
+-kwd-
+Score: 0.4967
+Base: 0.4833
+Number of features: 57
+
+-sey-
+Score: 0.9167
+Base: 0.7500
+Number of features: 7
+
+-mhy-
+Score: 0.4167
+Base: 0.4375
+Number of features: 19
+
+-dip-
+Score: 0.1822
+Base: 0.3989
+Number of features: 56
+
+-nnb-
+Score: 0.5926
+Base: 0.1852
+Number of features: 11
+
+-xsm-
+Score: 0.8611
+Base: 0.8056
+Number of features: 11
+
+-quz-
+Score: 0.3333
+Base: 0.3333
+Number of features: 8
+
+-lew-
+Score: 1.0000
+Base: 0.6667
+Number of features: 3
+
+-ake-
+Score: 0.3077
+Base: 0.3077
+Number of features: 14
+
+-tso-
+Score: 0.5833
+Base: 0.7500
+Number of features: 9
+
+-mto-
+Score: 0.5577
+Base: 0.4808
+Number of features: 17
+
+-kgk-
+Score: 0.6667
+Base: 0.6667
+Number of features: 3
+
+-apn-
+Score: 0.5714
+Base: 0.5833
+Number of features: 36
+
+-kyq-
+Score: 0.3270
+Base: 0.5879
+Number of features: 31
+
+-sab-
+Score: 0.2500
+Base: 0.5000
+Number of features: 4
+
+-ahk-
+Score: 0.4722
+Base: 0.5397
+Number of features: 37
+
+-ame-
+Score: 0.7819
+Base: 0.4752
+Number of features: 29
+
+-cjp-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-haw-
+Score: 0.5509
+Base: 0.5409
+Number of features: 80
+
+-yuz-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-chd-
+Score: 0.6270
+Base: 0.6270
+Number of features: 16
+
+-ura-
+Score: 0.6167
+Base: 0.6042
+Number of features: 26
+
+-cak-
+Score: 0.4167
+Base: 0.3833
+Number of features: 37
+
+-bba-
+Score: 0.5833
+Base: 0.5000
+Number of features: 12
+
+-uig-
+Score: 0.3746
+Base: 0.3476
+Number of features: 35
+
+-mbb-
+Score: 0.3571
+Base: 0.4087
+Number of features: 34
+
+-wnc-
+Score: 0.7692
+Base: 0.6154
+Number of features: 13
+
+-war-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-emp-
+Score: 0.7354
+Base: 0.7542
+Number of features: 37
+
+-spl-
+Score: 0.7944
+Base: 0.7722
+Number of features: 36
+
 -xed-
-Score: 0.4188
+Score: 0.5021
 Base: 0.4188
 Number of features: 33
 
+-itv-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-nld-
+Score: 0.7187
+Base: 0.5802
+Number of features: 86
+
+-wsk-
+Score: 0.5879
+Base: 0.6525
+Number of features: 57
+
+-csy-
+Score: 0.2188
+Base: 0.2601
+Number of features: 32
+
+-nyo-
+Score: 0.8750
+Base: 0.5417
+Number of features: 20
+
+-cnh-
+Score: 0.3788
+Base: 0.3111
+Number of features: 58
+
+-tih-
+Score: 0.6340
+Base: 0.5520
+Number of features: 36
+
+-tzh-
+Score: 0.5577
+Base: 0.5962
+Number of features: 15
+
+-tpm-
+Score: 0.4615
+Base: 0.5385
+Number of features: 13
+
+-ctp-
+Score: 0.6938
+Base: 0.7757
+Number of features: 57
+
+-ctd-
+Score: 0.5541
+Base: 0.3365
+Number of features: 40
+
+-bmu-
+Score: 0.8333
+Base: 0.6667
+Number of features: 4
+
+-agr-
+Score: 0.6667
+Base: 0.6667
+Number of features: 5
+
+-jae-
+Score: 0.2811
+Base: 0.3269
+Number of features: 45
+
+-mca-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-shk-
+Score: 0.5266
+Base: 0.6227
+Number of features: 39
+
+-min-
+Score: 0.5694
+Base: 0.5269
+Number of features: 40
+
+-not-
+Score: 0.7500
+Base: 0.7500
+Number of features: 3
+
+-car-
+Score: 0.5182
+Base: 0.4543
+Number of features: 91
+
+-gwi-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-top-
+Score: 0.6939
+Base: 0.6576
+Number of features: 24
+
+-djk-
+Score: 0.5818
+Base: 0.5873
+Number of features: 117
+
+-yva-
+Score: 0.3141
+Base: 0.3141
+Number of features: 19
+
+-pcm-
+Score: 1.0000
+Base: 1.0000
+Number of features: 4
+
+-pwg-
+Score: 0.4833
+Base: 0.6583
+Number of features: 31
+
+-gya-
+Score: 0.3222
+Base: 0.3306
+Number of features: 30
+
+-cym-
+Score: 0.5299
+Base: 0.6117
+Number of features: 69
+
+-yss-
+Score: 0.5699
+Base: 0.5699
+Number of features: 34
+
+-cya-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-cav-
+Score: 0.6923
+Base: 0.6215
+Number of features: 34
+
+-con-
+Score: 0.5227
+Base: 0.7348
+Number of features: 17
+
+-nhg-
+Score: 0.7084
+Base: 0.6412
+Number of features: 108
+
+-nso-
+Score: 0.5667
+Base: 0.5042
+Number of features: 28
+
+-mcb-
+Score: 0.6875
+Base: 0.7125
+Number of features: 22
+
+-pio-
+Score: 1.0000
+Base: 0.6667
+Number of features: 5
+
+-shp-
+Score: 0.6095
+Base: 0.5993
+Number of features: 118
+
+-otm-
+Score: 1.0000
+Base: 1.0000
+Number of features: 3
+
+-mic-
+Score: 0.7500
+Base: 0.5833
+Number of features: 8
+
+-bth-
+Score: 0.0000
+Base: 0.0000
+Number of features: 1
+
+-gle-
+Score: 0.5587
+Base: 0.4908
+Number of features: 119
+
+-avt-
+Score: 0.3250
+Base: 0.3722
+Number of features: 41
+
+-cbv-
+Score: 0.7692
+Base: 0.7692
+Number of features: 15
+
+-aln-
+Score: 0.5210
+Base: 0.4954
+Number of features: 90
+
+-hub-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-mie-
+Score: 0.6452
+Base: 0.4762
+Number of features: 37
+
+-tfr-
+Score: 0.4274
+Base: 0.4852
+Number of features: 56
+
+-sag-
+Score: 0.6708
+Base: 0.6752
+Number of features: 125
+
+-ksf-
+Score: 0.6333
+Base: 0.7333
+Number of features: 13
+
+-yaa-
+Score: 0.5567
+Base: 0.3567
+Number of features: 24
+
+-qvn-
+Score: 0.2500
+Base: 0.2500
+Number of features: 3
+
+-miq-
+Score: 0.7102
+Base: 0.7102
+Number of features: 61
+
+-ter-
+Score: 1.0000
+Base: 0.5000
+Number of features: 3
+
+-wos-
+Score: 0.3269
+Base: 0.6538
+Number of features: 15
+
+-jiv-
+Score: 0.5079
+Base: 0.4881
+Number of features: 50
+
+-kpz-
+Score: 0.4848
+Base: 0.6465
+Number of features: 25
+
+-tlb-
+Score: 0.2955
+Base: 0.3596
+Number of features: 32
+
+-are-
+Score: 0.7853
+Base: 0.6186
+Number of features: 22
+
+-mcp-
+Score: 0.2647
+Base: 0.2647
+Number of features: 18
+
+-sda-
+Score: 1.0000
+Base: 0.6667
+Number of features: 3
+
+-leu-
+Score: 0.0000
+Base: 0.2500
+Number of features: 4
+
+-gug-
+Score: 0.6093
+Base: 0.5891
+Number of features: 136
+
+-ita-
+Score: 0.5687
+Base: 0.5253
+Number of features: 81
+
+-gui-
+Score: 0.6111
+Base: 0.7222
+Number of features: 7
+
+-fry-
+Score: 1.0000
+Base: 0.6667
+Number of features: 3
+
+-nvm-
+Score: 0.7039
+Base: 0.8417
+Number of features: 46
+
+-hto-
+Score: 0.5011
+Base: 0.5292
+Number of features: 46
+
+-mih-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-tcz-
+Score: 0.5000
+Base: 0.5000
+Number of features: 6
+
+-bud-
+Score: 0.4135
+Base: 0.4423
+Number of features: 30
+
+-mif-
+Score: 0.6190
+Base: 0.4524
+Number of features: 17
+
+-yle-
+Score: 0.4132
+Base: 0.4735
+Number of features: 44
+
+-ium-
+Score: 0.4028
+Base: 0.4639
+Number of features: 44
+
+-knk-
+Score: 0.3333
+Base: 0.5000
+Number of features: 4
+
+-cjv-
+Score: 0.5455
+Base: 0.5455
+Number of features: 11
+
+-amr-
+Score: 0.7222
+Base: 0.6111
+Number of features: 11
+
+-cso-
+Score: 0.0000
+Base: 0.0000
+Number of features: 1
+
+-kin-
+Score: 0.8754
+Base: 0.5440
+Number of features: 34
+
+-gub-
+Score: 0.5377
+Base: 0.3957
+Number of features: 34
+
+-snc-
+Score: 0.3611
+Base: 0.3948
+Number of features: 43
+
+-mjc-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-yaq-
+Score: 0.5833
+Base: 0.5459
+Number of features: 141
+
+-bfd-
+Score: 0.5088
+Base: 0.5439
+Number of features: 24
+
+-prk-
+Score: 0.6923
+Base: 0.7692
+Number of features: 13
+
+-mco-
+Score: 0.7967
+Base: 0.6700
+Number of features: 24
+
+-chr-
+Score: 0.4738
+Base: 0.4093
+Number of features: 51
+
+-too-
+Score: 0.5541
+Base: 0.6362
+Number of features: 34
+
+-rro-
+Score: 0.5625
+Base: 0.5000
+Number of features: 16
+
+-nak-
+Score: 0.4782
+Base: 0.5345
+Number of features: 44
+
+-hin-
+Score: 0.5011
+Base: 0.4802
+Number of features: 143
+
+-wol-
+Score: 0.4553
+Base: 0.4893
+Number of features: 79
+
+-ood-
+Score: 0.6237
+Base: 0.6024
+Number of features: 85
+
+-gym-
+Score: 0.4028
+Base: 0.4528
+Number of features: 47
+
+-ixl-
+Score: 0.3667
+Base: 0.5333
+Number of features: 12
+
+-bcl-
+Score: 0.4722
+Base: 0.4722
+Number of features: 22
+
+-kaq-
+Score: 0.8250
+Base: 0.8250
+Number of features: 14
+
+-kbr-
+Score: 0.8846
+Base: 0.8846
+Number of features: 14
+
+-kbc-
+Score: 0.5156
+Base: 0.5000
+Number of features: 22
+
+-mau-
+Score: 0.2545
+Base: 0.2364
+Number of features: 16
+
+-apr-
+Score: 0.5278
+Base: 0.6991
+Number of features: 33
+
+-pol-
+Score: 0.7623
+Base: 0.5561
+Number of features: 89
+
+-hae-
+Score: 0.5829
+Base: 0.6117
+Number of features: 141
+
+-yam-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
 -khk-
-Score: 0.5659
-Base: 0.5317
+Score: 0.5711
+Base: 0.5393
 Number of features: 144
 
--nas-
-Score: 0.6468
-Base: 0.5839
-Number of features: 59
+-fao-
+Score: 0.8333
+Base: 0.3889
+Number of features: 11
 
--pbb-
-Score: 0.5797
-Base: 0.5148
-Number of features: 60
+-kpx-
+Score: 0.7583
+Base: 0.6750
+Number of features: 31
+
+-bzj-
+Score: 0.0000
+Base: 0.0000
+Number of features: 1
+
+-crs-
+Score: 1.0000
+Base: 1.0000
+Number of features: 4
+
+-arl-
+Score: 0.5992
+Base: 0.5754
+Number of features: 21
+
+-byx-
+Score: 0.5865
+Base: 0.4231
+Number of features: 17
+
+-yon-
+Score: 0.8596
+Base: 0.8070
+Number of features: 21
+
+-dts-
+Score: 0.5000
+Base: 0.4286
+Number of features: 14
+
+-xbr-
+Score: 0.8147
+Base: 0.7433
+Number of features: 40
+
+-ian-
+Score: 0.8333
+Base: 0.6667
+Number of features: 4
+
+-kao-
+Score: 0.6083
+Base: 0.6208
+Number of features: 22
+
+-sus-
+Score: 0.4556
+Base: 0.5111
+Number of features: 18
+
+-mil-
+Score: 0.4891
+Base: 0.4993
+Number of features: 46
+
+-toj-
+Score: 0.3750
+Base: 0.4375
+Number of features: 8
+
+-kki-
+Score: 0.7167
+Base: 0.3250
+Number of features: 19
+
+-nds-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-mhi-
+Score: 0.4974
+Base: 0.4431
+Number of features: 46
+
+-crx-
+Score: 0.3333
+Base: 0.3333
+Number of features: 4
+
+-bzd-
+Score: 0.6279
+Base: 0.5179
+Number of features: 66
+
+-lex-
+Score: 0.7500
+Base: 0.5000
+Number of features: 4
+
+-tos-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-cax-
+Score: 0.3050
+Base: 0.2800
+Number of features: 17
+
+-bgr-
+Score: 0.5586
+Base: 0.5837
+Number of features: 97
+
+-mog-
+Score: 0.6667
+Base: 0.3333
+Number of features: 3
+
+-ese-
+Score: 0.4745
+Base: 0.4988
+Number of features: 43
+
+-quh-
+Score: 0.5833
+Base: 0.7222
+Number of features: 17
+
+-mcd-
+Score: 0.7778
+Base: 0.4861
+Number of features: 22
+
+-ken-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-bkd-
+Score: 0.5000
+Base: 0.5000
+Number of features: 3
+
+-abt-
+Score: 0.5418
+Base: 0.5132
+Number of features: 37
+
+-guz-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-bis-
+Score: 0.5000
+Base: 0.5000
+Number of features: 2
+
+-lin-
+Score: 0.4770
+Base: 0.4365
+Number of features: 45
+
+-mcu-
+Score: 0.8974
+Base: 0.7863
+Number of features: 20
+
+-opm-
+Score: 0.3900
+Base: 0.6100
+Number of features: 27
+
+-wer-
+Score: 0.5000
+Base: 0.5000
+Number of features: 4
+
+-awi-
+Score: 0.5926
+Base: 0.5556
+Number of features: 11
+
+-huu-
+Score: 0.5994
+Base: 0.5889
+Number of features: 48
+
+-muh-
+Score: 0.0000
+Base: 0.0000
+Number of features: 4
+
+-mnx-
+Score: 0.6867
+Base: 0.7133
+Number of features: 30
+
+-ote-
+Score: 0.6175
+Base: 0.6398
+Number of features: 109
+
+-cle-
+Score: 0.6210
+Base: 0.6055
+Number of features: 106
+
+-kpr-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-nob-
+Score: 0.7201
+Base: 0.6085
+Number of features: 66
+
+-crn-
+Score: 0.5367
+Base: 0.5150
+Number of features: 34
+
+-mri-
+Score: 0.6143
+Base: 0.5715
+Number of features: 144
+
+-kvn-
+Score: 0.5048
+Base: 0.6506
+Number of features: 41
+
+-gla-
+Score: 0.5207
+Base: 0.3951
+Number of features: 61
+
+-sxn-
+Score: 1.0000
+Base: 0.6667
+Number of features: 3
+
+-myy-
+Score: 1.0000
+Base: 1.0000
+Number of features: 2
+
+-kal-
+Score: 0.5123
+Base: 0.5198
+Number of features: 144
+
+-rwo-
+Score: 0.7000
+Base: 0.3167
+Number of features: 20
+
+-snn-
+Score: 0.5160
+Base: 0.4314
+Number of features: 35
+
+-kik-
+Score: 0.6433
+Base: 0.2850
+Number of features: 39
+
+-lac-
+Score: 0.9167
+Base: 0.8854
+Number of features: 29
+
+-azz-
+Score: 0.3333
+Base: 0.3333
+Number of features: 3
+
+-ptp-
+Score: 0.3718
+Base: 0.4808
+Number of features: 31
+
+-amu-
+Score: 0.4464
+Base: 0.4464
+Number of features: 18
+
+-fij-
+Score: 0.6017
+Base: 0.6225
+Number of features: 140
+
+-agd-
+Score: 0.3646
+Base: 0.2865
+Number of features: 22
+
+-nbl-
+Score: 0.6694
+Base: 0.5408
+Number of features: 36
+
+-bqp-
+Score: 0.1933
+Base: 0.1833
+Number of features: 30
+
+-aly-
+Score: 0.5756
+Base: 0.5839
+Number of features: 50
+
+-ceb-
+Score: 0.4815
+Base: 0.5231
+Number of features: 34
+
+-hvn-
+Score: 0.5250
+Base: 0.5000
+Number of features: 24
+
+-auy-
+Score: 1.0000
+Base: 1.0000
+Number of features: 1
+
+-wob-
+Score: 0.0000
+Base: 0.0000
+Number of features: 4
+
+-mxp-
+Score: 0.4167
+Base: 0.2292
+Number of features: 20
+
+-hnn-
+Score: 0.2500
+Base: 0.1250
+Number of features: 5
+
+-acr-
+Score: 0.0000
+Base: 1.0000
+Number of features: 1
+
+-gum-
+Score: 0.7083
+Base: 0.7917
+Number of features: 18
+
+-hun-
+Score: 0.7018
+Base: 0.6731
+Number of features: 153
+
+-som-
+Score: 0.4573
+Base: 0.3922
+Number of features: 87
+
+-kpj-
+Score: 0.6667
+Base: 0.6806
+Number of features: 23
+
+-vag-
+Score: 0.2917
+Base: 0.2917
+Number of features: 7
+
+-bav-
+Score: 0.4338
+Base: 0.5842
+Number of features: 66
+
+-adj-
+Score: 0.2257
+Base: 0.2943
+Number of features: 37
 

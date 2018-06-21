@@ -4,15 +4,10 @@ Base: 0.6482
 Count: 65
 
 --Area average--
--South America-
-Score: 0.5000
-Base: 0.5000
-Count: 10
-
--North America-
-Score: 0.8571
-Base: 0.7143
-Count: 7
+-Papunesia-
+Score: 0.6176
+Base: 0.6765
+Count: 25
 
 -Eurasia-
 Score: 1.0000
@@ -24,10 +19,21 @@ Score: 0.4000
 Base: 0.3500
 Count: 14
 
--Papunesia-
-Score: 0.6176
-Base: 0.6765
-Count: 25
+-North America-
+Score: 0.8571
+Base: 0.7143
+Count: 7
+
+-South America-
+Score: 0.5000
+Base: 0.5000
+Count: 10
+
+--25B Zero Marking of A and P Arguments--
+Not enough languages
+
+--29A Syncretism in Verbal Person/Number Marking--
+Not enough languages
 
 --20A Fusion of Selected Inflectional Formatives--
 Not enough languages
@@ -38,28 +44,22 @@ Score: 0.7500
 Base: 0.7500
 Count: 12
 
--Africa-
-Amount in training: 17
-Amount in test: 4
-Score: 0.5000
-Base: 0.5000
-
 -Papunesia-
 Amount in training: 30
 Amount in test: 8
 Score: 1.0000
 Base: 1.0000
 
---24A Locus of Marking in Possessive Noun Phrases--
+-Africa-
+Amount in training: 17
+Amount in test: 4
+Score: 0.5000
+Base: 0.5000
+
+--23A Locus of Marking in the Clause--
 Not enough languages
 
 --21A Exponence of Selected Inflectional Formatives--
-Not enough languages
-
---28A Case Syncretism--
-Not enough languages
-
---23A Locus of Marking in the Clause--
 Not enough languages
 
 --21B Exponence of Tense-Aspect-Mood Inflection--
@@ -71,17 +71,11 @@ Score: 0.5785
 Base: 0.5534
 Count: 53
 
--South America-
-Amount in training: 38
-Amount in test: 10
-Score: 0.5000
-Base: 0.5000
-
--North America-
-Amount in training: 30
-Amount in test: 7
-Score: 0.8571
-Base: 0.7143
+-Papunesia-
+Amount in training: 66
+Amount in test: 17
+Score: 0.2353
+Base: 0.3529
 
 -Eurasia-
 Amount in training: 36
@@ -89,27 +83,33 @@ Amount in test: 9
 Score: 1.0000
 Base: 1.0000
 
+-North America-
+Amount in training: 30
+Amount in test: 7
+Score: 0.8571
+Base: 0.7143
+
 -Africa-
 Amount in training: 40
 Amount in test: 10
 Score: 0.3000
 Base: 0.2000
 
--Papunesia-
-Amount in training: 66
-Amount in test: 17
-Score: 0.2353
-Base: 0.3529
+-South America-
+Amount in training: 38
+Amount in test: 10
+Score: 0.5000
+Base: 0.5000
 
---29A Syncretism in Verbal Person/Number Marking--
+--28A Case Syncretism--
+Not enough languages
+
+--22A Inflectional Synthesis of the Verb--
 Not enough languages
 
 --25A Locus of Marking: Whole-language Typology--
 Not enough languages
 
---25B Zero Marking of A and P Arguments--
-Not enough languages
-
---22A Inflectional Synthesis of the Verb--
+--24A Locus of Marking in Possessive Noun Phrases--
 Not enough languages
 

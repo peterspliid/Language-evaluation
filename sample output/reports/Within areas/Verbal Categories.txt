@@ -4,45 +4,54 @@ Base: 0.5390
 Count: 229
 
 --Area average--
--South America-
-Score: 0.5990
-Base: 0.5249
-Count: 45
-
--North America-
-Score: 0.4444
-Base: 0.4444
-Count: 19
+-Papunesia-
+Score: 0.5126
+Base: 0.5474
+Count: 62
 
 -Eurasia-
 Score: 0.6276
 Base: 0.6568
 Count: 64
 
--Papunesia-
-Score: 0.5126
-Base: 0.5474
-Count: 62
+-North America-
+Score: 0.4444
+Base: 0.4444
+Count: 19
 
 -Africa-
 Score: 0.6238
 Base: 0.5214
 Count: 39
 
---80A Verbal Number and Suppletion--
-Not enough languages
+-South America-
+Score: 0.5990
+Base: 0.5249
+Count: 45
 
---75A Epistemic Possibility--
+--68A The Perfect--
 -Average-
-Score: 0.5000
-Base: 0.5000
-Count: 6
+Score: 0.8000
+Base: 0.8000
+Count: 5
 
--Eurasia-
-Amount in training: 25
-Amount in test: 6
-Score: 0.5000
-Base: 0.5000
+-Papunesia-
+Amount in training: 19
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+--65A Perfective/Imperfective Aspect--
+-Average-
+Score: 0.8000
+Base: 0.8000
+Count: 5
+
+-Papunesia-
+Amount in training: 19
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
 
 --66A The Past Tense--
 -Average-
@@ -56,65 +65,41 @@ Amount in test: 5
 Score: 0.4000
 Base: 0.4000
 
---78A Coding of Evidentiality--
+--69A Position of Tense-Aspect Affixes--
 -Average-
-Score: 0.4639
-Base: 0.4083
-Count: 23
+Score: 0.5841
+Base: 0.5569
+Count: 60
 
--South America-
+-Papunesia-
+Amount in training: 76
+Amount in test: 19
+Score: 0.5263
+Base: 0.4737
+
+-Eurasia-
 Amount in training: 34
 Amount in test: 9
-Score: 0.5556
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.3333
 Base: 0.3333
 
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
--Eurasia-
-Amount in training: 19
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
--Papunesia-
-Amount in training: 17
-Amount in test: 4
-Score: 0.5000
-Base: 0.5000
-
---77A Semantic Distinctions of Evidentiality--
--Average-
-Score: 0.5694
-Base: 0.5139
-Count: 23
+-Africa-
+Amount in training: 50
+Amount in test: 12
+Score: 0.3333
+Base: 0.2500
 
 -South America-
-Amount in training: 34
-Amount in test: 9
-Score: 0.7778
-Base: 0.5556
-
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.6000
-Base: 0.6000
-
--Eurasia-
-Amount in training: 19
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
--Papunesia-
-Amount in training: 17
-Amount in test: 4
-Score: 0.5000
-Base: 0.5000
+Amount in training: 44
+Amount in test: 11
+Score: 0.7273
+Base: 0.7273
 
 --73A The Optative--
 -Average-
@@ -134,17 +119,17 @@ Amount in test: 5
 Score: 1.0000
 Base: 1.0000
 
---68A The Perfect--
+--76A Overlap between Situational and Epistemic Modal Marking--
 -Average-
-Score: 0.8000
-Base: 0.8000
-Count: 5
+Score: 0.5000
+Base: 0.6667
+Count: 6
 
--Papunesia-
-Amount in training: 19
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
+-Eurasia-
+Amount in training: 26
+Amount in test: 6
+Score: 0.5000
+Base: 0.6667
 
 --71A The Prohibitive--
 -Average-
@@ -152,11 +137,11 @@ Score: 0.4714
 Base: 0.4000
 Count: 24
 
--South America-
+-Papunesia-
 Amount in training: 22
 Amount in test: 5
-Score: 0.2000
-Base: 0.2000
+Score: 0.4000
+Base: 0.4000
 
 -Eurasia-
 Amount in training: 28
@@ -164,17 +149,47 @@ Amount in test: 7
 Score: 0.5714
 Base: 0.5714
 
+-South America-
+Amount in training: 22
+Amount in test: 5
+Score: 0.2000
+Base: 0.2000
+
 -Africa-
 Amount in training: 28
 Amount in test: 7
 Score: 0.7143
 Base: 0.4286
 
+--77A Semantic Distinctions of Evidentiality--
+-Average-
+Score: 0.5694
+Base: 0.5139
+Count: 23
+
 -Papunesia-
-Amount in training: 22
+Amount in training: 17
+Amount in test: 4
+Score: 0.5000
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 19
 Amount in test: 5
 Score: 0.4000
 Base: 0.4000
+
+-South America-
+Amount in training: 34
+Amount in test: 9
+Score: 0.7778
+Base: 0.5556
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.6000
+Base: 0.6000
 
 --74A Situational Possibility--
 -Average-
@@ -188,29 +203,32 @@ Amount in test: 6
 Score: 0.8333
 Base: 0.8333
 
+--79A Suppletion According to Tense and Aspect--
+Not enough languages
+
+--79B Suppletion in Imperatives and Hortatives--
+Not enough languages
+
+--80A Verbal Number and Suppletion--
+Not enough languages
+
+--75A Epistemic Possibility--
+-Average-
+Score: 0.5000
+Base: 0.5000
+Count: 6
+
+-Eurasia-
+Amount in training: 25
+Amount in test: 6
+Score: 0.5000
+Base: 0.5000
+
 --72A Imperative-Hortative Systems--
 -Average-
 Score: 0.6357
 Base: 0.6500
 Count: 24
-
--South America-
-Amount in training: 18
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Amount in training: 26
-Amount in test: 7
-Score: 0.5714
-Base: 0.5714
-
--Africa-
-Amount in training: 27
-Amount in test: 7
-Score: 0.5714
-Base: 0.4286
 
 -Papunesia-
 Amount in training: 18
@@ -218,20 +236,53 @@ Amount in test: 5
 Score: 0.4000
 Base: 0.6000
 
---76A Overlap between Situational and Epistemic Modal Marking--
--Average-
-Score: 0.5000
-Base: 0.6667
-Count: 6
-
 -Eurasia-
 Amount in training: 26
-Amount in test: 6
-Score: 0.5000
-Base: 0.6667
+Amount in test: 7
+Score: 0.5714
+Base: 0.5714
 
---79B Suppletion in Imperatives and Hortatives--
-Not enough languages
+-South America-
+Amount in training: 18
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-Africa-
+Amount in training: 27
+Amount in test: 7
+Score: 0.5714
+Base: 0.4286
+
+--70A The Morphological Imperative--
+-Average-
+Score: 0.4333
+Base: 0.5146
+Count: 27
+
+-Papunesia-
+Amount in training: 22
+Amount in test: 5
+Score: 0.4000
+Base: 0.6000
+
+-Eurasia-
+Amount in training: 30
+Amount in test: 8
+Score: 0.5000
+Base: 0.6250
+
+-South America-
+Amount in training: 24
+Amount in test: 6
+Score: 0.3333
+Base: 0.3333
+
+-Africa-
+Amount in training: 33
+Amount in test: 8
+Score: 0.5000
+Base: 0.5000
 
 --67A The Future Tense--
 -Average-
@@ -245,84 +296,33 @@ Amount in test: 5
 Score: 0.4000
 Base: 0.4000
 
---70A The Morphological Imperative--
+--78A Coding of Evidentiality--
 -Average-
-Score: 0.4333
-Base: 0.5146
-Count: 27
+Score: 0.4639
+Base: 0.4083
+Count: 23
 
--South America-
-Amount in training: 24
-Amount in test: 6
-Score: 0.3333
-Base: 0.3333
-
--Eurasia-
-Amount in training: 30
-Amount in test: 8
-Score: 0.5000
-Base: 0.6250
-
--Africa-
-Amount in training: 33
-Amount in test: 8
+-Papunesia-
+Amount in training: 17
+Amount in test: 4
 Score: 0.5000
 Base: 0.5000
 
--Papunesia-
-Amount in training: 22
-Amount in test: 5
-Score: 0.4000
-Base: 0.6000
-
---79A Suppletion According to Tense and Aspect--
-Not enough languages
-
---69A Position of Tense-Aspect Affixes--
--Average-
-Score: 0.5841
-Base: 0.5569
-Count: 60
-
--South America-
-Amount in training: 44
-Amount in test: 11
-Score: 0.7273
-Base: 0.7273
-
--North America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.3333
-Base: 0.3333
-
 -Eurasia-
-Amount in training: 34
-Amount in test: 9
-Score: 1.0000
-Base: 1.0000
-
--Africa-
-Amount in training: 50
-Amount in test: 12
-Score: 0.3333
-Base: 0.2500
-
--Papunesia-
-Amount in training: 76
-Amount in test: 19
-Score: 0.5263
-Base: 0.4737
-
---65A Perfective/Imperfective Aspect--
--Average-
-Score: 0.8000
-Base: 0.8000
-Count: 5
-
--Papunesia-
 Amount in training: 19
 Amount in test: 5
-Score: 0.8000
-Base: 0.8000
+Score: 0.4000
+Base: 0.4000
+
+-South America-
+Amount in training: 34
+Amount in test: 9
+Score: 0.5556
+Base: 0.3333
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.4000
+Base: 0.4000
 
