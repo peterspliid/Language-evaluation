@@ -4,6 +4,11 @@ Base: 0.6128
 Count: 503
 
 --Area average--
+-South America-
+Score: 0.5545
+Base: 0.5699
+Count: 87
+
 -Papunesia-
 Score: 0.5605
 Base: 0.5660
@@ -19,104 +24,27 @@ Score: 0.6125
 Base: 0.6125
 Count: 44
 
--Eurasia-
-Score: 0.6587
-Base: 0.6952
-Count: 118
-
--South America-
-Score: 0.5545
-Base: 0.5699
-Count: 87
-
 -Africa-
 Score: 0.5959
 Base: 0.5665
 Count: 91
 
---64A Nominal and Verbal Conjunction--
--Average-
-Score: 0.5394
-Base: 0.5394
-Count: 88
-
--Papunesia-
-Amount in training: 60
-Amount in test: 28
-Score: 0.7143
-Base: 0.7143
-
--Australia-
-Amount in training: 87
-Amount in test: 1
-Score: 0.0000
-Base: 0.0000
-
--North America-
-Amount in training: 78
-Amount in test: 10
-Score: 0.9000
-Base: 0.9000
-
 -Eurasia-
-Amount in training: 72
-Amount in test: 16
-Score: 0.9375
-Base: 0.9375
-
--South America-
-Amount in training: 75
-Amount in test: 13
-Score: 0.3846
-Base: 0.3846
-
--Africa-
-Amount in training: 68
-Amount in test: 20
-Score: 0.3000
-Base: 0.3000
-
---63A Noun Phrase Conjunction--
--Average-
-Score: 0.4081
-Base: 0.4180
-Count: 83
-
--Papunesia-
-Amount in training: 60
-Amount in test: 23
-Score: 0.2609
-Base: 0.3043
-
--Eurasia-
-Amount in training: 59
-Amount in test: 24
-Score: 0.0833
-Base: 0.1250
-
--North America-
-Amount in training: 74
-Amount in test: 9
-Score: 0.6667
-Base: 0.6667
-
--Africa-
-Amount in training: 66
-Amount in test: 17
-Score: 0.5294
-Base: 0.2941
-
--South America-
-Amount in training: 73
-Amount in test: 10
-Score: 0.5000
-Base: 0.7000
+Score: 0.6587
+Base: 0.6952
+Count: 118
 
 --61A Adjectives without Nouns--
 -Average-
 Score: 0.6383
 Base: 0.6383
 Count: 43
+
+-South America-
+Amount in training: 37
+Amount in test: 6
+Score: 0.5000
+Base: 0.5000
 
 -Papunesia-
 Amount in training: 29
@@ -136,65 +64,17 @@ Amount in test: 2
 Score: 0.5000
 Base: 0.5000
 
--Eurasia-
-Amount in training: 30
-Amount in test: 13
-Score: 0.6154
-Base: 0.6154
-
--South America-
-Amount in training: 37
-Amount in test: 6
-Score: 0.5000
-Base: 0.5000
-
 -Africa-
 Amount in training: 36
 Amount in test: 7
 Score: 0.5714
 Base: 0.5714
 
---59A Possessive Classification--
--Average-
-Score: 0.7796
-Base: 0.7796
-Count: 64
-
--Papunesia-
-Amount in training: 41
-Amount in test: 23
-Score: 0.6957
-Base: 0.6957
-
--Australia-
-Amount in training: 63
-Amount in test: 1
-Score: 1.0000
-Base: 1.0000
-
--North America-
-Amount in training: 58
-Amount in test: 6
-Score: 0.6667
-Base: 0.6667
-
 -Eurasia-
-Amount in training: 53
-Amount in test: 11
-Score: 1.0000
-Base: 1.0000
-
--South America-
-Amount in training: 51
+Amount in training: 30
 Amount in test: 13
 Score: 0.6154
 Base: 0.6154
-
--Africa-
-Amount in training: 54
-Amount in test: 10
-Score: 0.7000
-Base: 0.7000
 
 --60A Genitives, Adjectives and Relative Clauses--
 -Average-
@@ -208,18 +88,6 @@ Amount in test: 12
 Score: 0.1667
 Base: 0.1667
 
--Eurasia-
-Amount in training: 29
-Amount in test: 12
-Score: 0.5833
-Base: 0.8333
-
--North America-
-Amount in training: 39
-Amount in test: 2
-Score: 0.5000
-Base: 0.5000
-
 -Africa-
 Amount in training: 32
 Amount in test: 9
@@ -232,95 +100,29 @@ Amount in test: 6
 Score: 0.6667
 Base: 0.6667
 
---62A Action Nominal Constructions--
--Average-
-Score: 0.0491
-Base: 0.0363
-Count: 57
-
--Papunesia-
-Amount in training: 46
-Amount in test: 11
-Score: 0.0909
-Base: 0.0909
-
--Australia-
-Amount in training: 56
-Amount in test: 1
-Score: 0.0000
-Base: 0.0000
-
 -North America-
-Amount in training: 53
-Amount in test: 4
-Score: 0.0000
-Base: 0.0000
+Amount in training: 39
+Amount in test: 2
+Score: 0.5000
+Base: 0.5000
 
 -Eurasia-
-Amount in training: 37
-Amount in test: 20
-Score: 0.0500
-Base: 0.0500
-
--South America-
-Amount in training: 44
-Amount in test: 13
-Score: 0.1538
-Base: 0.0769
-
--Africa-
-Amount in training: 49
-Amount in test: 8
-Score: 0.0000
-Base: 0.0000
-
---58A Obligatory Possessive Inflection--
--Average-
-Score: 0.8932
-Base: 0.8932
-Count: 64
-
--Papunesia-
-Amount in training: 41
-Amount in test: 23
-Score: 1.0000
-Base: 1.0000
-
--Australia-
-Amount in training: 63
-Amount in test: 1
-Score: 1.0000
-Base: 1.0000
-
--North America-
-Amount in training: 58
-Amount in test: 6
-Score: 0.6667
-Base: 0.6667
-
--Eurasia-
-Amount in training: 53
-Amount in test: 11
-Score: 1.0000
-Base: 1.0000
-
--South America-
-Amount in training: 51
-Amount in test: 13
-Score: 0.6923
-Base: 0.6923
-
--Africa-
-Amount in training: 54
-Amount in test: 10
-Score: 1.0000
-Base: 1.0000
+Amount in training: 29
+Amount in test: 12
+Score: 0.5833
+Base: 0.8333
 
 --58B Number of Possessive Nouns--
 -Average-
 Score: 0.9727
 Base: 0.9727
 Count: 63
+
+-South America-
+Amount in training: 50
+Amount in test: 13
+Score: 0.9231
+Base: 0.9231
 
 -Papunesia-
 Amount in training: 40
@@ -340,21 +142,219 @@ Amount in test: 5
 Score: 1.0000
 Base: 1.0000
 
+-Africa-
+Amount in training: 53
+Amount in test: 10
+Score: 1.0000
+Base: 1.0000
+
 -Eurasia-
 Amount in training: 52
 Amount in test: 11
 Score: 1.0000
 Base: 1.0000
 
+--58A Obligatory Possessive Inflection--
+-Average-
+Score: 0.8932
+Base: 0.8932
+Count: 64
+
 -South America-
-Amount in training: 50
+Amount in training: 51
 Amount in test: 13
-Score: 0.9231
-Base: 0.9231
+Score: 0.6923
+Base: 0.6923
+
+-Papunesia-
+Amount in training: 41
+Amount in test: 23
+Score: 1.0000
+Base: 1.0000
+
+-Australia-
+Amount in training: 63
+Amount in test: 1
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 58
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
 
 -Africa-
-Amount in training: 53
+Amount in training: 54
 Amount in test: 10
 Score: 1.0000
 Base: 1.0000
+
+-Eurasia-
+Amount in training: 53
+Amount in test: 11
+Score: 1.0000
+Base: 1.0000
+
+--64A Nominal and Verbal Conjunction--
+-Average-
+Score: 0.5394
+Base: 0.5394
+Count: 88
+
+-South America-
+Amount in training: 75
+Amount in test: 13
+Score: 0.3846
+Base: 0.3846
+
+-Papunesia-
+Amount in training: 60
+Amount in test: 28
+Score: 0.7143
+Base: 0.7143
+
+-Australia-
+Amount in training: 87
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-North America-
+Amount in training: 78
+Amount in test: 10
+Score: 0.9000
+Base: 0.9000
+
+-Africa-
+Amount in training: 68
+Amount in test: 20
+Score: 0.3000
+Base: 0.3000
+
+-Eurasia-
+Amount in training: 72
+Amount in test: 16
+Score: 0.9375
+Base: 0.9375
+
+--63A Noun Phrase Conjunction--
+-Average-
+Score: 0.4081
+Base: 0.4180
+Count: 83
+
+-Papunesia-
+Amount in training: 60
+Amount in test: 23
+Score: 0.2609
+Base: 0.3043
+
+-Africa-
+Amount in training: 66
+Amount in test: 17
+Score: 0.5294
+Base: 0.2941
+
+-South America-
+Amount in training: 73
+Amount in test: 10
+Score: 0.5000
+Base: 0.7000
+
+-North America-
+Amount in training: 74
+Amount in test: 9
+Score: 0.6667
+Base: 0.6667
+
+-Eurasia-
+Amount in training: 59
+Amount in test: 24
+Score: 0.0833
+Base: 0.1250
+
+--59A Possessive Classification--
+-Average-
+Score: 0.7796
+Base: 0.7796
+Count: 64
+
+-South America-
+Amount in training: 51
+Amount in test: 13
+Score: 0.6154
+Base: 0.6154
+
+-Papunesia-
+Amount in training: 41
+Amount in test: 23
+Score: 0.6957
+Base: 0.6957
+
+-Australia-
+Amount in training: 63
+Amount in test: 1
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 58
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
+
+-Africa-
+Amount in training: 54
+Amount in test: 10
+Score: 0.7000
+Base: 0.7000
+
+-Eurasia-
+Amount in training: 53
+Amount in test: 11
+Score: 1.0000
+Base: 1.0000
+
+--62A Action Nominal Constructions--
+-Average-
+Score: 0.0491
+Base: 0.0363
+Count: 57
+
+-South America-
+Amount in training: 44
+Amount in test: 13
+Score: 0.1538
+Base: 0.0769
+
+-Papunesia-
+Amount in training: 46
+Amount in test: 11
+Score: 0.0909
+Base: 0.0909
+
+-Australia-
+Amount in training: 56
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-North America-
+Amount in training: 53
+Amount in test: 4
+Score: 0.0000
+Base: 0.0000
+
+-Africa-
+Amount in training: 49
+Amount in test: 8
+Score: 0.0000
+Base: 0.0000
+
+-Eurasia-
+Amount in training: 37
+Amount in test: 20
+Score: 0.0500
+Base: 0.0500
 

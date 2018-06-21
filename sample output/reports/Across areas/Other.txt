@@ -4,19 +4,9 @@ Base: 0.6349
 Count: 44
 
 --Area average--
--Papunesia-
-Score: 0.8750
-Base: 0.8750
-Count: 8
-
--Eurasia-
-Score: 0.6842
-Base: 0.6842
-Count: 19
-
--North America-
-Score: 1.0000
-Base: 1.0000
+-South America-
+Score: 0.0000
+Base: 0.0000
 Count: 2
 
 -Africa-
@@ -24,13 +14,20 @@ Score: 0.6154
 Base: 0.6154
 Count: 13
 
--South America-
-Score: 0.0000
-Base: 0.0000
+-Papunesia-
+Score: 0.8750
+Base: 0.8750
+Count: 8
+
+-North America-
+Score: 1.0000
+Base: 1.0000
 Count: 2
 
---141A Writing Systems--
-Not enough languages
+-Eurasia-
+Score: 0.6842
+Base: 0.6842
+Count: 19
 
 --142A Para-Linguistic Usages of Clicks--
 -Average-
@@ -44,18 +41,6 @@ Amount in test: 8
 Score: 0.8750
 Base: 0.8750
 
--Eurasia-
-Amount in training: 25
-Amount in test: 19
-Score: 0.6842
-Base: 0.6842
-
--North America-
-Amount in training: 42
-Amount in test: 2
-Score: 1.0000
-Base: 1.0000
-
 -Africa-
 Amount in training: 31
 Amount in test: 13
@@ -67,4 +52,19 @@ Amount in training: 42
 Amount in test: 2
 Score: 0.0000
 Base: 0.0000
+
+-North America-
+Amount in training: 42
+Amount in test: 2
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in training: 25
+Amount in test: 19
+Score: 0.6842
+Base: 0.6842
+
+--141A Writing Systems--
+Not enough languages
 

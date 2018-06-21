@@ -4,15 +4,15 @@ Base: 0.5487
 Count: 962
 
 --Area average--
+-South America-
+Score: 0.5646
+Base: 0.5657
+Count: 206
+
 -Papunesia-
 Score: 0.5169
 Base: 0.5509
 Count: 270
-
--Australia-
-Score: 0.7111
-Base: 0.5722
-Count: 15
 
 -North America-
 Score: 0.5826
@@ -24,21 +24,213 @@ Score: 0.4438
 Base: 0.4548
 Count: 194
 
--South America-
-Score: 0.5646
-Base: 0.5657
-Count: 206
-
 -Africa-
 Score: 0.5504
 Base: 0.5688
 Count: 163
+
+-Australia-
+Score: 0.7111
+Base: 0.5722
+Count: 15
+
+--21B Exponence of Tense-Aspect-Mood Inflection--
+-Average-
+Score: 0.7552
+Base: 0.7552
+Count: 47
+
+-Papunesia-
+Amount in training: 37
+Amount in test: 10
+Score: 0.7000
+Base: 0.7000
+
+-Africa-
+Amount in training: 39
+Amount in test: 8
+Score: 0.7500
+Base: 0.7500
+
+-South America-
+Amount in training: 36
+Amount in test: 11
+Score: 0.9091
+Base: 0.9091
+
+-North America-
+Amount in training: 41
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
+
+-Eurasia-
+Amount in training: 35
+Amount in test: 12
+Score: 0.7500
+Base: 0.7500
+
+--25A Locus of Marking: Whole-language Typology--
+-Average-
+Score: 0.6577
+Base: 0.6577
+Count: 67
+
+-South America-
+Amount in training: 51
+Amount in test: 16
+Score: 0.6250
+Base: 0.6250
+
+-Papunesia-
+Amount in training: 47
+Amount in test: 20
+Score: 0.5000
+Base: 0.5000
+
+-Australia-
+Amount in training: 66
+Amount in test: 1
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 59
+Amount in test: 8
+Score: 0.3750
+Base: 0.3750
+
+-Africa-
+Amount in training: 59
+Amount in test: 8
+Score: 0.8750
+Base: 0.8750
+
+-Eurasia-
+Amount in training: 53
+Amount in test: 14
+Score: 0.5714
+Base: 0.5714
+
+--20A Fusion of Selected Inflectional Formatives--
+-Average-
+Score: 0.8117
+Base: 0.8117
+Count: 48
+
+-Papunesia-
+Amount in training: 38
+Amount in test: 10
+Score: 0.6000
+Base: 0.6000
+
+-Africa-
+Amount in training: 40
+Amount in test: 8
+Score: 0.6250
+Base: 0.6250
+
+-South America-
+Amount in training: 36
+Amount in test: 12
+Score: 0.9167
+Base: 0.9167
+
+-North America-
+Amount in training: 42
+Amount in test: 6
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in training: 36
+Amount in test: 12
+Score: 0.9167
+Base: 0.9167
+
+--29A Syncretism in Verbal Person/Number Marking--
+-Average-
+Score: 0.2617
+Base: 0.2392
+Count: 63
+
+-Papunesia-
+Amount in training: 48
+Amount in test: 15
+Score: 0.1333
+Base: 0.2667
+
+-Africa-
+Amount in training: 49
+Amount in test: 14
+Score: 0.3571
+Base: 0.1429
+
+-South America-
+Amount in training: 47
+Amount in test: 16
+Score: 0.1875
+Base: 0.1250
+
+-North America-
+Amount in training: 58
+Amount in test: 5
+Score: 0.4000
+Base: 0.2000
+
+-Eurasia-
+Amount in training: 50
+Amount in test: 13
+Score: 0.2308
+Base: 0.4615
+
+--21A Exponence of Selected Inflectional Formatives--
+-Average-
+Score: 0.4406
+Base: 0.5408
+Count: 47
+
+-Papunesia-
+Amount in training: 37
+Amount in test: 10
+Score: 0.4000
+Base: 0.7000
+
+-Africa-
+Amount in training: 39
+Amount in test: 8
+Score: 0.5000
+Base: 0.6250
+
+-South America-
+Amount in training: 36
+Amount in test: 11
+Score: 0.6364
+Base: 0.5455
+
+-North America-
+Amount in training: 41
+Amount in test: 6
+Score: 0.5000
+Base: 0.6667
+
+-Eurasia-
+Amount in training: 35
+Amount in test: 12
+Score: 0.1667
+Base: 0.1667
 
 --25B Zero Marking of A and P Arguments--
 -Average-
 Score: 0.9625
 Base: 0.9625
 Count: 67
+
+-South America-
+Amount in training: 51
+Amount in test: 16
+Score: 1.0000
+Base: 1.0000
 
 -Papunesia-
 Amount in training: 47
@@ -58,101 +250,65 @@ Amount in test: 8
 Score: 1.0000
 Base: 1.0000
 
--Eurasia-
-Amount in training: 53
-Amount in test: 14
-Score: 1.0000
-Base: 1.0000
-
--South America-
-Amount in training: 51
-Amount in test: 16
-Score: 1.0000
-Base: 1.0000
-
 -Africa-
 Amount in training: 59
 Amount in test: 8
 Score: 0.8750
 Base: 0.8750
 
---29A Syncretism in Verbal Person/Number Marking--
--Average-
-Score: 0.2617
-Base: 0.2392
-Count: 63
-
--Papunesia-
-Amount in training: 48
-Amount in test: 15
-Score: 0.1333
-Base: 0.2667
-
 -Eurasia-
-Amount in training: 50
-Amount in test: 13
-Score: 0.2308
-Base: 0.4615
-
--North America-
-Amount in training: 58
-Amount in test: 5
-Score: 0.4000
-Base: 0.2000
-
--Africa-
-Amount in training: 49
+Amount in training: 53
 Amount in test: 14
-Score: 0.3571
-Base: 0.1429
-
--South America-
-Amount in training: 47
-Amount in test: 16
-Score: 0.1875
-Base: 0.1250
-
---20A Fusion of Selected Inflectional Formatives--
--Average-
-Score: 0.8117
-Base: 0.8117
-Count: 48
-
--Papunesia-
-Amount in training: 38
-Amount in test: 10
-Score: 0.6000
-Base: 0.6000
-
--Eurasia-
-Amount in training: 36
-Amount in test: 12
-Score: 0.9167
-Base: 0.9167
-
--North America-
-Amount in training: 42
-Amount in test: 6
 Score: 1.0000
 Base: 1.0000
 
+--22A Inflectional Synthesis of the Verb--
+-Average-
+Score: 0.4194
+Base: 0.4194
+Count: 45
+
+-Papunesia-
+Amount in training: 36
+Amount in test: 9
+Score: 0.2222
+Base: 0.2222
+
 -Africa-
-Amount in training: 40
+Amount in training: 37
 Amount in test: 8
-Score: 0.6250
-Base: 0.6250
+Score: 0.3750
+Base: 0.3750
 
 -South America-
-Amount in training: 36
+Amount in training: 33
 Amount in test: 12
-Score: 0.9167
-Base: 0.9167
+Score: 0.3333
+Base: 0.3333
+
+-North America-
+Amount in training: 41
+Amount in test: 4
+Score: 0.7500
+Base: 0.7500
+
+-Eurasia-
+Amount in training: 33
+Amount in test: 12
+Score: 0.4167
+Base: 0.4167
 
 --27A Reduplication--
 -Average-
 Score: 0.6371
 Base: 0.6415
 Count: 111
+
+-South America-
+Amount in training: 95
+Amount in test: 16
+Score: 0.5000
+Base: 0.5000
 
 -Papunesia-
 Amount in training: 73
@@ -172,299 +328,29 @@ Amount in test: 12
 Score: 0.7500
 Base: 0.7500
 
--Eurasia-
-Amount in training: 92
-Amount in test: 19
-Score: 0.3158
-Base: 0.3158
-
--South America-
-Amount in training: 95
-Amount in test: 16
-Score: 0.5000
-Base: 0.5000
-
 -Africa-
 Amount in training: 90
 Amount in test: 21
 Score: 0.7619
 Base: 0.7619
 
---23A Locus of Marking in the Clause--
--Average-
-Score: 0.1905
-Base: 0.1952
-Count: 67
-
--Papunesia-
-Amount in training: 47
-Amount in test: 20
-Score: 0.2500
-Base: 0.1000
-
--Australia-
-Amount in training: 66
-Amount in test: 1
-Score: 0.0000
-Base: 0.0000
-
--North America-
-Amount in training: 59
-Amount in test: 8
-Score: 0.2500
-Base: 0.3750
-
 -Eurasia-
-Amount in training: 53
-Amount in test: 14
-Score: 0.1429
-Base: 0.0714
-
--South America-
-Amount in training: 51
-Amount in test: 16
-Score: 0.3750
-Base: 0.2500
-
--Africa-
-Amount in training: 59
-Amount in test: 8
-Score: 0.1250
-Base: 0.3750
-
---21A Exponence of Selected Inflectional Formatives--
--Average-
-Score: 0.4406
-Base: 0.5408
-Count: 47
-
--Papunesia-
-Amount in training: 37
-Amount in test: 10
-Score: 0.4000
-Base: 0.7000
-
--Eurasia-
-Amount in training: 35
-Amount in test: 12
-Score: 0.1667
-Base: 0.1667
-
--North America-
-Amount in training: 41
-Amount in test: 6
-Score: 0.5000
-Base: 0.6667
-
--Africa-
-Amount in training: 39
-Amount in test: 8
-Score: 0.5000
-Base: 0.6250
-
--South America-
-Amount in training: 36
-Amount in test: 11
-Score: 0.6364
-Base: 0.5455
-
---21B Exponence of Tense-Aspect-Mood Inflection--
--Average-
-Score: 0.7552
-Base: 0.7552
-Count: 47
-
--Papunesia-
-Amount in training: 37
-Amount in test: 10
-Score: 0.7000
-Base: 0.7000
-
--Eurasia-
-Amount in training: 35
-Amount in test: 12
-Score: 0.7500
-Base: 0.7500
-
--North America-
-Amount in training: 41
-Amount in test: 6
-Score: 0.6667
-Base: 0.6667
-
--Africa-
-Amount in training: 39
-Amount in test: 8
-Score: 0.7500
-Base: 0.7500
-
--South America-
-Amount in training: 36
-Amount in test: 11
-Score: 0.9091
-Base: 0.9091
-
---26A Prefixing vs. Suffixing in Inflectional Morphology--
--Average-
-Score: 0.4038
-Base: 0.4952
-Count: 269
-
--Papunesia-
-Amount in training: 186
-Amount in test: 83
-Score: 0.3855
-Base: 0.4337
-
--Australia-
-Amount in training: 263
-Amount in test: 6
-Score: 0.6667
-Base: 0.8333
-
--North America-
-Amount in training: 232
-Amount in test: 37
-Score: 0.2162
-Base: 0.2162
-
--Eurasia-
-Amount in training: 224
-Amount in test: 45
-Score: 0.6000
-Base: 0.6444
-
--South America-
-Amount in training: 221
-Amount in test: 48
-Score: 0.3542
-Base: 0.5833
-
--Africa-
-Amount in training: 219
-Amount in test: 50
-Score: 0.2000
-Base: 0.2600
-
---28A Case Syncretism--
--Average-
-Score: 0.6471
-Base: 0.6471
-Count: 64
-
--Papunesia-
-Amount in training: 49
-Amount in test: 15
-Score: 0.8667
-Base: 0.8667
-
--Eurasia-
-Amount in training: 51
-Amount in test: 13
-Score: 0.0000
-Base: 0.0000
-
--North America-
-Amount in training: 58
-Amount in test: 6
-Score: 0.8333
-Base: 0.8333
-
--Africa-
-Amount in training: 50
-Amount in test: 14
-Score: 0.7857
-Base: 0.7857
-
--South America-
-Amount in training: 48
-Amount in test: 16
-Score: 0.7500
-Base: 0.7500
-
---22A Inflectional Synthesis of the Verb--
--Average-
-Score: 0.4194
-Base: 0.4194
-Count: 45
-
--Papunesia-
-Amount in training: 36
-Amount in test: 9
-Score: 0.2222
-Base: 0.2222
-
--Eurasia-
-Amount in training: 33
-Amount in test: 12
-Score: 0.4167
-Base: 0.4167
-
--North America-
-Amount in training: 41
-Amount in test: 4
-Score: 0.7500
-Base: 0.7500
-
--Africa-
-Amount in training: 37
-Amount in test: 8
-Score: 0.3750
-Base: 0.3750
-
--South America-
-Amount in training: 33
-Amount in test: 12
-Score: 0.3333
-Base: 0.3333
-
---25A Locus of Marking: Whole-language Typology--
--Average-
-Score: 0.6577
-Base: 0.6577
-Count: 67
-
--Papunesia-
-Amount in training: 47
-Amount in test: 20
-Score: 0.5000
-Base: 0.5000
-
--Australia-
-Amount in training: 66
-Amount in test: 1
-Score: 1.0000
-Base: 1.0000
-
--North America-
-Amount in training: 59
-Amount in test: 8
-Score: 0.3750
-Base: 0.3750
-
--Eurasia-
-Amount in training: 53
-Amount in test: 14
-Score: 0.5714
-Base: 0.5714
-
--South America-
-Amount in training: 51
-Amount in test: 16
-Score: 0.6250
-Base: 0.6250
-
--Africa-
-Amount in training: 59
-Amount in test: 8
-Score: 0.8750
-Base: 0.8750
+Amount in training: 92
+Amount in test: 19
+Score: 0.3158
+Base: 0.3158
 
 --24A Locus of Marking in Possessive Noun Phrases--
 -Average-
 Score: 0.3961
 Base: 0.2155
 Count: 67
+
+-South America-
+Amount in training: 51
+Amount in test: 16
+Score: 0.1875
+Base: 0.2500
 
 -Papunesia-
 Amount in training: 47
@@ -484,21 +370,135 @@ Amount in test: 8
 Score: 0.2500
 Base: 0.1250
 
+-Africa-
+Amount in training: 59
+Amount in test: 8
+Score: 0.3750
+Base: 0.3750
+
 -Eurasia-
 Amount in training: 53
 Amount in test: 14
 Score: 0.2143
 Base: 0.1429
 
+--23A Locus of Marking in the Clause--
+-Average-
+Score: 0.1905
+Base: 0.1952
+Count: 67
+
 -South America-
 Amount in training: 51
 Amount in test: 16
-Score: 0.1875
+Score: 0.3750
 Base: 0.2500
+
+-Papunesia-
+Amount in training: 47
+Amount in test: 20
+Score: 0.2500
+Base: 0.1000
+
+-Australia-
+Amount in training: 66
+Amount in test: 1
+Score: 0.0000
+Base: 0.0000
+
+-North America-
+Amount in training: 59
+Amount in test: 8
+Score: 0.2500
+Base: 0.3750
 
 -Africa-
 Amount in training: 59
 Amount in test: 8
-Score: 0.3750
+Score: 0.1250
 Base: 0.3750
+
+-Eurasia-
+Amount in training: 53
+Amount in test: 14
+Score: 0.1429
+Base: 0.0714
+
+--28A Case Syncretism--
+-Average-
+Score: 0.6471
+Base: 0.6471
+Count: 64
+
+-Papunesia-
+Amount in training: 49
+Amount in test: 15
+Score: 0.8667
+Base: 0.8667
+
+-Africa-
+Amount in training: 50
+Amount in test: 14
+Score: 0.7857
+Base: 0.7857
+
+-South America-
+Amount in training: 48
+Amount in test: 16
+Score: 0.7500
+Base: 0.7500
+
+-North America-
+Amount in training: 58
+Amount in test: 6
+Score: 0.8333
+Base: 0.8333
+
+-Eurasia-
+Amount in training: 51
+Amount in test: 13
+Score: 0.0000
+Base: 0.0000
+
+--26A Prefixing vs. Suffixing in Inflectional Morphology--
+-Average-
+Score: 0.4038
+Base: 0.4952
+Count: 269
+
+-South America-
+Amount in training: 221
+Amount in test: 48
+Score: 0.3542
+Base: 0.5833
+
+-Papunesia-
+Amount in training: 186
+Amount in test: 83
+Score: 0.3855
+Base: 0.4337
+
+-Australia-
+Amount in training: 263
+Amount in test: 6
+Score: 0.6667
+Base: 0.8333
+
+-North America-
+Amount in training: 232
+Amount in test: 37
+Score: 0.2162
+Base: 0.2162
+
+-Africa-
+Amount in training: 219
+Amount in test: 50
+Score: 0.2000
+Base: 0.2600
+
+-Eurasia-
+Amount in training: 224
+Amount in test: 45
+Score: 0.6000
+Base: 0.6444
 

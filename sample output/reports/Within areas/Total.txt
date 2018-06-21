@@ -4,47 +4,32 @@ Base: 0.6556
 Count: 3241
 
 --Areas--
--Papunesia-
-Score: 0.6514
-Base: 0.6576
-Count: 993
-
--Eurasia-
-Score: 0.7616
-Base: 0.7492
-Count: 572
+-South America-
+Score: 0.6081
+Base: 0.6020
+Count: 620
 
 -Africa-
 Score: 0.5944
 Base: 0.5923
 Count: 695
 
+-Papunesia-
+Score: 0.6514
+Base: 0.6576
+Count: 993
+
 -North America-
 Score: 0.6943
 Base: 0.6768
 Count: 361
 
--South America-
-Score: 0.6081
-Base: 0.6020
-Count: 620
+-Eurasia-
+Score: 0.7616
+Base: 0.7492
+Count: 572
 
 --Feature areas--
--Morphology-
-Score: 0.6750
-Base: 0.6482
-Count: 65
-
--Simple Clauses-
-Score: 0.6377
-Base: 0.6439
-Count: 343
-
--Phonology-
-Score: 0.6911
-Base: 0.6898
-Count: 531
-
 -Verbal Categories-
 Score: 0.5615
 Base: 0.5390
@@ -60,18 +45,33 @@ Score: 0.6624
 Base: 0.6505
 Count: 1573
 
--Nominal Syntax-
-Score: 0.9033
-Base: 0.9033
-Count: 31
+-Simple Clauses-
+Score: 0.6377
+Base: 0.6439
+Count: 343
+
+-Morphology-
+Score: 0.6750
+Base: 0.6482
+Count: 65
 
 -Lexicon-
 Score: 0.6947
 Base: 0.7189
 Count: 116
 
+-Nominal Syntax-
+Score: 0.9033
+Base: 0.9033
+Count: 31
+
 -Complex Sentences-
 Score: 0.8750
 Base: 0.8750
 Count: 8
+
+-Phonology-
+Score: 0.6911
+Base: 0.6898
+Count: 531
 

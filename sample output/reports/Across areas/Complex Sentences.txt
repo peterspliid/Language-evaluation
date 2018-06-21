@@ -4,15 +4,15 @@ Base: 0.6863
 Count: 411
 
 --Area average--
--Papunesia-
-Score: 0.6336
-Base: 0.6827
-Count: 98
-
 -South America-
 Score: 0.6100
 Base: 0.5981
 Count: 78
+
+-Papunesia-
+Score: 0.6336
+Base: 0.6827
+Count: 98
 
 -North America-
 Score: 0.7879
@@ -24,123 +24,51 @@ Score: 0.4627
 Base: 0.4627
 Count: 102
 
--Australia-
-Score: 1.0000
-Base: 1.0000
-Count: 2
-
 -Africa-
 Score: 0.5799
 Base: 0.5867
 Count: 92
 
---122A Relativization on Subjects--
--Average-
-Score: 0.7643
-Base: 0.7643
-Count: 56
-
--Papunesia-
-Amount in training: 42
-Amount in test: 14
-Score: 0.8571
-Base: 0.8571
-
--Eurasia-
-Amount in training: 40
-Amount in test: 16
-Score: 0.5625
-Base: 0.5625
-
--North America-
-Amount in training: 53
-Amount in test: 3
+-Australia-
 Score: 1.0000
 Base: 1.0000
+Count: 2
 
--Africa-
-Amount in training: 40
-Amount in test: 16
-Score: 0.6875
-Base: 0.6875
+--126A 'When' Clauses--
+-Average-
+Score: 0.5706
+Base: 0.5849
+Count: 61
 
--South America-
-Amount in training: 49
-Amount in test: 7
-Score: 0.7143
+-Papunesia-
+Amount in training: 47
+Amount in test: 14
+Score: 0.6429
 Base: 0.7143
 
---125A Purpose Clauses--
--Average-
-Score: 0.5548
-Base: 0.5381
-Count: 59
-
--Papunesia-
-Amount in training: 45
-Amount in test: 14
-Score: 0.3571
-Base: 0.3571
-
--Eurasia-
-Amount in training: 44
-Amount in test: 15
-Score: 0.6667
-Base: 0.6667
-
--North America-
-Amount in training: 53
-Amount in test: 6
-Score: 0.3333
-Base: 0.3333
-
 -Africa-
-Amount in training: 47
-Amount in test: 12
-Score: 0.5833
-Base: 0.5833
+Amount in training: 48
+Amount in test: 13
+Score: 0.5385
+Base: 0.5385
 
 -South America-
-Amount in training: 47
-Amount in test: 12
-Score: 0.8333
-Base: 0.7500
-
---123A Relativization on Obliques--
--Average-
-Score: 0.4816
-Base: 0.5362
-Count: 43
-
--Papunesia-
-Amount in training: 32
-Amount in test: 11
-Score: 0.3636
-Base: 0.6364
-
--Eurasia-
-Amount in training: 28
-Amount in test: 15
-Score: 0.2667
-Base: 0.2667
+Amount in training: 48
+Amount in test: 13
+Score: 0.5385
+Base: 0.5385
 
 -North America-
-Amount in training: 41
-Amount in test: 2
+Amount in training: 55
+Amount in test: 6
 Score: 1.0000
 Base: 1.0000
 
--Africa-
-Amount in training: 34
-Amount in test: 9
-Score: 0.1111
-Base: 0.1111
-
--South America-
-Amount in training: 37
-Amount in test: 6
-Score: 0.6667
-Base: 0.6667
+-Eurasia-
+Amount in training: 46
+Amount in test: 15
+Score: 0.1333
+Base: 0.1333
 
 --127A Reason Clauses--
 -Average-
@@ -154,18 +82,6 @@ Amount in test: 14
 Score: 0.7857
 Base: 0.7857
 
--Eurasia-
-Amount in training: 46
-Amount in test: 14
-Score: 0.2143
-Base: 0.2143
-
--North America-
-Amount in training: 54
-Amount in test: 6
-Score: 1.0000
-Base: 1.0000
-
 -Africa-
 Amount in training: 47
 Amount in test: 13
@@ -178,6 +94,18 @@ Amount in test: 13
 Score: 0.4615
 Base: 0.4615
 
+-North America-
+Amount in training: 54
+Amount in test: 6
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in training: 46
+Amount in test: 14
+Score: 0.2143
+Base: 0.2143
+
 --128A Utterance Complement Clauses--
 -Average-
 Score: 0.8382
@@ -187,18 +115,6 @@ Count: 45
 -Papunesia-
 Amount in training: 35
 Amount in test: 10
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Amount in training: 32
-Amount in test: 13
-Score: 0.5385
-Base: 0.5385
-
--North America-
-Amount in training: 40
-Amount in test: 5
 Score: 1.0000
 Base: 1.0000
 
@@ -214,11 +130,65 @@ Amount in test: 9
 Score: 0.7778
 Base: 0.7778
 
+-North America-
+Amount in training: 40
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in training: 32
+Amount in test: 13
+Score: 0.5385
+Base: 0.5385
+
+--125A Purpose Clauses--
+-Average-
+Score: 0.5548
+Base: 0.5381
+Count: 59
+
+-Papunesia-
+Amount in training: 45
+Amount in test: 14
+Score: 0.3571
+Base: 0.3571
+
+-Africa-
+Amount in training: 47
+Amount in test: 12
+Score: 0.5833
+Base: 0.5833
+
+-South America-
+Amount in training: 47
+Amount in test: 12
+Score: 0.8333
+Base: 0.7500
+
+-North America-
+Amount in training: 53
+Amount in test: 6
+Score: 0.3333
+Base: 0.3333
+
+-Eurasia-
+Amount in training: 44
+Amount in test: 15
+Score: 0.6667
+Base: 0.6667
+
 --124A 'Want' Complement Subjects--
 -Average-
 Score: 0.5528
 Base: 0.5607
 Count: 87
+
+-South America-
+Amount in training: 69
+Amount in test: 18
+Score: 0.2778
+Base: 0.2778
 
 -Papunesia-
 Amount in training: 66
@@ -238,57 +208,87 @@ Amount in test: 11
 Score: 0.1818
 Base: 0.1818
 
--Eurasia-
-Amount in training: 73
-Amount in test: 14
-Score: 0.8571
-Base: 0.8571
-
--South America-
-Amount in training: 69
-Amount in test: 18
-Score: 0.2778
-Base: 0.2778
-
 -Africa-
 Amount in training: 66
 Amount in test: 21
 Score: 0.5714
 Base: 0.6190
 
---126A 'When' Clauses--
+-Eurasia-
+Amount in training: 73
+Amount in test: 14
+Score: 0.8571
+Base: 0.8571
+
+--122A Relativization on Subjects--
 -Average-
-Score: 0.5706
-Base: 0.5849
-Count: 61
+Score: 0.7643
+Base: 0.7643
+Count: 56
 
 -Papunesia-
-Amount in training: 47
+Amount in training: 42
 Amount in test: 14
-Score: 0.6429
+Score: 0.8571
+Base: 0.8571
+
+-Africa-
+Amount in training: 40
+Amount in test: 16
+Score: 0.6875
+Base: 0.6875
+
+-South America-
+Amount in training: 49
+Amount in test: 7
+Score: 0.7143
 Base: 0.7143
 
--Eurasia-
-Amount in training: 46
-Amount in test: 15
-Score: 0.1333
-Base: 0.1333
-
 -North America-
-Amount in training: 55
-Amount in test: 6
+Amount in training: 53
+Amount in test: 3
 Score: 1.0000
 Base: 1.0000
 
+-Eurasia-
+Amount in training: 40
+Amount in test: 16
+Score: 0.5625
+Base: 0.5625
+
+--123A Relativization on Obliques--
+-Average-
+Score: 0.4816
+Base: 0.5362
+Count: 43
+
+-Papunesia-
+Amount in training: 32
+Amount in test: 11
+Score: 0.3636
+Base: 0.6364
+
 -Africa-
-Amount in training: 48
-Amount in test: 13
-Score: 0.5385
-Base: 0.5385
+Amount in training: 34
+Amount in test: 9
+Score: 0.1111
+Base: 0.1111
 
 -South America-
-Amount in training: 48
-Amount in test: 13
-Score: 0.5385
-Base: 0.5385
+Amount in training: 37
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
+
+-North America-
+Amount in training: 41
+Amount in test: 2
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in training: 28
+Amount in test: 15
+Score: 0.2667
+Base: 0.2667
 

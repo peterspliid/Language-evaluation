@@ -8,21 +8,21 @@ def score_base(train_labels, test_labels):
     most_frequent = np.bincount(train_labels).argmax()
     return np.average([1 if y == most_frequent else 0 for y in test_labels])
 
-# Calculates the averages for feature groups, areas and total
+# Calculates the averages for feature areas, areas and total
 def calculate_averages(results):
     averages = {}
 
-    for method in ['across_areas', 'within_areas', 'individual_languages']:
-        averages[method] = {'features': {},
-                            'feature_group': {},
-                            'feature_group_total': {},
+    for model in ['across_areas', 'within_areas', 'individual_languages']:
+        averages[model] = {'features': {},
+                            'feature_area': {},
+                            'feature_area_total': {},
                             'area': {}}
-        for feature_group_name, feature_group in results[method].items():
+        for feature_area_name, feature_area in results[model].items():
             # For calculating the average score for each language grouped by
-            # feature group. Only used for individual languages
-            feature_group_languages = {}
+            # feature areas. Only used for individual languages
+            feature_area_languages = {}
 
-            averages[method]['features'][feature_group_name] = {}
+            averages[model]['features'][feature_area_name] = {}
 
             # Calculate the average area score. Dictionary: area -> score
             area_score = {}
@@ -30,7 +30,7 @@ def calculate_averages(results):
             area_count = {}
             area_total_count = {}
 
-            for feature_name, feature in feature_group.items():
+            for feature_name, feature in feature_area.items():
                 # If we do not have data for current feature, we skip it
                 if not feature:
                     continue
@@ -58,45 +58,45 @@ def calculate_averages(results):
                         area_count[area_name] = 1
                         area_total_count[area_name] = area['amount_in_test']
 
-                    if method != 'individual_languages':
+                    if model != 'individual_languages':
                         continue
 
                     # For calculating the average score for each language
-                    # grouped by feature group
+                    # grouped by feature area
                     for lang_name, lang in area['langs'].items():
-                        if not lang_name in feature_group_languages:
-                            feature_group_languages[lang_name] =\
+                        if not lang_name in feature_area_languages:
+                            feature_area_languages[lang_name] =\
                                 {'score': 0, 'base': 0, 'count': 0}
 
-                        feature_group_languages[lang_name]['score'] += lang['score']
-                        feature_group_languages[lang_name]['base'] += lang['base']
-                        feature_group_languages[lang_name]['count'] += 1
+                        feature_area_languages[lang_name]['score'] += lang['score']
+                        feature_area_languages[lang_name]['base'] += lang['base']
+                        feature_area_languages[lang_name]['count'] += 1
 
-                averages[method]['features'][feature_group_name][feature_name] =\
+                averages[model]['features'][feature_area_name][feature_name] =\
                     {'score': feature_score / feature_count,
                      'base': feature_base / feature_count,
                      'count': feature_total_count}
 
-            averages[method]['feature_group'][feature_group_name] = {}
+            averages[model]['feature_area'][feature_area_name] = {}
 
-            if method == 'individual_languages' and feature_group_languages:
+            if model == 'individual_languages' and feature_area_languages:
                 langs = {}
-                for lang_name, lang in feature_group_languages.items():
+                for lang_name, lang in feature_area_languages.items():
                     count = lang['count']
                     langs[lang_name] = {'score': lang['score'] / count,
                                         'base': lang['base'] / count,
                                         'count': count}
 
-                averages[method]['feature_group'][feature_group_name]['languages'] = langs
+                averages[model]['feature_area'][feature_area_name]['languages'] = langs
 
             # Skip if no values
             if not area_score:
                 continue
 
-            averages[method]['feature_group'][feature_group_name]['areas'] = {}
+            averages[model]['feature_area'][feature_area_name]['areas'] = {}
 
             for area_name, score in area_score.items():
-                averages[method]['feature_group'][feature_group_name]['areas'][area_name] =\
+                averages[model]['feature_area'][feature_area_name]['areas'][area_name] =\
                     {'score': score/area_count[area_name],
                      'base': area_base[area_name]/area_count[area_name],
                      'count': area_total_count[area_name]}
@@ -106,27 +106,27 @@ def calculate_averages(results):
             group_count = 0
             group_total_count = 0
 
-            for area in averages[method]['feature_group'][feature_group_name]['areas'].values():
+            for area in averages[model]['feature_area'][feature_area_name]['areas'].values():
                 group_score += area['score']
                 group_base += area['base']
                 group_count += 1
                 group_total_count += area['count']
 
-            # Calculating the total average for each feature group
+            # Calculating the total average for each feature area
             # (averages the values in the areas)
-            averages[method]['feature_group_total'][feature_group_name] =\
+            averages[model]['feature_area_total'][feature_area_name] =\
                 {'score': group_score / group_count,
                  'base': group_base / group_count,
                  'count': group_total_count}
 
-        averages[method]['area']
+        averages[model]['area']
         total_area_score = {}
         total_area_base = {}
         total_area_count = {}
         total_area_total_count = {}
-        for feature_group in averages[method]['feature_group'].values():
-            if 'areas' in feature_group:
-                for area_name, area in feature_group['areas'].items():
+        for feature_area in averages[model]['feature_area'].values():
+            if 'areas' in feature_area:
+                for area_name, area in feature_area['areas'].items():
                     if area_name in total_area_score:
                         total_area_score[area_name] += area['score']
                         total_area_base[area_name] += area['base']
@@ -140,7 +140,7 @@ def calculate_averages(results):
 
         for area_name, score in total_area_score.items():
             if score:
-                averages[method]['area'][area_name] =\
+                averages[model]['area'][area_name] =\
                     {'score': score / total_area_count[area_name],
                      'base': total_area_base[area_name] / total_area_count[area_name],
                      'count': total_area_total_count[area_name]}
@@ -149,22 +149,22 @@ def calculate_averages(results):
         total_base = 0
         total_count = 0
         total_total_count = 0
-        for area in averages[method]['area'].values():
+        for area in averages[model]['area'].values():
             total_score += area['score']
             total_base += area['base']
             total_count += 1
             total_total_count += area['count']
 
-        averages[method]['total'] = {'score': total_score / total_count,
+        averages[model]['total'] = {'score': total_score / total_count,
                                      'base': total_base / total_count,
                                      'count': total_total_count}
 
-    # Calculating the averages for each languages across all feature groups
+    # Calculating the averages for each languages across all feature areas
     langs = {}
-    for fg in averages['individual_languages']['feature_group'].values():
-        if not 'languages' in fg:
+    for fa in averages['individual_languages']['feature_area'].values():
+        if not 'languages' in fa:
             continue
-        for lang_name, lang in fg['languages'].items():
+        for lang_name, lang in fa['languages'].items():
             if lang_name not in langs:
                 langs[lang_name] = {'score': 0, 'base': 0, 'count': 0,
                                     'total_count': 0}
@@ -186,11 +186,9 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
     all_features = included_features == 'all'
 
     # Used to group the results
-    with open('feature_groups.csv', 'rt', encoding='utf8') as file:
+    with open('feature_areas.csv', 'rt', encoding='utf8') as file:
         reader = csv.reader(file)
-        feature_groups = {rows[0]:rows[1] for rows in reader}
-    # Unique feature groups
-    u_feature_groups = list(set(feature_groups.values()))
+        feature_areas = {rows[0]:rows[1] for rows in reader}
 
 
     # Results of training and testing across language areas
@@ -199,13 +197,6 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
     within_areas = {}
     # Results of training 90% and testing 10% on all languages randomly
     individual_languages = {}
-
-    # For grouping the feaures, which makes it easier later to average
-    # and group the ouput
-    for fg in u_feature_groups:
-        across_areas[fg] = {}
-        within_areas[fg] = {}
-        individual_languages[fg] = {}
 
     # Unique list of language areas
     areas = sorted(list(set([lang[8] for lang in languages])))
@@ -218,13 +209,20 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
         if not all_features and not feature.split()[0] in included_features:
             continue
 
-        # Feature group name
-        fg = feature_groups[feature.split()[0]]
+        # Feature area name
+        fa = feature_areas[feature.split()[0]]
+
+        # For grouping the feaures, which makes it easier later to average
+        # and group the ouput
+        if fa not in across_areas:
+            across_areas[fa] = {}
+            within_areas[fa] = {}
+            individual_languages[fa] = {}
 
         # Initializes a dict for the language feature
-        across_areas[fg][feature] = {}
-        within_areas[fg][feature] = {}
-        individual_languages[fg][feature] = {}
+        across_areas[fa][feature] = {}
+        within_areas[fa][feature] = {}
+        individual_languages[fa][feature] = {}
 
         # Languages sorted into area groups
         area_labels = {area: [] for area in areas}
@@ -253,14 +251,14 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
             if (not (type(classifier) == neighbors.classification.KNeighborsClassifier and
                     len(labels_training) < classifier.get_params()['n_neighbors']) and
                 labels_test and labels_test and emb_training and labels_training):
-                across_areas[fg][feature][area] = {}
+                across_areas[fa][feature][area] = {}
                 model = classifier.fit(emb_training, labels_training)
                 score = model.score(emb_test, labels_test)
                 base = score_base(labels_training, labels_test)
-                across_areas[fg][feature][area]["amount_in_training"] = len(labels_training)
-                across_areas[fg][feature][area]["amount_in_test"] = len(labels_test)
-                across_areas[fg][feature][area]["score"] = score
-                across_areas[fg][feature][area]["base"] = base
+                across_areas[fa][feature][area]["amount_in_training"] = len(labels_training)
+                across_areas[fa][feature][area]["amount_in_test"] = len(labels_test)
+                across_areas[fa][feature][area]["score"] = score
+                across_areas[fa][feature][area]["base"] = base
 
             ## Within areas ##
             # We train on 80% and test on 20%
@@ -277,14 +275,14 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
                     amount_in_training < classifier.get_params()['n_neighbors']) or
                 not labels_test or not labels_training or not emb_training or not labels_training):
                 continue
-            within_areas[fg][feature][area] = {}
+            within_areas[fa][feature][area] = {}
             model = classifier.fit(emb_training, labels_training)
             score = model.score(emb_test, labels_test)
             base = score_base(labels_training, labels_test)
-            within_areas[fg][feature][area]["amount_in_training"] = len(labels_training)
-            within_areas[fg][feature][area]["amount_in_test"] = len(labels_test)
-            within_areas[fg][feature][area]["score"] = score
-            within_areas[fg][feature][area]["base"] = base
+            within_areas[fa][feature][area]["amount_in_training"] = len(labels_training)
+            within_areas[fa][feature][area]["amount_in_test"] = len(labels_test)
+            within_areas[fa][feature][area]["score"] = score
+            within_areas[fa][feature][area]["base"] = base
 
         ## Individual languages ##
         #import ipdb; ipdb.set_trace(context=11)
@@ -329,22 +327,22 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
 
                 for lang, label, prediction in zip(testing_languages, labels_test, predictions):
                     area = language_lookup[lang][0]
-                    if not area in individual_languages[fg][feature]:
+                    if not area in individual_languages[fa][feature]:
                         # We are keeping the same structures as the other
-                        # methods
-                        individual_languages[fg][feature][area] = {}
-                        individual_languages[fg][feature][area]['langs'] = {}
+                        # models
+                        individual_languages[fa][feature][area] = {}
+                        individual_languages[fa][feature][area]['langs'] = {}
 
-                    individual_languages[fg][feature][area]['langs'][lang] =\
+                    individual_languages[fa][feature][area]['langs'][lang] =\
                         {'score': 1 if label == prediction else 0,
                          'base': 1 if most_frequent == label else 0}
 
             start += testing_size
             end += testing_size
 
-        # To keep the same structure as the other methods, we calculate
+        # To keep the same structure as the other models, we calculate
         # the area averages here
-        for area_name, area in individual_languages[fg][feature].items():
+        for area_name, area in individual_languages[fa][feature].items():
             score = 0
             base = 0
             count = 0
@@ -352,9 +350,9 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
                 score += lang['score']
                 base += lang['base']
                 count += 1
-            individual_languages[fg][feature][area_name]['score'] = score/count
-            individual_languages[fg][feature][area_name]['base'] = base/count
-            individual_languages[fg][feature][area_name]['amount_in_test'] = count
+            individual_languages[fa][feature][area_name]['score'] = score/count
+            individual_languages[fa][feature][area_name]['base'] = base/count
+            individual_languages[fa][feature][area_name]['amount_in_test'] = count
 
     results = {'across_areas': across_areas,
                'within_areas': within_areas,

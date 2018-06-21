@@ -14,6 +14,36 @@ Score: 1.0000
 Base: 1.0000
 Count: 5
 
+--61A Adjectives without Nouns--
+Not enough languages
+
+--60A Genitives, Adjectives and Relative Clauses--
+Not enough languages
+
+--58B Number of Possessive Nouns--
+-Average-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-Papunesia-
+Amount in training: 18
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+--58A Obligatory Possessive Inflection--
+-Average-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-Papunesia-
+Amount in training: 18
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
 --64A Nominal and Verbal Conjunction--
 -Average-
 Score: 0.8333
@@ -44,9 +74,6 @@ Amount in test: 5
 Score: 1.0000
 Base: 1.0000
 
---61A Adjectives without Nouns--
-Not enough languages
-
 --59A Possessive Classification--
 -Average-
 Score: 0.8000
@@ -59,33 +86,6 @@ Amount in test: 5
 Score: 0.8000
 Base: 0.8000
 
---60A Genitives, Adjectives and Relative Clauses--
-Not enough languages
-
 --62A Action Nominal Constructions--
 Not enough languages
-
---58A Obligatory Possessive Inflection--
--Average-
-Score: 1.0000
-Base: 1.0000
-Count: 5
-
--Papunesia-
-Amount in training: 18
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
---58B Number of Possessive Nouns--
--Average-
-Score: 1.0000
-Base: 1.0000
-Count: 5
-
--Papunesia-
-Amount in training: 18
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
 

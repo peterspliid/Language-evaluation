@@ -4,6 +4,16 @@ Base: 0.6505
 Count: 1573
 
 --Area average--
+-South America-
+Score: 0.6092
+Base: 0.6240
+Count: 248
+
+-Africa-
+Score: 0.6355
+Base: 0.6239
+Count: 393
+
 -Papunesia-
 Score: 0.6269
 Base: 0.6442
@@ -19,465 +29,62 @@ Score: 0.7097
 Base: 0.7211
 Count: 209
 
--Africa-
-Score: 0.6355
-Base: 0.6239
-Count: 393
+--144C Languages with different word order in negative clauses--
+Not enough languages
+
+--144L The Position of Negative Morphemes in SOV Languages--
+-Average-
+Score: 0.4929
+Base: 0.4929
+Count: 21
 
 -South America-
-Score: 0.6092
-Base: 0.6240
-Count: 248
-
---144N Obligatory Double Negation in SOV languages--
-Not enough languages
-
---97A Relationship between the Order of Object and Verb and the Order of Adjective and Noun--
--Average-
-Score: 0.4136
-Base: 0.3748
-Count: 68
+Amount in training: 30
+Amount in test: 7
+Score: 0.4286
+Base: 0.4286
 
 -Papunesia-
-Amount in training: 90
-Amount in test: 23
-Score: 0.4348
-Base: 0.2609
-
--Eurasia-
-Amount in training: 38
-Amount in test: 9
-Score: 0.4444
-Base: 0.3333
-
--North America-
-Amount in training: 34
-Amount in test: 9
-Score: 0.4444
-Base: 0.4444
-
--Africa-
-Amount in training: 66
-Amount in test: 16
-Score: 0.5625
-Base: 0.5625
-
--South America-
-Amount in training: 43
-Amount in test: 11
-Score: 0.1818
-Base: 0.2727
-
---81B Languages with two Dominant Orders of Subject, Object, and Verb--
-Not enough languages
-
---144X Verb-Initial with Clause-Final Negative--
--Average-
-Score: 1.0000
-Base: 1.0000
-Count: 4
-
--North America-
-Amount in training: 18
-Amount in test: 4
-Score: 1.0000
-Base: 1.0000
-
---144U Double negation in verb-initial languages--
-Not enough languages
-
---90F Adjoined relative clauses--
-Not enough languages
-
---144D The Position of Negative Morphemes in SVO Languages--
--Average-
-Score: 0.3389
-Base: 0.3944
-Count: 23
-
--Papunesia-
-Amount in training: 24
-Amount in test: 6
-Score: 0.1667
-Base: 0.3333
-
--Eurasia-
-Amount in training: 19
-Amount in test: 5
-Score: 0.6000
-Base: 0.6000
-
--Africa-
-Amount in training: 46
-Amount in test: 12
-Score: 0.2500
-Base: 0.2500
-
---144S SOVNeg Order--
--Average-
-Score: 0.6111
-Base: 0.7222
-Count: 15
-
--Papunesia-
-Amount in training: 38
-Amount in test: 9
-Score: 0.5556
-Base: 0.7778
-
--South America-
-Amount in training: 25
-Amount in test: 6
-Score: 0.6667
-Base: 0.6667
-
---144O Optional Double Negation in SOV languages--
-Not enough languages
-
---144M Multiple Negative Constructions in SOV Languages--
-Not enough languages
-
---143C Optional Double Negation--
-Not enough languages
-
---144G Optional Double Negation in SVO languages--
-Not enough languages
-
---89A Order of Numeral and Noun--
--Average-
-Score: 0.7994
-Base: 0.8194
-Count: 61
-
--Papunesia-
-Amount in training: 82
-Amount in test: 20
-Score: 0.5000
-Base: 0.6000
-
--Eurasia-
-Amount in training: 36
-Amount in test: 9
-Score: 0.8889
-Base: 0.8889
-
--North America-
-Amount in training: 32
-Amount in test: 8
-Score: 0.8750
-Base: 0.8750
-
--Africa-
-Amount in training: 60
-Amount in test: 15
-Score: 0.7333
-Base: 0.7333
-
--South America-
-Amount in training: 34
-Amount in test: 9
-Score: 1.0000
-Base: 1.0000
-
---90G Double-headed relative clauses--
-Not enough languages
-
---144T The Position of Negative Morphemes in Verb-Initial Languages--
--Average-
-Score: 0.5000
-Base: 0.5000
-Count: 4
-
--North America-
-Amount in training: 18
-Amount in test: 4
-Score: 0.5000
-Base: 0.5000
-
---95A Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase--
--Average-
-Score: 0.6533
-Base: 0.4778
-Count: 63
-
--Papunesia-
-Amount in training: 82
-Amount in test: 20
-Score: 0.4000
+Amount in training: 39
+Amount in test: 10
+Score: 0.3000
 Base: 0.3000
 
 -Eurasia-
-Amount in training: 34
-Amount in test: 9
-Score: 0.8889
-Base: 0.1111
-
--North America-
-Amount in training: 34
-Amount in test: 9
-Score: 0.7778
-Base: 0.7778
-
--Africa-
-Amount in training: 59
-Amount in test: 15
-Score: 0.6000
-Base: 0.6000
-
--South America-
-Amount in training: 40
-Amount in test: 10
-Score: 0.6000
-Base: 0.6000
-
---96A Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun--
--Average-
-Score: 0.5924
-Base: 0.5524
-Count: 48
-
--Papunesia-
-Amount in training: 54
-Amount in test: 14
-Score: 0.5714
-Base: 0.5714
-
--Eurasia-
-Amount in training: 34
-Amount in test: 8
-Score: 0.7500
-Base: 0.7500
-
--North America-
-Amount in training: 30
-Amount in test: 8
-Score: 0.6250
-Base: 0.6250
-
--Africa-
-Amount in training: 51
-Amount in test: 13
-Score: 0.6154
-Base: 0.6154
-
--South America-
-Amount in training: 22
-Amount in test: 5
-Score: 0.4000
-Base: 0.2000
-
---144B Position of negative words relative to beginning and end of clause and with respect to adjacency to verb--
--Average-
-Score: 0.6583
-Base: 0.6271
-Count: 31
-
--Papunesia-
-Amount in training: 49
-Amount in test: 12
-Score: 0.7500
-Base: 0.7500
-
--Eurasia-
-Amount in training: 23
-Amount in test: 6
-Score: 0.8333
-Base: 0.8333
-
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
-
--Africa-
-Amount in training: 31
-Amount in test: 8
-Score: 0.2500
-Base: 0.1250
-
---143A Order of Negative Morpheme and Verb--
--Average-
-Score: 0.5364
-Base: 0.6084
-Count: 68
-
--Papunesia-
-Amount in training: 80
-Amount in test: 20
-Score: 0.7000
-Base: 0.7000
-
--Eurasia-
-Amount in training: 38
-Amount in test: 10
-Score: 0.5000
-Base: 0.6000
-
--North America-
-Amount in training: 37
-Amount in test: 9
-Score: 0.8889
-Base: 0.8889
-
--Africa-
-Amount in training: 69
-Amount in test: 17
-Score: 0.1765
-Base: 0.3529
-
--South America-
-Amount in training: 49
-Amount in test: 12
-Score: 0.4167
-Base: 0.5000
-
---85A Order of Adposition and Noun Phrase--
--Average-
-Score: 0.7025
-Base: 0.6040
-Count: 65
-
--Papunesia-
-Amount in training: 82
-Amount in test: 21
-Score: 0.3810
-Base: 0.3333
-
--Eurasia-
-Amount in training: 36
-Amount in test: 9
-Score: 0.7778
-Base: 0.3333
-
--North America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.7778
-Base: 0.7778
-
--Africa-
-Amount in training: 61
-Amount in test: 15
-Score: 0.6667
-Base: 0.6667
-
--South America-
-Amount in training: 43
-Amount in test: 11
-Score: 0.9091
-Base: 0.9091
-
---90B Prenominal relative clauses--
-Not enough languages
-
---91A Order of Degree Word and Adjective--
--Average-
-Score: 0.6372
-Base: 0.6372
-Count: 33
-
--Papunesia-
-Amount in training: 45
-Amount in test: 11
-Score: 0.5455
-Base: 0.5455
-
--Eurasia-
-Amount in training: 29
-Amount in test: 7
-Score: 0.8571
-Base: 0.8571
-
--North America-
-Amount in training: 24
-Amount in test: 6
-Score: 0.8333
-Base: 0.8333
-
--Africa-
 Amount in training: 17
 Amount in test: 4
 Score: 0.7500
 Base: 0.7500
 
--South America-
-Amount in training: 20
-Amount in test: 5
-Score: 0.2000
-Base: 0.2000
-
---92A Position of Polar Question Particles--
+--90C Postnominal relative clauses--
 -Average-
-Score: 0.3691
-Base: 0.3644
-Count: 50
-
--Papunesia-
-Amount in training: 53
-Amount in test: 13
-Score: 0.1538
-Base: 0.1538
-
--Eurasia-
-Amount in training: 34
-Amount in test: 8
-Score: 0.5000
-Base: 0.1250
-
--North America-
-Amount in training: 26
-Amount in test: 7
-Score: 0.2857
-Base: 0.7143
-
--Africa-
-Amount in training: 50
-Amount in test: 13
-Score: 0.4615
-Base: 0.3846
-
--South America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.4444
-Base: 0.4444
-
---94A Order of Adverbial Subordinator and Clause--
--Average-
-Score: 0.7359
-Base: 0.7359
-Count: 39
+Score: 0.9643
+Base: 0.9643
+Count: 35
 
 -Papunesia-
 Amount in training: 46
 Amount in test: 11
-Score: 0.7273
-Base: 0.7273
+Score: 1.0000
+Base: 1.0000
 
--Eurasia-
+-Africa-
+Amount in training: 46
+Amount in test: 11
+Score: 1.0000
+Base: 1.0000
+
+-North America-
 Amount in training: 28
 Amount in test: 7
 Score: 0.8571
 Base: 0.8571
 
--North America-
-Amount in training: 26
+-Eurasia-
+Amount in training: 22
 Amount in test: 6
-Score: 0.6667
-Base: 0.6667
-
--Africa-
-Amount in training: 34
-Amount in test: 8
 Score: 1.0000
 Base: 1.0000
-
--South America-
-Amount in training: 27
-Amount in test: 7
-Score: 0.4286
-Base: 0.4286
 
 --83A Order of Object and Verb--
 -Average-
@@ -491,18 +98,6 @@ Amount in test: 24
 Score: 0.5000
 Base: 0.6667
 
--Eurasia-
-Amount in training: 39
-Amount in test: 10
-Score: 0.8000
-Base: 0.2000
-
--North America-
-Amount in training: 38
-Amount in test: 10
-Score: 0.8000
-Base: 0.8000
-
 -Africa-
 Amount in training: 74
 Amount in test: 18
@@ -514,6 +109,54 @@ Amount in training: 56
 Amount in test: 14
 Score: 0.6429
 Base: 0.6429
+
+-North America-
+Amount in training: 38
+Amount in test: 10
+Score: 0.8000
+Base: 0.8000
+
+-Eurasia-
+Amount in training: 39
+Amount in test: 10
+Score: 0.8000
+Base: 0.2000
+
+--87A Order of Adjective and Noun--
+-Average-
+Score: 0.6568
+Base: 0.6350
+Count: 70
+
+-Papunesia-
+Amount in training: 91
+Amount in test: 23
+Score: 0.7826
+Base: 0.7826
+
+-Africa-
+Amount in training: 68
+Amount in test: 17
+Score: 0.8824
+Base: 0.8824
+
+-South America-
+Amount in training: 45
+Amount in test: 11
+Score: 0.3636
+Base: 0.4545
+
+-North America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.5556
+Base: 0.5556
+
+-Eurasia-
+Amount in training: 38
+Amount in test: 10
+Score: 0.7000
+Base: 0.5000
 
 --144A Position of Negative Word With Respect to Subject, Object, and Verb--
 -Average-
@@ -527,18 +170,6 @@ Amount in test: 19
 Score: 0.2632
 Base: 0.2632
 
--Eurasia-
-Amount in training: 38
-Amount in test: 9
-Score: 0.5556
-Base: 0.3333
-
--North America-
-Amount in training: 32
-Amount in test: 8
-Score: 0.2500
-Base: 0.2500
-
 -Africa-
 Amount in training: 62
 Amount in test: 15
@@ -551,166 +182,61 @@ Amount in test: 11
 Score: 0.6364
 Base: 0.6364
 
---93A Position of Interrogative Phrases in Content Questions--
--Average-
-Score: 0.6512
-Base: 0.6512
-Count: 53
-
--Papunesia-
-Amount in training: 61
-Amount in test: 15
-Score: 0.8000
-Base: 0.8000
-
--Eurasia-
-Amount in training: 30
+-North America-
+Amount in training: 32
 Amount in test: 8
 Score: 0.2500
 Base: 0.2500
 
--North America-
-Amount in training: 31
-Amount in test: 8
-Score: 0.6250
-Base: 0.6250
-
--Africa-
-Amount in training: 51
-Amount in test: 13
-Score: 0.6923
-Base: 0.6923
-
--South America-
-Amount in training: 36
-Amount in test: 9
-Score: 0.8889
-Base: 0.8889
-
---144V Verb-Initial with Preverbal Negative--
--Average-
-Score: 0.7500
-Base: 0.7500
-Count: 4
-
--North America-
-Amount in training: 18
-Amount in test: 4
-Score: 0.7500
-Base: 0.7500
-
---144C Languages with different word order in negative clauses--
-Not enough languages
-
---144H NegSVO Order--
--Average-
-Score: 0.9697
-Base: 0.9697
-Count: 20
-
--Papunesia-
-Amount in training: 21
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
 -Eurasia-
-Amount in training: 18
-Amount in test: 4
-Score: 1.0000
-Base: 1.0000
-
--Africa-
-Amount in training: 45
-Amount in test: 11
-Score: 0.9091
-Base: 0.9091
-
---88A Order of Demonstrative and Noun--
--Average-
-Score: 0.6778
-Base: 0.6556
-Count: 64
-
--Papunesia-
-Amount in training: 85
-Amount in test: 21
-Score: 0.6667
-Base: 0.6667
-
--Eurasia-
-Amount in training: 36
-Amount in test: 9
-Score: 0.7778
-Base: 0.7778
-
--North America-
-Amount in training: 34
-Amount in test: 9
-Score: 0.5556
-Base: 0.4444
-
--Africa-
-Amount in training: 62
-Amount in test: 16
-Score: 0.5000
-Base: 0.5000
-
--South America-
 Amount in training: 38
 Amount in test: 9
-Score: 0.8889
-Base: 0.8889
+Score: 0.5556
+Base: 0.3333
 
---84A Order of Object, Oblique, and Verb--
+--97A Relationship between the Order of Object and Verb and the Order of Adjective and Noun--
 -Average-
-Score: 0.4500
-Base: 0.4500
-Count: 26
+Score: 0.4136
+Base: 0.3748
+Count: 68
 
 -Papunesia-
-Amount in training: 31
-Amount in test: 8
-Score: 0.6250
-Base: 0.6250
-
--South America-
-Amount in training: 18
-Amount in test: 5
-Score: 0.0000
-Base: 0.0000
-
--North America-
-Amount in training: 19
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
+Amount in training: 90
+Amount in test: 23
+Score: 0.4348
+Base: 0.2609
 
 -Africa-
-Amount in training: 34
-Amount in test: 8
-Score: 0.3750
-Base: 0.3750
-
---144P NegSOV Order--
--Average-
-Score: 0.9286
-Base: 0.9286
-Count: 13
-
--Papunesia-
-Amount in training: 30
-Amount in test: 7
-Score: 0.8571
-Base: 0.8571
+Amount in training: 66
+Amount in test: 16
+Score: 0.5625
+Base: 0.5625
 
 -South America-
-Amount in training: 23
-Amount in test: 6
-Score: 1.0000
-Base: 1.0000
+Amount in training: 43
+Amount in test: 11
+Score: 0.1818
+Base: 0.2727
 
---90E Correlative relative clauses--
+-North America-
+Amount in training: 34
+Amount in test: 9
+Score: 0.4444
+Base: 0.4444
+
+-Eurasia-
+Amount in training: 38
+Amount in test: 9
+Score: 0.4444
+Base: 0.3333
+
+--143B Obligatory Double Negation--
+Not enough languages
+
+--144O Optional Double Negation in SOV languages--
+Not enough languages
+
+--144Y The Position of Negative Morphemes in Object-Initial Languages--
 Not enough languages
 
 --144I SNegVO Order--
@@ -725,242 +251,17 @@ Amount in test: 5
 Score: 0.2000
 Base: 0.4000
 
--Eurasia-
-Amount in training: 18
-Amount in test: 4
-Score: 1.0000
-Base: 1.0000
-
 -Africa-
 Amount in training: 45
 Amount in test: 11
 Score: 0.3636
 Base: 0.1818
 
---81A Order of Subject, Object and Verb--
--Average-
-Score: 0.5126
-Base: 0.4995
-Count: 70
-
--Papunesia-
-Amount in training: 89
-Amount in test: 22
-Score: 0.5909
-Base: 0.6364
-
 -Eurasia-
-Amount in training: 37
-Amount in test: 9
-Score: 0.6667
-Base: 0.5556
-
--North America-
-Amount in training: 38
-Amount in test: 9
-Score: 0.3333
-Base: 0.3333
-
--Africa-
-Amount in training: 73
-Amount in test: 18
-Score: 0.5556
-Base: 0.5556
-
--South America-
-Amount in training: 49
-Amount in test: 12
-Score: 0.4167
-Base: 0.4167
-
---90A Order of Relative Clause and Noun--
--Average-
-Score: 0.7252
-Base: 0.7252
-Count: 46
-
--Papunesia-
-Amount in training: 54
-Amount in test: 14
-Score: 0.7857
-Base: 0.7857
-
--Eurasia-
-Amount in training: 34
-Amount in test: 8
-Score: 0.7500
-Base: 0.7500
-
--North America-
-Amount in training: 29
-Amount in test: 7
-Score: 0.8571
-Base: 0.8571
-
--Africa-
-Amount in training: 49
-Amount in test: 12
-Score: 0.8333
-Base: 0.8333
-
--South America-
-Amount in training: 21
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
---143F Postverbal Negative Morphemes--
--Average-
-Score: 0.6092
-Base: 0.7025
-Count: 68
-
--Papunesia-
-Amount in training: 80
-Amount in test: 20
-Score: 0.8000
-Base: 0.8000
-
--Eurasia-
-Amount in training: 38
-Amount in test: 10
-Score: 0.3000
-Base: 0.6000
-
--North America-
-Amount in training: 37
-Amount in test: 9
+Amount in training: 18
+Amount in test: 4
 Score: 1.0000
 Base: 1.0000
-
--Africa-
-Amount in training: 69
-Amount in test: 17
-Score: 0.5294
-Base: 0.5294
-
--South America-
-Amount in training: 49
-Amount in test: 12
-Score: 0.4167
-Base: 0.5833
-
---82A Order of Subject and Verb--
--Average-
-Score: 0.7583
-Base: 0.7416
-Count: 76
-
--Papunesia-
-Amount in training: 97
-Amount in test: 24
-Score: 0.9167
-Base: 0.8333
-
--Eurasia-
-Amount in training: 39
-Amount in test: 10
-Score: 0.7000
-Base: 0.7000
-
--North America-
-Amount in training: 38
-Amount in test: 10
-Score: 0.5000
-Base: 0.5000
-
--Africa-
-Amount in training: 74
-Amount in test: 18
-Score: 0.8889
-Base: 0.8889
-
--South America-
-Amount in training: 54
-Amount in test: 14
-Score: 0.7857
-Base: 0.7857
-
---87A Order of Adjective and Noun--
--Average-
-Score: 0.6568
-Base: 0.6350
-Count: 70
-
--Papunesia-
-Amount in training: 91
-Amount in test: 23
-Score: 0.7826
-Base: 0.7826
-
--Eurasia-
-Amount in training: 38
-Amount in test: 10
-Score: 0.7000
-Base: 0.5000
-
--North America-
-Amount in training: 35
-Amount in test: 9
-Score: 0.5556
-Base: 0.5556
-
--Africa-
-Amount in training: 68
-Amount in test: 17
-Score: 0.8824
-Base: 0.8824
-
--South America-
-Amount in training: 45
-Amount in test: 11
-Score: 0.3636
-Base: 0.4545
-
---144R SONegV Order--
--Average-
-Score: 0.7143
-Base: 0.7143
-Count: 13
-
--Papunesia-
-Amount in training: 30
-Amount in test: 7
-Score: 0.4286
-Base: 0.4286
-
--South America-
-Amount in training: 23
-Amount in test: 6
-Score: 1.0000
-Base: 1.0000
-
---144J SVNegO Order--
--Average-
-Score: 0.8121
-Base: 0.8121
-Count: 22
-
--Papunesia-
-Amount in training: 23
-Amount in test: 6
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Amount in training: 19
-Amount in test: 5
-Score: 0.8000
-Base: 0.8000
-
--Africa-
-Amount in training: 46
-Amount in test: 11
-Score: 0.6364
-Base: 0.6364
-
---144Y The Position of Negative Morphemes in Object-Initial Languages--
-Not enough languages
 
 --86A Order of Genitive and Noun--
 -Average-
@@ -974,18 +275,6 @@ Amount in test: 22
 Score: 0.5455
 Base: 0.6364
 
--Eurasia-
-Amount in training: 37
-Amount in test: 9
-Score: 0.4444
-Base: 0.3333
-
--North America-
-Amount in training: 34
-Amount in test: 8
-Score: 0.6250
-Base: 0.6250
-
 -Africa-
 Amount in training: 65
 Amount in test: 16
@@ -998,26 +287,29 @@ Amount in test: 12
 Score: 0.8333
 Base: 0.8333
 
---143D Optional Triple Negation--
-Not enough languages
+-North America-
+Amount in training: 34
+Amount in test: 8
+Score: 0.6250
+Base: 0.6250
 
---144Q SNegOV Order--
+-Eurasia-
+Amount in training: 37
+Amount in test: 9
+Score: 0.4444
+Base: 0.3333
+
+--144V Verb-Initial with Preverbal Negative--
 -Average-
-Score: 1.0000
-Base: 1.0000
-Count: 13
+Score: 0.7500
+Base: 0.7500
+Count: 4
 
--Papunesia-
-Amount in training: 30
-Amount in test: 7
-Score: 1.0000
-Base: 1.0000
-
--South America-
-Amount in training: 23
-Amount in test: 6
-Score: 1.0000
-Base: 1.0000
+-North America-
+Amount in training: 18
+Amount in test: 4
+Score: 0.7500
+Base: 0.7500
 
 --143G Minor morphological means of signaling negation--
 -Average-
@@ -1028,18 +320,6 @@ Count: 68
 -Papunesia-
 Amount in training: 80
 Amount in test: 20
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Amount in training: 38
-Amount in test: 10
-Score: 1.0000
-Base: 1.0000
-
--North America-
-Amount in training: 37
-Amount in test: 9
 Score: 1.0000
 Base: 1.0000
 
@@ -1055,10 +335,43 @@ Amount in test: 12
 Score: 1.0000
 Base: 1.0000
 
---143B Obligatory Double Negation--
-Not enough languages
+-North America-
+Amount in training: 37
+Amount in test: 9
+Score: 1.0000
+Base: 1.0000
 
---144F Obligatory Double Negation in SVO languages--
+-Eurasia-
+Amount in training: 38
+Amount in test: 10
+Score: 1.0000
+Base: 1.0000
+
+--144H NegSVO Order--
+-Average-
+Score: 0.9697
+Base: 0.9697
+Count: 20
+
+-Papunesia-
+Amount in training: 21
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-Africa-
+Amount in training: 45
+Amount in test: 11
+Score: 0.9091
+Base: 0.9091
+
+-Eurasia-
+Amount in training: 18
+Amount in test: 4
+Score: 1.0000
+Base: 1.0000
+
+--90B Prenominal relative clauses--
 Not enough languages
 
 --143E Preverbal Negative Morphemes--
@@ -1073,18 +386,6 @@ Amount in test: 20
 Score: 0.7000
 Base: 0.7000
 
--Eurasia-
-Amount in training: 38
-Amount in test: 10
-Score: 0.8000
-Base: 0.7000
-
--North America-
-Amount in training: 37
-Amount in test: 9
-Score: 0.8889
-Base: 0.8889
-
 -Africa-
 Amount in training: 69
 Amount in test: 17
@@ -1096,6 +397,453 @@ Amount in training: 49
 Amount in test: 12
 Score: 0.5000
 Base: 0.6667
+
+-North America-
+Amount in training: 37
+Amount in test: 9
+Score: 0.8889
+Base: 0.8889
+
+-Eurasia-
+Amount in training: 38
+Amount in test: 10
+Score: 0.8000
+Base: 0.7000
+
+--143D Optional Triple Negation--
+Not enough languages
+
+--144T The Position of Negative Morphemes in Verb-Initial Languages--
+-Average-
+Score: 0.5000
+Base: 0.5000
+Count: 4
+
+-North America-
+Amount in training: 18
+Amount in test: 4
+Score: 0.5000
+Base: 0.5000
+
+--81A Order of Subject, Object and Verb--
+-Average-
+Score: 0.5126
+Base: 0.4995
+Count: 70
+
+-Papunesia-
+Amount in training: 89
+Amount in test: 22
+Score: 0.5909
+Base: 0.6364
+
+-Africa-
+Amount in training: 73
+Amount in test: 18
+Score: 0.5556
+Base: 0.5556
+
+-South America-
+Amount in training: 49
+Amount in test: 12
+Score: 0.4167
+Base: 0.4167
+
+-North America-
+Amount in training: 38
+Amount in test: 9
+Score: 0.3333
+Base: 0.3333
+
+-Eurasia-
+Amount in training: 37
+Amount in test: 9
+Score: 0.6667
+Base: 0.5556
+
+--91A Order of Degree Word and Adjective--
+-Average-
+Score: 0.6372
+Base: 0.6372
+Count: 33
+
+-Papunesia-
+Amount in training: 45
+Amount in test: 11
+Score: 0.5455
+Base: 0.5455
+
+-Africa-
+Amount in training: 17
+Amount in test: 4
+Score: 0.7500
+Base: 0.7500
+
+-South America-
+Amount in training: 20
+Amount in test: 5
+Score: 0.2000
+Base: 0.2000
+
+-North America-
+Amount in training: 24
+Amount in test: 6
+Score: 0.8333
+Base: 0.8333
+
+-Eurasia-
+Amount in training: 29
+Amount in test: 7
+Score: 0.8571
+Base: 0.8571
+
+--144F Obligatory Double Negation in SVO languages--
+Not enough languages
+
+--90A Order of Relative Clause and Noun--
+-Average-
+Score: 0.7252
+Base: 0.7252
+Count: 46
+
+-Papunesia-
+Amount in training: 54
+Amount in test: 14
+Score: 0.7857
+Base: 0.7857
+
+-Africa-
+Amount in training: 49
+Amount in test: 12
+Score: 0.8333
+Base: 0.8333
+
+-South America-
+Amount in training: 21
+Amount in test: 5
+Score: 0.4000
+Base: 0.4000
+
+-North America-
+Amount in training: 29
+Amount in test: 7
+Score: 0.8571
+Base: 0.8571
+
+-Eurasia-
+Amount in training: 34
+Amount in test: 8
+Score: 0.7500
+Base: 0.7500
+
+--89A Order of Numeral and Noun--
+-Average-
+Score: 0.7994
+Base: 0.8194
+Count: 61
+
+-Papunesia-
+Amount in training: 82
+Amount in test: 20
+Score: 0.5000
+Base: 0.6000
+
+-Africa-
+Amount in training: 60
+Amount in test: 15
+Score: 0.7333
+Base: 0.7333
+
+-South America-
+Amount in training: 34
+Amount in test: 9
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 32
+Amount in test: 8
+Score: 0.8750
+Base: 0.8750
+
+-Eurasia-
+Amount in training: 36
+Amount in test: 9
+Score: 0.8889
+Base: 0.8889
+
+--144Q SNegOV Order--
+-Average-
+Score: 1.0000
+Base: 1.0000
+Count: 13
+
+-South America-
+Amount in training: 23
+Amount in test: 6
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 30
+Amount in test: 7
+Score: 1.0000
+Base: 1.0000
+
+--82A Order of Subject and Verb--
+-Average-
+Score: 0.7583
+Base: 0.7416
+Count: 76
+
+-Papunesia-
+Amount in training: 97
+Amount in test: 24
+Score: 0.9167
+Base: 0.8333
+
+-Africa-
+Amount in training: 74
+Amount in test: 18
+Score: 0.8889
+Base: 0.8889
+
+-South America-
+Amount in training: 54
+Amount in test: 14
+Score: 0.7857
+Base: 0.7857
+
+-North America-
+Amount in training: 38
+Amount in test: 10
+Score: 0.5000
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 39
+Amount in test: 10
+Score: 0.7000
+Base: 0.7000
+
+--144R SONegV Order--
+-Average-
+Score: 0.7143
+Base: 0.7143
+Count: 13
+
+-South America-
+Amount in training: 23
+Amount in test: 6
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 30
+Amount in test: 7
+Score: 0.4286
+Base: 0.4286
+
+--85A Order of Adposition and Noun Phrase--
+-Average-
+Score: 0.7025
+Base: 0.6040
+Count: 65
+
+-Papunesia-
+Amount in training: 82
+Amount in test: 21
+Score: 0.3810
+Base: 0.3333
+
+-Africa-
+Amount in training: 61
+Amount in test: 15
+Score: 0.6667
+Base: 0.6667
+
+-South America-
+Amount in training: 43
+Amount in test: 11
+Score: 0.9091
+Base: 0.9091
+
+-North America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.7778
+Base: 0.7778
+
+-Eurasia-
+Amount in training: 36
+Amount in test: 9
+Score: 0.7778
+Base: 0.3333
+
+--90F Adjoined relative clauses--
+Not enough languages
+
+--94A Order of Adverbial Subordinator and Clause--
+-Average-
+Score: 0.7359
+Base: 0.7359
+Count: 39
+
+-Papunesia-
+Amount in training: 46
+Amount in test: 11
+Score: 0.7273
+Base: 0.7273
+
+-Africa-
+Amount in training: 34
+Amount in test: 8
+Score: 1.0000
+Base: 1.0000
+
+-South America-
+Amount in training: 27
+Amount in test: 7
+Score: 0.4286
+Base: 0.4286
+
+-North America-
+Amount in training: 26
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
+
+-Eurasia-
+Amount in training: 28
+Amount in test: 7
+Score: 0.8571
+Base: 0.8571
+
+--143F Postverbal Negative Morphemes--
+-Average-
+Score: 0.6092
+Base: 0.7025
+Count: 68
+
+-Papunesia-
+Amount in training: 80
+Amount in test: 20
+Score: 0.8000
+Base: 0.8000
+
+-Africa-
+Amount in training: 69
+Amount in test: 17
+Score: 0.5294
+Base: 0.5294
+
+-South America-
+Amount in training: 49
+Amount in test: 12
+Score: 0.4167
+Base: 0.5833
+
+-North America-
+Amount in training: 37
+Amount in test: 9
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in training: 38
+Amount in test: 10
+Score: 0.3000
+Base: 0.6000
+
+--144B Position of negative words relative to beginning and end of clause and with respect to adjacency to verb--
+-Average-
+Score: 0.6583
+Base: 0.6271
+Count: 31
+
+-Papunesia-
+Amount in training: 49
+Amount in test: 12
+Score: 0.7500
+Base: 0.7500
+
+-Africa-
+Amount in training: 31
+Amount in test: 8
+Score: 0.2500
+Base: 0.1250
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+-Eurasia-
+Amount in training: 23
+Amount in test: 6
+Score: 0.8333
+Base: 0.8333
+
+--144U Double negation in verb-initial languages--
+Not enough languages
+
+--90E Correlative relative clauses--
+Not enough languages
+
+--95A Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase--
+-Average-
+Score: 0.6533
+Base: 0.4778
+Count: 63
+
+-Papunesia-
+Amount in training: 82
+Amount in test: 20
+Score: 0.4000
+Base: 0.3000
+
+-Africa-
+Amount in training: 59
+Amount in test: 15
+Score: 0.6000
+Base: 0.6000
+
+-South America-
+Amount in training: 40
+Amount in test: 10
+Score: 0.6000
+Base: 0.6000
+
+-North America-
+Amount in training: 34
+Amount in test: 9
+Score: 0.7778
+Base: 0.7778
+
+-Eurasia-
+Amount in training: 34
+Amount in test: 9
+Score: 0.8889
+Base: 0.1111
+
+--144P NegSOV Order--
+-Average-
+Score: 0.9286
+Base: 0.9286
+Count: 13
+
+-South America-
+Amount in training: 23
+Amount in test: 6
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 30
+Amount in test: 7
+Score: 0.8571
+Base: 0.8571
 
 --144K SVONeg Order--
 -Average-
@@ -1109,20 +857,266 @@ Amount in test: 6
 Score: 0.6667
 Base: 0.6667
 
--Eurasia-
-Amount in training: 19
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
 -Africa-
 Amount in training: 46
 Amount in test: 11
 Score: 0.9091
 Base: 0.9091
 
+-Eurasia-
+Amount in training: 19
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+--143C Optional Double Negation--
+Not enough languages
+
+--143A Order of Negative Morpheme and Verb--
+-Average-
+Score: 0.5364
+Base: 0.6084
+Count: 68
+
+-Papunesia-
+Amount in training: 80
+Amount in test: 20
+Score: 0.7000
+Base: 0.7000
+
+-Africa-
+Amount in training: 69
+Amount in test: 17
+Score: 0.1765
+Base: 0.3529
+
+-South America-
+Amount in training: 49
+Amount in test: 12
+Score: 0.4167
+Base: 0.5000
+
+-North America-
+Amount in training: 37
+Amount in test: 9
+Score: 0.8889
+Base: 0.8889
+
+-Eurasia-
+Amount in training: 38
+Amount in test: 10
+Score: 0.5000
+Base: 0.6000
+
+--93A Position of Interrogative Phrases in Content Questions--
+-Average-
+Score: 0.6512
+Base: 0.6512
+Count: 53
+
+-Papunesia-
+Amount in training: 61
+Amount in test: 15
+Score: 0.8000
+Base: 0.8000
+
+-Africa-
+Amount in training: 51
+Amount in test: 13
+Score: 0.6923
+Base: 0.6923
+
+-South America-
+Amount in training: 36
+Amount in test: 9
+Score: 0.8889
+Base: 0.8889
+
+-North America-
+Amount in training: 31
+Amount in test: 8
+Score: 0.6250
+Base: 0.6250
+
+-Eurasia-
+Amount in training: 30
+Amount in test: 8
+Score: 0.2500
+Base: 0.2500
+
+--144G Optional Double Negation in SVO languages--
+Not enough languages
+
+--92A Position of Polar Question Particles--
+-Average-
+Score: 0.3691
+Base: 0.3644
+Count: 50
+
+-Papunesia-
+Amount in training: 53
+Amount in test: 13
+Score: 0.1538
+Base: 0.1538
+
+-Africa-
+Amount in training: 50
+Amount in test: 13
+Score: 0.4615
+Base: 0.3846
+
+-South America-
+Amount in training: 35
+Amount in test: 9
+Score: 0.4444
+Base: 0.4444
+
+-North America-
+Amount in training: 26
+Amount in test: 7
+Score: 0.2857
+Base: 0.7143
+
+-Eurasia-
+Amount in training: 34
+Amount in test: 8
+Score: 0.5000
+Base: 0.1250
+
+--144D The Position of Negative Morphemes in SVO Languages--
+-Average-
+Score: 0.3389
+Base: 0.3944
+Count: 23
+
+-Papunesia-
+Amount in training: 24
+Amount in test: 6
+Score: 0.1667
+Base: 0.3333
+
+-Africa-
+Amount in training: 46
+Amount in test: 12
+Score: 0.2500
+Base: 0.2500
+
+-Eurasia-
+Amount in training: 19
+Amount in test: 5
+Score: 0.6000
+Base: 0.6000
+
+--90G Double-headed relative clauses--
+Not enough languages
+
+--96A Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun--
+-Average-
+Score: 0.5924
+Base: 0.5524
+Count: 48
+
+-Papunesia-
+Amount in training: 54
+Amount in test: 14
+Score: 0.5714
+Base: 0.5714
+
+-Africa-
+Amount in training: 51
+Amount in test: 13
+Score: 0.6154
+Base: 0.6154
+
+-South America-
+Amount in training: 22
+Amount in test: 5
+Score: 0.4000
+Base: 0.2000
+
+-North America-
+Amount in training: 30
+Amount in test: 8
+Score: 0.6250
+Base: 0.6250
+
+-Eurasia-
+Amount in training: 34
+Amount in test: 8
+Score: 0.7500
+Base: 0.7500
+
 --144E Multiple Negative Constructions in SVO Languages--
 Not enough languages
+
+--90D Internally-headed relative clauses--
+Not enough languages
+
+--84A Order of Object, Oblique, and Verb--
+-Average-
+Score: 0.4500
+Base: 0.4500
+Count: 26
+
+-Papunesia-
+Amount in training: 31
+Amount in test: 8
+Score: 0.6250
+Base: 0.6250
+
+-Africa-
+Amount in training: 34
+Amount in test: 8
+Score: 0.3750
+Base: 0.3750
+
+-South America-
+Amount in training: 18
+Amount in test: 5
+Score: 0.0000
+Base: 0.0000
+
+-North America-
+Amount in training: 19
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
+
+--81B Languages with two Dominant Orders of Subject, Object, and Verb--
+Not enough languages
+
+--144S SOVNeg Order--
+-Average-
+Score: 0.6111
+Base: 0.7222
+Count: 15
+
+-South America-
+Amount in training: 25
+Amount in test: 6
+Score: 0.6667
+Base: 0.6667
+
+-Papunesia-
+Amount in training: 38
+Amount in test: 9
+Score: 0.5556
+Base: 0.7778
+
+--144N Obligatory Double Negation in SOV languages--
+Not enough languages
+
+--144X Verb-Initial with Clause-Final Negative--
+-Average-
+Score: 1.0000
+Base: 1.0000
+Count: 4
+
+-North America-
+Amount in training: 18
+Amount in test: 4
+Score: 1.0000
+Base: 1.0000
 
 --144W Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object--
 -Average-
@@ -1136,60 +1130,66 @@ Amount in test: 4
 Score: 1.0000
 Base: 1.0000
 
---90C Postnominal relative clauses--
+--88A Order of Demonstrative and Noun--
 -Average-
-Score: 0.9643
-Base: 0.9643
-Count: 35
+Score: 0.6778
+Base: 0.6556
+Count: 64
 
 -Papunesia-
-Amount in training: 46
-Amount in test: 11
-Score: 1.0000
-Base: 1.0000
+Amount in training: 85
+Amount in test: 21
+Score: 0.6667
+Base: 0.6667
+
+-Africa-
+Amount in training: 62
+Amount in test: 16
+Score: 0.5000
+Base: 0.5000
+
+-South America-
+Amount in training: 38
+Amount in test: 9
+Score: 0.8889
+Base: 0.8889
+
+-North America-
+Amount in training: 34
+Amount in test: 9
+Score: 0.5556
+Base: 0.4444
 
 -Eurasia-
-Amount in training: 22
+Amount in training: 36
+Amount in test: 9
+Score: 0.7778
+Base: 0.7778
+
+--144M Multiple Negative Constructions in SOV Languages--
+Not enough languages
+
+--144J SVNegO Order--
+-Average-
+Score: 0.8121
+Base: 0.8121
+Count: 22
+
+-Papunesia-
+Amount in training: 23
 Amount in test: 6
 Score: 1.0000
 Base: 1.0000
 
--North America-
-Amount in training: 28
-Amount in test: 7
-Score: 0.8571
-Base: 0.8571
-
 -Africa-
 Amount in training: 46
 Amount in test: 11
-Score: 1.0000
-Base: 1.0000
-
---90D Internally-headed relative clauses--
-Not enough languages
-
---144L The Position of Negative Morphemes in SOV Languages--
--Average-
-Score: 0.4929
-Base: 0.4929
-Count: 21
-
--Papunesia-
-Amount in training: 39
-Amount in test: 10
-Score: 0.3000
-Base: 0.3000
+Score: 0.6364
+Base: 0.6364
 
 -Eurasia-
-Amount in training: 17
-Amount in test: 4
-Score: 0.7500
-Base: 0.7500
-
--South America-
-Amount in training: 30
-Amount in test: 7
-Score: 0.4286
-Base: 0.4286
+Amount in training: 19
+Amount in test: 5
+Score: 0.8000
+Base: 0.8000
 

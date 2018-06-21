@@ -14,19 +14,16 @@ Score: 1.0000
 Base: 1.0000
 Count: 4
 
---122A Relativization on Subjects--
-Not enough languages
-
---125A Purpose Clauses--
-Not enough languages
-
---123A Relativization on Obliques--
+--126A 'When' Clauses--
 Not enough languages
 
 --127A Reason Clauses--
 Not enough languages
 
 --128A Utterance Complement Clauses--
+Not enough languages
+
+--125A Purpose Clauses--
 Not enough languages
 
 --124A 'Want' Complement Subjects--
@@ -47,6 +44,9 @@ Amount in test: 4
 Score: 1.0000
 Base: 1.0000
 
---126A 'When' Clauses--
+--122A Relativization on Subjects--
+Not enough languages
+
+--123A Relativization on Obliques--
 Not enough languages
 
