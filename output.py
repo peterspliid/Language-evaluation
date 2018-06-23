@@ -292,7 +292,7 @@ def single_map(languages, lang_coords, title, location):
     fig = plt.figure(figsize=(14, 7))
     # Since Papunesia is spread across the Pacific Ocean, we rotate the globe
     # 180 degrees
-    if 'Papunesia' in title:
+    if 'Papunesia' in location:
         ax = fig.add_subplot(111, projection=ccrs.PlateCarree(central_longitude=180))
         #X, Y = ccrs.transform_points(ccrs.PlateCarree(central_longitude=180), X, Y)
     else:

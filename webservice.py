@@ -192,16 +192,14 @@ class MyHandler(BaseHTTPRequestHandler):
         # Removing the first / and fixing spaces
         file = path[1:].replace('%20', ' ')
 
-        if file.endswith('.svg'):
-            mime = 'image/svg+xml'
-        elif file.endswith('.js'):
+        if file.endswith('.js'):
             mime = 'application/javascript'
         elif file.endswith('.css'):
             mime = 'text/css'
         elif file.endswith('.png'):
             mime = 'image/png'
-
-        print(file)
+        elif file.endswith('.ico'):
+            mime = 'image/x-icon'
 
         if mime and os.path.isfile(file):
             self.do_HEAD(mime = mime)
@@ -222,14 +220,14 @@ class MyHandler(BaseHTTPRequestHandler):
         content.write('''<p>This tool allows you to upload and evaluate language
                          representations. The embeddings must be a Python pickle,
                          where the keys are language IDs (ISO 639-3) and the values
-                         are language embeddings, which must constist of 2D floating
+                         are language embeddings, which must constist of floating
                          lists or numpy arrays. When submiting the embeddings,
                          the evaluation takes a couple of minutes before it is ready.
                          Once the results are ready, you will be redirected to the
-                         results page. You will be given a session ID, which can be used
-                         to access the results at a later time. A session is valid for
+                         results page. You will be given a session ID in the URL,
+                         so you can bookmark the page and come back later. A session is valid for
                          a week, after which the embeddings must be resubmitted if you
-                         wish to view the results. You can read more about this
+                         wish to view the results against. You can read more about this
                          project on its Github page at
                          <a href="https://github.com/peterspliid/Language-evaluation"
                          target="_blank">https://github.com/peterspliid/Language-evaluation</a>.</p>''')
