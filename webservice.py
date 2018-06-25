@@ -25,7 +25,7 @@ class MyHandler(BaseHTTPRequestHandler):
         self.send_header('Content-type', mime)
         self.end_headers()
 
-    def parse_post_data(self, session):
+    def parse_post_data(self):
         boundary = self.headers['Content-type'].split('boundary=')[1].encode()
         content_length = int(self.headers['Content-Length'])
 
@@ -131,7 +131,7 @@ class MyHandler(BaseHTTPRequestHandler):
         while os.path.isdir('temp/'+session):
             session = gen_session()
 
-        success, content = self.parse_post_data(session)
+        success, content = self.parse_post_data()
 
         if success:
             os.makedirs('temp/'+session)
@@ -177,6 +177,8 @@ class MyHandler(BaseHTTPRequestHandler):
                 else:
                     self.wfile.write(bytes("no", 'UTF-8'))
             # Else if normal page call
+            elif is_ready and len(path) == 1:
+                self.do_HEAD(redirect = '{}/summary'.format(session), status = 303)
             elif is_ready:
                 eval_page = EvaluationPage(path)
                 eval_page.create_page()
@@ -184,7 +186,7 @@ class MyHandler(BaseHTTPRequestHandler):
             else:
                 self.loading_page()
         else:
-            self.page('<p>Could not find the page. Perhaps the session has expired?</p><p><a href="/">Go back</a></p>', 404)
+            self.page('<p>Could not find the session. Perhaps the session has expired?</p><p><a href="/">Go back</a></p>', 404)
 
     def send_file(self, path):
         mime = ''
@@ -227,7 +229,7 @@ class MyHandler(BaseHTTPRequestHandler):
                          results page. You will be given a session ID in the URL,
                          so you can bookmark the page and come back later. A session is valid for
                          a week, after which the embeddings must be resubmitted if you
-                         wish to view the results against. You can read more about this
+                         wish to view the results again. You can read more about this
                          project on its Github page at
                          <a href="https://github.com/peterspliid/Language-evaluation"
                          target="_blank">https://github.com/peterspliid/Language-evaluation</a>.</p>''')

@@ -34,12 +34,11 @@ class EvaluationPage:
         self.content.write(self.create_menu())
         self.content.write('<div id="evaluation-page">')
 
-        # If front evaluation page
-        if len(self.path) == 0:
-            self.content.write(self.summary_page())
-        elif len(self.path) == 1:
+        if len(self.path) == 1:
             page = self.path[0]
-            if page == 'languages':
+            if page == 'summary':
+                self.content.write(self.summary_page())
+            elif page == 'languages':
                 self.content.write(self.languages_page())
             elif page == 'feature-area':
                 self.content.write(self.feature_area_average_page())
@@ -478,7 +477,7 @@ class EvaluationPage:
         content = StringIO()
         content.write('<div id="menu"><ul>')
         selected = ' class="selected"' if not self.path else ''
-        content.write('<li><a href="/{}/"{}>Summary</a></li>'.format(self.session, selected))
+        content.write('<li><a href="/{}/summary/"{}>Summary</a></li>'.format(self.session, selected))
         selected = ' class="selected"' if self.path and 'feature-area' == self.path[0] else ''
         content.write('<li><a href="/{}/feature-area/"{}>Feature areas</a>'.format(self.session, selected))
         content.write('<ul>')
