@@ -8,7 +8,7 @@ import numpy as np
 from evaluate_module import evaluate, calculate_averages
 from output import write_report, graph, maps, count_score_graph
 
-def run_evaluation(embeddings, report = False, graphs = False, knn_k = 10,
+def run_evaluation(embeddings, report = False, graphs = False, classifier_args = [],
         classifier = 'knn', selected_feature_areas = None,
         selected_features = None, folder = 'output'):
 
@@ -37,12 +37,12 @@ def run_evaluation(embeddings, report = False, graphs = False, knn_k = 10,
     included_features = get_included_features(feature_areas, selected_feature_areas,
                                               selected_features)
     if classifier == 'knn':
-        classifier = neighbors.KNeighborsClassifier(knn_k)
+        classifier = neighbors.KNeighborsClassifier(classifier_args[0]) if classifier_args \
+                         else neighbors.KNeighborsClassifier(10)
     elif classifier == 'mlp':
         from sklearn.neural_network import MLPClassifier
-        # ‘lbfgs’ is an optimizer in the family of quasi-Newton methods, which
-        # should work well with 'smaller' datasets
-        classifier = MLPClassifier(solver='lbfgs')
+        classifier = MLPClassifier(hidden_layer_sizes=tuple(classifier_args)) if classifier_args \
+                        else MLPClassifier()
     else:
         classifier = svm.SVC()
 
@@ -102,8 +102,8 @@ def main():
         help="Write text reports with all the results")
     argparser.add_argument('-d', '--graphs', action='store_true',
         help="Create graphs with all the results (takes a couple of minutes)")
-    argparser.add_argument('-k', '--knn-k', default=10, type=int,
-        help="K value for the knn classifier")
+    argparser.add_argument('-k', '--classifier-args', type=int, nargs='+',
+        help="Argument for the classifier. For knn, its k, for mlp, its a list of layer sizes.")
     argparser.add_argument('-c', '--classifier', default='knn',
         choices=['knn', 'svm', 'mlp'], help='Which classifier to use')
     argparser.add_argument('-g', '--feature-areas', nargs='+', type=int,
@@ -134,7 +134,7 @@ def main():
     with open(args.embeddings, 'rb') as f:
         embeddings = pickle.load(f)
 
-    success, data = run_evaluation(embeddings, args.report, args.graphs, args.knn_k,
+    success, data = run_evaluation(embeddings, args.report, args.graphs, args.classifier_args,
         args.classifier, args.feature_areas, args.features, args.folder)
 
     # On success print the total averages, other print the error

@@ -295,7 +295,6 @@ def evaluate(languages, headers, embeddings, included_features, classifier):
             within_areas[fa][feature][area]["base"] = base
 
         ## Individual languages ##
-        #import ipdb; ipdb.set_trace(context=11)
         # To find language area and feature from the language
         language_lookup = {lang[1]: [lang[8], lang[i+fi]] for lang in languages if lang[i+fi]}
         lang_ids = list(language_lookup.keys())

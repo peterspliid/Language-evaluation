@@ -297,7 +297,8 @@ def single_map(languages, lang_coords, title, location):
     # 180 degrees
     if 'Papunesia' in location:
         ax = fig.add_subplot(111, projection=ccrs.PlateCarree(central_longitude=180))
-        #X, Y = ccrs.transform_points(ccrs.PlateCarree(central_longitude=180), X, Y)
+    elif 'Eurasia' in location:
+        ax = fig.add_subplot(111, projection=ccrs.PlateCarree(central_longitude=60))
     else:
         ax = fig.add_subplot(111, projection=ccrs.PlateCarree())
     #fig.suptitle(title, fontsize=20)

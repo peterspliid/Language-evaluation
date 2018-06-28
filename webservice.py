@@ -66,11 +66,9 @@ class MyHandler(BaseHTTPRequestHandler):
                 if classifier not in ['knn', 'svm', 'mlp']:
                     return (False, "Unknown classifier")
 
-            elif name[0] == 'knnk':
+            elif name[0] == 'classifierarg':
                 data, content_length = self.get_post_val(content_length)
-                knnk = int(data)
-                if knnk < 0 or knnk > 50:
-                    return (False, "Invalid k")
+                classifier_arg = [int(val) for val in data.split(',')]
 
             elif name[0] == 'embeddings':
                 # Check if it's a pickle file
@@ -108,7 +106,7 @@ class MyHandler(BaseHTTPRequestHandler):
                 'feature_groups': feature_groups,
                 'features': features,
                 'classifier': classifier,
-                'knnk': knnk}
+                'classifier_arg': classifier_arg}
 
         return (True, data)
 
@@ -270,10 +268,10 @@ class MyHandler(BaseHTTPRequestHandler):
             </tr>
             <tr>
                 <th>
-                    <label for="knnk">k for k-nearest neighbors</label>
+                    <label for="classifierarg">Classifier arguments<p>For knn, use k, for mlp use a comma seperated list of layer sizes</p></label>
                 </th>
                 <td>
-                    <input type="number" name="knnk" id="knnk" value="17" accept=".pkl" min="1" max="50" />
+                    <input type="text" name="classifierarg" id="classifierarg" value="10" />
                 </td>
             </tr>
             </table>
@@ -321,7 +319,7 @@ class MyHandler(BaseHTTPRequestHandler):
         return '</body></html>'
 
 def start_evaluation(args, session):
-    data = run_evaluation(args['embeddings'], False, True, args['knnk'],
+    data = run_evaluation(args['embeddings'], False, True, args['classifier_arg'],
         args['classifier'], args['feature_groups'], args['features'],
         'temp/'+session+'/')
 
