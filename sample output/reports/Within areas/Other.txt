@@ -1,6 +1,26 @@
---142A Para-Linguistic Usages of Clicks--
-Not enough languages
+--Total average--
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+--Area average--
+-Eurasia-
+Score: 0.7500
+Base: 0.7500
+Count: 4
 
 --141A Writing Systems--
 Not enough languages
+
+--142A Para-Linguistic Usages of Clicks--
+-Average-
+Score: 0.7500
+Base: 0.7500
+Count: 4
+
+-Eurasia-
+Amount in training: 15
+Amount in test: 4
+Score: 0.7500
+Base: 0.7500
 

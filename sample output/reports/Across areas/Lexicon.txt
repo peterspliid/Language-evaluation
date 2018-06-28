@@ -1,31 +1,11 @@
 --Total average--
-Score: 0.5561
+Score: 0.5490
 Base: 0.6021
 Count: 1111
 
 --Area average--
--South America-
-Score: 0.6154
-Base: 0.7569
-Count: 321
-
--Papunesia-
-Score: 0.6797
-Base: 0.7218
-Count: 201
-
--North America-
-Score: 0.5351
-Base: 0.5652
-Count: 244
-
--Eurasia-
-Score: 0.5710
-Base: 0.5338
-Count: 173
-
 -Africa-
-Score: 0.5185
+Score: 0.5422
 Base: 0.5350
 Count: 160
 
@@ -34,143 +14,37 @@ Score: 0.4167
 Base: 0.5000
 Count: 12
 
---138A Tea--
--Average-
-Score: 0.5000
-Base: 0.5189
-Count: 83
-
--Papunesia-
-Amount in training: 68
-Amount in test: 15
-Score: 0.6667
-Base: 0.6667
-
--Africa-
-Amount in training: 59
-Amount in test: 24
-Score: 0.3333
-Base: 0.3750
-
--South America-
-Amount in training: 80
-Amount in test: 3
-Score: 1.0000
-Base: 1.0000
+-Eurasia-
+Score: 0.5710
+Base: 0.5338
+Count: 173
 
 -North America-
-Amount in training: 80
-Amount in test: 3
-Score: 0.0000
-Base: 0.0000
-
--Eurasia-
-Amount in training: 45
-Amount in test: 38
-Score: 0.5000
-Base: 0.5526
-
---132A Number of Non-Derived Basic Colour Categories--
--Average-
-Score: 0.3467
-Base: 0.3882
-Count: 74
-
--South America-
-Amount in training: 47
-Amount in test: 27
-Score: 0.0741
-Base: 0.5926
+Score: 0.5513
+Base: 0.5652
+Count: 244
 
 -Papunesia-
-Amount in training: 61
-Amount in test: 13
-Score: 0.4615
-Base: 0.6923
-
--Australia-
-Amount in training: 72
-Amount in test: 2
-Score: 0.5000
-Base: 0.5000
-
--North America-
-Amount in training: 56
-Amount in test: 18
-Score: 0.4444
-Base: 0.4444
-
--Africa-
-Amount in training: 64
-Amount in test: 10
-Score: 0.1000
-Base: 0.1000
-
--Eurasia-
-Amount in training: 70
-Amount in test: 4
-Score: 0.5000
-Base: 0.0000
-
---134A Green and Blue--
--Average-
-Score: 0.3656
-Base: 0.4566
-Count: 74
+Score: 0.6421
+Base: 0.7218
+Count: 201
 
 -South America-
-Amount in training: 47
-Amount in test: 27
-Score: 0.0741
-Base: 0.8148
-
--Papunesia-
-Amount in training: 61
-Amount in test: 13
-Score: 0.7692
-Base: 0.7692
-
--Australia-
-Amount in training: 72
-Amount in test: 2
-Score: 0.5000
-Base: 0.5000
-
--North America-
-Amount in training: 56
-Amount in test: 18
-Score: 0.5000
-Base: 0.5556
-
--Africa-
-Amount in training: 64
-Amount in test: 10
-Score: 0.1000
-Base: 0.1000
-
--Eurasia-
-Amount in training: 70
-Amount in test: 4
-Score: 0.2500
-Base: 0.0000
+Score: 0.5708
+Base: 0.7569
+Count: 321
 
 --129A Hand and Arm--
 -Average-
-Score: 0.6519
+Score: 0.6518
 Base: 0.6579
 Count: 209
 
--South America-
-Amount in training: 138
-Amount in test: 71
-Score: 0.7465
-Base: 0.8592
-
--Papunesia-
-Amount in training: 179
-Amount in test: 30
-Score: 0.3667
-Base: 0.3333
+-Africa-
+Amount in training: 186
+Amount in test: 23
+Score: 0.5652
+Base: 0.4783
 
 -Australia-
 Amount in training: 207
@@ -178,23 +52,29 @@ Amount in test: 2
 Score: 1.0000
 Base: 1.0000
 
--North America-
-Amount in training: 154
-Amount in test: 55
-Score: 0.4909
-Base: 0.4909
-
--Africa-
-Amount in training: 186
-Amount in test: 23
-Score: 0.5217
-Base: 0.4783
-
 -Eurasia-
 Amount in training: 181
 Amount in test: 28
 Score: 0.7857
 Base: 0.7857
+
+-North America-
+Amount in training: 154
+Amount in test: 55
+Score: 0.5455
+Base: 0.4909
+
+-Papunesia-
+Amount in training: 179
+Amount in test: 30
+Score: 0.3667
+Base: 0.3333
+
+-South America-
+Amount in training: 138
+Amount in test: 71
+Score: 0.6479
+Base: 0.8592
 
 --130A Finger and Hand--
 -Average-
@@ -202,17 +82,11 @@ Score: 0.8096
 Base: 0.8096
 Count: 205
 
--South America-
-Amount in training: 136
-Amount in test: 69
-Score: 0.9275
-Base: 0.9275
-
--Papunesia-
-Amount in training: 175
-Amount in test: 30
-Score: 0.9667
-Base: 0.9667
+-Africa-
+Amount in training: 184
+Amount in test: 21
+Score: 1.0000
+Base: 1.0000
 
 -Australia-
 Amount in training: 203
@@ -220,254 +94,29 @@ Amount in test: 2
 Score: 0.0000
 Base: 0.0000
 
--North America-
-Amount in training: 150
-Amount in test: 55
-Score: 0.9636
-Base: 0.9636
-
--Africa-
-Amount in training: 184
-Amount in test: 21
-Score: 1.0000
-Base: 1.0000
-
 -Eurasia-
 Amount in training: 177
 Amount in test: 28
 Score: 1.0000
 Base: 1.0000
 
---135A Red and Yellow--
--Average-
-Score: 0.7932
-Base: 0.7932
-Count: 74
-
--South America-
-Amount in training: 47
-Amount in test: 27
-Score: 0.8148
-Base: 0.8148
+-North America-
+Amount in training: 150
+Amount in test: 55
+Score: 0.9636
+Base: 0.9636
 
 -Papunesia-
-Amount in training: 61
-Amount in test: 13
-Score: 1.0000
-Base: 1.0000
-
--Australia-
-Amount in training: 72
-Amount in test: 2
-Score: 0.5000
-Base: 0.5000
-
--North America-
-Amount in training: 56
-Amount in test: 18
-Score: 0.9444
-Base: 0.9444
-
--Africa-
-Amount in training: 64
-Amount in test: 10
-Score: 0.5000
-Base: 0.5000
-
--Eurasia-
-Amount in training: 70
-Amount in test: 4
-Score: 1.0000
-Base: 1.0000
-
---136A M-T Pronouns--
--Average-
-Score: 0.7900
-Base: 0.7900
-Count: 64
-
--Papunesia-
-Amount in training: 49
-Amount in test: 15
-Score: 0.8000
-Base: 0.8000
-
--Africa-
-Amount in training: 54
-Amount in test: 10
-Score: 0.9000
-Base: 0.9000
+Amount in training: 175
+Amount in test: 30
+Score: 0.9667
+Base: 0.9667
 
 -South America-
-Amount in training: 49
-Amount in test: 15
-Score: 1.0000
-Base: 1.0000
-
--North America-
-Amount in training: 52
-Amount in test: 12
-Score: 1.0000
-Base: 1.0000
-
--Eurasia-
-Amount in training: 52
-Amount in test: 12
-Score: 0.2500
-Base: 0.2500
-
---137B M in Second Person Singular--
--Average-
-Score: 0.5367
-Base: 0.6033
-Count: 64
-
--Papunesia-
-Amount in training: 49
-Amount in test: 15
-Score: 0.6000
-Base: 0.6000
-
--Africa-
-Amount in training: 54
-Amount in test: 10
-Score: 0.7000
-Base: 0.7000
-
--South America-
-Amount in training: 49
-Amount in test: 15
-Score: 0.4667
-Base: 0.4667
-
--North America-
-Amount in training: 52
-Amount in test: 12
-Score: 0.2500
-Base: 0.3333
-
--Eurasia-
-Amount in training: 52
-Amount in test: 12
-Score: 0.6667
-Base: 0.9167
-
---130B Cultural Categories of Languages with Identity of 'Finger' and 'Hand'--
-Not enough languages
-
---133A Number of Basic Colour Categories--
--Average-
-Score: 0.0763
-Base: 0.3245
-Count: 74
-
--South America-
-Amount in training: 47
-Amount in test: 27
-Score: 0.1481
-Base: 0.4074
-
--Papunesia-
-Amount in training: 61
-Amount in test: 13
-Score: 0.1538
-Base: 0.4615
-
--Australia-
-Amount in training: 72
-Amount in test: 2
-Score: 0.0000
-Base: 0.5000
-
--North America-
-Amount in training: 56
-Amount in test: 18
-Score: 0.0556
-Base: 0.2778
-
--Africa-
-Amount in training: 64
-Amount in test: 10
-Score: 0.1000
-Base: 0.3000
-
--Eurasia-
-Amount in training: 70
-Amount in test: 4
-Score: 0.0000
-Base: 0.0000
-
---137A N-M Pronouns--
--Average-
-Score: 0.8433
-Base: 0.8433
-Count: 64
-
--Papunesia-
-Amount in training: 49
-Amount in test: 15
-Score: 1.0000
-Base: 1.0000
-
--Africa-
-Amount in training: 54
-Amount in test: 10
-Score: 0.9000
-Base: 0.9000
-
--South America-
-Amount in training: 49
-Amount in test: 15
-Score: 0.7333
-Base: 0.7333
-
--North America-
-Amount in training: 52
-Amount in test: 12
-Score: 0.5833
-Base: 0.5833
-
--Eurasia-
-Amount in training: 52
-Amount in test: 12
-Score: 1.0000
-Base: 1.0000
-
---136B M in First Person Singular--
--Average-
-Score: 0.6167
-Base: 0.6300
-Count: 64
-
--Papunesia-
-Amount in training: 49
-Amount in test: 15
-Score: 0.8000
-Base: 0.8000
-
--Africa-
-Amount in training: 54
-Amount in test: 10
-Score: 0.4000
-Base: 0.4000
-
--South America-
-Amount in training: 49
-Amount in test: 15
-Score: 0.8000
-Base: 0.8667
-
--North America-
-Amount in training: 52
-Amount in test: 12
-Score: 0.9167
-Base: 0.9167
-
--Eurasia-
-Amount in training: 52
-Amount in test: 12
-Score: 0.1667
-Base: 0.1667
+Amount in training: 136
+Amount in test: 69
+Score: 0.9275
+Base: 0.9275
 
 --131A Numeral Bases--
 -Average-
@@ -475,23 +124,17 @@ Score: 0.5688
 Base: 0.5688
 Count: 62
 
--Papunesia-
-Amount in training: 48
-Amount in test: 14
-Score: 0.5714
-Base: 0.5714
-
 -Africa-
 Amount in training: 50
 Amount in test: 12
 Score: 0.6667
 Base: 0.6667
 
--South America-
-Amount in training: 52
-Amount in test: 10
-Score: 0.6000
-Base: 0.6000
+-Eurasia-
+Amount in training: 47
+Amount in test: 15
+Score: 0.7333
+Base: 0.7333
 
 -North America-
 Amount in training: 51
@@ -499,9 +142,366 @@ Amount in test: 11
 Score: 0.2727
 Base: 0.2727
 
+-Papunesia-
+Amount in training: 48
+Amount in test: 14
+Score: 0.5714
+Base: 0.5714
+
+-South America-
+Amount in training: 52
+Amount in test: 10
+Score: 0.6000
+Base: 0.6000
+
+--132A Number of Non-Derived Basic Colour Categories--
+-Average-
+Score: 0.3899
+Base: 0.3882
+Count: 74
+
+-Africa-
+Amount in training: 64
+Amount in test: 10
+Score: 0.1000
+Base: 0.1000
+
+-Australia-
+Amount in training: 72
+Amount in test: 2
+Score: 0.5000
+Base: 0.5000
+
 -Eurasia-
+Amount in training: 70
+Amount in test: 4
+Score: 0.5000
+Base: 0.0000
+
+-North America-
+Amount in training: 56
+Amount in test: 18
+Score: 0.5556
+Base: 0.4444
+
+-Papunesia-
+Amount in training: 61
+Amount in test: 13
+Score: 0.4615
+Base: 0.6923
+
+-South America-
 Amount in training: 47
+Amount in test: 27
+Score: 0.2222
+Base: 0.5926
+
+--133A Number of Basic Colour Categories--
+-Average-
+Score: 0.0955
+Base: 0.3245
+Count: 74
+
+-Africa-
+Amount in training: 64
+Amount in test: 10
+Score: 0.2000
+Base: 0.3000
+
+-Australia-
+Amount in training: 72
+Amount in test: 2
+Score: 0.0000
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 70
+Amount in test: 4
+Score: 0.0000
+Base: 0.0000
+
+-North America-
+Amount in training: 56
+Amount in test: 18
+Score: 0.1111
+Base: 0.2778
+
+-Papunesia-
+Amount in training: 61
+Amount in test: 13
+Score: 0.0769
+Base: 0.4615
+
+-South America-
+Amount in training: 47
+Amount in test: 27
+Score: 0.1852
+Base: 0.4074
+
+--134A Green and Blue--
+-Average-
+Score: 0.3587
+Base: 0.4566
+Count: 74
+
+-Africa-
+Amount in training: 64
+Amount in test: 10
+Score: 0.2000
+Base: 0.1000
+
+-Australia-
+Amount in training: 72
+Amount in test: 2
+Score: 0.5000
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 70
+Amount in test: 4
+Score: 0.2500
+Base: 0.0000
+
+-North America-
+Amount in training: 56
+Amount in test: 18
+Score: 0.5556
+Base: 0.5556
+
+-Papunesia-
+Amount in training: 61
+Amount in test: 13
+Score: 0.4615
+Base: 0.7692
+
+-South America-
+Amount in training: 47
+Amount in test: 27
+Score: 0.1852
+Base: 0.8148
+
+--135A Red and Yellow--
+-Average-
+Score: 0.7932
+Base: 0.7932
+Count: 74
+
+-Africa-
+Amount in training: 64
+Amount in test: 10
+Score: 0.5000
+Base: 0.5000
+
+-Australia-
+Amount in training: 72
+Amount in test: 2
+Score: 0.5000
+Base: 0.5000
+
+-Eurasia-
+Amount in training: 70
+Amount in test: 4
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 56
+Amount in test: 18
+Score: 0.9444
+Base: 0.9444
+
+-Papunesia-
+Amount in training: 61
+Amount in test: 13
+Score: 1.0000
+Base: 1.0000
+
+-South America-
+Amount in training: 47
+Amount in test: 27
+Score: 0.8148
+Base: 0.8148
+
+--136A M-T Pronouns--
+-Average-
+Score: 0.7900
+Base: 0.7900
+Count: 64
+
+-Africa-
+Amount in training: 54
+Amount in test: 10
+Score: 0.9000
+Base: 0.9000
+
+-Eurasia-
+Amount in training: 52
+Amount in test: 12
+Score: 0.2500
+Base: 0.2500
+
+-North America-
+Amount in training: 52
+Amount in test: 12
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 49
+Amount in test: 15
+Score: 0.8000
+Base: 0.8000
+
+-South America-
+Amount in training: 49
+Amount in test: 15
+Score: 1.0000
+Base: 1.0000
+
+--137A N-M Pronouns--
+-Average-
+Score: 0.8433
+Base: 0.8433
+Count: 64
+
+-Africa-
+Amount in training: 54
+Amount in test: 10
+Score: 0.9000
+Base: 0.9000
+
+-Eurasia-
+Amount in training: 52
+Amount in test: 12
+Score: 1.0000
+Base: 1.0000
+
+-North America-
+Amount in training: 52
+Amount in test: 12
+Score: 0.5833
+Base: 0.5833
+
+-Papunesia-
+Amount in training: 49
+Amount in test: 15
+Score: 1.0000
+Base: 1.0000
+
+-South America-
+Amount in training: 49
 Amount in test: 15
 Score: 0.7333
 Base: 0.7333
+
+--138A Tea--
+-Average-
+Score: 0.3883
+Base: 0.5189
+Count: 83
+
+-Africa-
+Amount in training: 59
+Amount in test: 24
+Score: 0.3750
+Base: 0.3750
+
+-Eurasia-
+Amount in training: 45
+Amount in test: 38
+Score: 0.5000
+Base: 0.5526
+
+-North America-
+Amount in training: 80
+Amount in test: 3
+Score: 0.0000
+Base: 0.0000
+
+-Papunesia-
+Amount in training: 68
+Amount in test: 15
+Score: 0.7333
+Base: 0.6667
+
+-South America-
+Amount in training: 80
+Amount in test: 3
+Score: 0.3333
+Base: 1.0000
+
+--137B M in Second Person Singular--
+-Average-
+Score: 0.5067
+Base: 0.6033
+Count: 64
+
+-Africa-
+Amount in training: 54
+Amount in test: 10
+Score: 0.7000
+Base: 0.7000
+
+-Eurasia-
+Amount in training: 52
+Amount in test: 12
+Score: 0.6667
+Base: 0.9167
+
+-North America-
+Amount in training: 52
+Amount in test: 12
+Score: 0.1667
+Base: 0.3333
+
+-Papunesia-
+Amount in training: 49
+Amount in test: 15
+Score: 0.5333
+Base: 0.6000
+
+-South America-
+Amount in training: 49
+Amount in test: 15
+Score: 0.4667
+Base: 0.4667
+
+--136B M in First Person Singular--
+-Average-
+Score: 0.5900
+Base: 0.6300
+Count: 64
+
+-Africa-
+Amount in training: 54
+Amount in test: 10
+Score: 0.4000
+Base: 0.4000
+
+-Eurasia-
+Amount in training: 52
+Amount in test: 12
+Score: 0.1667
+Base: 0.1667
+
+-North America-
+Amount in training: 52
+Amount in test: 12
+Score: 0.9167
+Base: 0.9167
+
+-Papunesia-
+Amount in training: 49
+Amount in test: 15
+Score: 0.7333
+Base: 0.8000
+
+-South America-
+Amount in training: 49
+Amount in test: 15
+Score: 0.7333
+Base: 0.8667
+
+--130B Cultural Categories of Languages with Identity of 'Finger' and 'Hand'--
+Not enough languages
 

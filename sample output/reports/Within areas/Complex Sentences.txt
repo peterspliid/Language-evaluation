@@ -1,42 +1,70 @@
 --Total average--
-Score: 0.8750
-Base: 0.8750
-Count: 8
+Score: 0.5778
+Base: 0.5778
+Count: 45
 
 --Area average--
+-Africa-
+Score: 0.8333
+Base: 0.8333
+Count: 7
+
+-Eurasia-
+Score: 0.6111
+Base: 0.6111
+Count: 18
+
 -Papunesia-
-Score: 0.7500
-Base: 0.7500
+Score: 0.6167
+Base: 0.6167
+Count: 16
+
+-South America-
+Score: 0.2500
+Base: 0.2500
 Count: 4
+
+--122A Relativization on Subjects--
+-Average-
+Score: 0.4444
+Base: 0.4444
+Count: 9
 
 -Africa-
-Score: 1.0000
-Base: 1.0000
-Count: 4
+Amount in training: 13
+Amount in test: 3
+Score: 0.6667
+Base: 0.6667
 
---126A 'When' Clauses--
-Not enough languages
+-Eurasia-
+Amount in training: 13
+Amount in test: 3
+Score: 0.0000
+Base: 0.0000
 
---127A Reason Clauses--
-Not enough languages
+-Papunesia-
+Amount in training: 11
+Amount in test: 3
+Score: 0.6667
+Base: 0.6667
 
---128A Utterance Complement Clauses--
-Not enough languages
+--123A Relativization on Obliques--
+-Average-
+Score: 0.3333
+Base: 0.3333
+Count: 3
 
---125A Purpose Clauses--
-Not enough languages
+-Eurasia-
+Amount in training: 12
+Amount in test: 3
+Score: 0.3333
+Base: 0.3333
 
 --124A 'Want' Complement Subjects--
 -Average-
-Score: 0.8750
-Base: 0.8750
-Count: 8
-
--Papunesia-
-Amount in training: 17
-Amount in test: 4
 Score: 0.7500
 Base: 0.7500
+Count: 15
 
 -Africa-
 Amount in training: 17
@@ -44,9 +72,78 @@ Amount in test: 4
 Score: 1.0000
 Base: 1.0000
 
---122A Relativization on Subjects--
-Not enough languages
+-Eurasia-
+Amount in training: 11
+Amount in test: 3
+Score: 1.0000
+Base: 1.0000
 
---123A Relativization on Obliques--
+-Papunesia-
+Amount in training: 17
+Amount in test: 4
+Score: 0.7500
+Base: 0.7500
+
+-South America-
+Amount in training: 14
+Amount in test: 4
+Score: 0.2500
+Base: 0.2500
+
+--125A Purpose Clauses--
+-Average-
+Score: 0.6667
+Base: 0.6667
+Count: 6
+
+-Eurasia-
+Amount in training: 12
+Amount in test: 3
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 11
+Amount in test: 3
+Score: 0.3333
+Base: 0.3333
+
+--126A 'When' Clauses--
+-Average-
+Score: 0.5000
+Base: 0.5000
+Count: 6
+
+-Eurasia-
+Amount in training: 12
+Amount in test: 3
+Score: 0.3333
+Base: 0.3333
+
+-Papunesia-
+Amount in training: 11
+Amount in test: 3
+Score: 0.6667
+Base: 0.6667
+
+--127A Reason Clauses--
+-Average-
+Score: 0.8333
+Base: 0.8333
+Count: 6
+
+-Eurasia-
+Amount in training: 11
+Amount in test: 3
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 11
+Amount in test: 3
+Score: 0.6667
+Base: 0.6667
+
+--128A Utterance Complement Clauses--
 Not enough languages
 

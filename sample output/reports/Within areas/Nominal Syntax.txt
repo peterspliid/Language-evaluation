@@ -1,36 +1,23 @@
 --Total average--
-Score: 0.9033
-Base: 0.9033
-Count: 31
+Score: 0.8907
+Base: 0.8491
+Count: 48
 
 --Area average--
 -Papunesia-
-Score: 0.8067
-Base: 0.8067
-Count: 26
+Score: 0.8389
+Base: 0.8389
+Count: 29
 
 -Eurasia-
+Score: 0.8333
+Base: 0.8333
+Count: 12
+
+-Africa-
 Score: 1.0000
-Base: 1.0000
-Count: 5
-
---61A Adjectives without Nouns--
-Not enough languages
-
---60A Genitives, Adjectives and Relative Clauses--
-Not enough languages
-
---58B Number of Possessive Nouns--
--Average-
-Score: 1.0000
-Base: 1.0000
-Count: 5
-
--Papunesia-
-Amount in training: 18
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
+Base: 0.8750
+Count: 7
 
 --58A Obligatory Possessive Inflection--
 -Average-
@@ -40,36 +27,6 @@ Count: 5
 
 -Papunesia-
 Amount in training: 18
-Amount in test: 5
-Score: 1.0000
-Base: 1.0000
-
---64A Nominal and Verbal Conjunction--
--Average-
-Score: 0.8333
-Base: 0.8333
-Count: 6
-
--Papunesia-
-Amount in training: 22
-Amount in test: 6
-Score: 0.8333
-Base: 0.8333
-
---63A Noun Phrase Conjunction--
--Average-
-Score: 0.7000
-Base: 0.7000
-Count: 10
-
--Papunesia-
-Amount in training: 18
-Amount in test: 5
-Score: 0.4000
-Base: 0.4000
-
--Eurasia-
-Amount in training: 19
 Amount in test: 5
 Score: 1.0000
 Base: 1.0000
@@ -86,6 +43,90 @@ Amount in test: 5
 Score: 0.8000
 Base: 0.8000
 
---62A Action Nominal Constructions--
+--60A Genitives, Adjectives and Relative Clauses--
 Not enough languages
+
+--61A Adjectives without Nouns--
+-Average-
+Score: 1.0000
+Base: 1.0000
+Count: 3
+
+-Papunesia-
+Amount in training: 11
+Amount in test: 3
+Score: 1.0000
+Base: 1.0000
+
+--62A Action Nominal Constructions--
+-Average-
+Score: 0.5000
+Base: 0.5000
+Count: 4
+
+-Eurasia-
+Amount in training: 16
+Amount in test: 4
+Score: 0.5000
+Base: 0.5000
+
+--63A Noun Phrase Conjunction--
+-Average-
+Score: 0.8000
+Base: 0.8000
+Count: 13
+
+-Africa-
+Amount in training: 14
+Amount in test: 3
+Score: 1.0000
+Base: 1.0000
+
+-Eurasia-
+Amount in training: 19
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 18
+Amount in test: 5
+Score: 0.4000
+Base: 0.4000
+
+--64A Nominal and Verbal Conjunction--
+-Average-
+Score: 0.9444
+Base: 0.8611
+Count: 13
+
+-Africa-
+Amount in training: 16
+Amount in test: 4
+Score: 1.0000
+Base: 0.7500
+
+-Eurasia-
+Amount in training: 13
+Amount in test: 3
+Score: 1.0000
+Base: 1.0000
+
+-Papunesia-
+Amount in training: 22
+Amount in test: 6
+Score: 0.8333
+Base: 0.8333
+
+--58B Number of Possessive Nouns--
+-Average-
+Score: 1.0000
+Base: 1.0000
+Count: 5
+
+-Papunesia-
+Amount in training: 18
+Amount in test: 5
+Score: 1.0000
+Base: 1.0000
 

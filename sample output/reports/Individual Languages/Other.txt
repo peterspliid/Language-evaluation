@@ -1,18 +1,18 @@
 --Total average--
-Score: 0.6393
+Score: 0.6239
 Base: 0.6393
 Count: 42
 
 --Area average--
--South America-
-Score: 0.0000
-Base: 0.0000
-Count: 2
-
 -Africa-
-Score: 0.6154
+Score: 0.5385
 Base: 0.6154
 Count: 13
+
+-Eurasia-
+Score: 0.7059
+Base: 0.7059
+Count: 17
 
 -Papunesia-
 Score: 0.8750
@@ -24,87 +24,47 @@ Score: 1.0000
 Base: 1.0000
 Count: 2
 
--Eurasia-
-Score: 0.7059
-Base: 0.7059
-Count: 17
+-South America-
+Score: 0.0000
+Base: 0.0000
+Count: 2
+
+--141A Writing Systems--
+Not enough languages
 
 --142A Para-Linguistic Usages of Clicks--
 -Average-
-Score: 0.6393
+Score: 0.6239
 Base: 0.6393
 Count: 42
 
--Papunesia-
-Amount in test: 8
-Score: 0.8750
-Base: 0.8750
-
 -Africa-
 Amount in test: 13
-Score: 0.6154
+Score: 0.5385
 Base: 0.6154
-
--South America-
-Amount in test: 2
-Score: 0.0000
-Base: 0.0000
-
--North America-
-Amount in test: 2
-Score: 1.0000
-Base: 1.0000
 
 -Eurasia-
 Amount in test: 17
 Score: 0.7059
 Base: 0.7059
 
---141A Writing Systems--
-Not enough languages
+-Papunesia-
+Amount in test: 8
+Score: 0.8750
+Base: 0.8750
+
+-North America-
+Amount in test: 2
+Score: 1.0000
+Base: 1.0000
+
+-South America-
+Amount in test: 2
+Score: 0.0000
+Base: 0.0000
 
 --Individual Languages--
--ind-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--ibo-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
 -yor-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--mcu-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--hun-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--ood-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--nld-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--ban-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--swh-
 Score: 1.0000
 Base: 1.0000
 Count: 1
@@ -112,6 +72,21 @@ Count: 1
 -dyu-
 Score: 0.0000
 Base: 0.0000
+Count: 1
+
+-mos-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-swh-
+Score: 0.0000
+Base: 1.0000
+Count: 1
+
+-plt-
+Score: 1.0000
+Base: 1.0000
 Count: 1
 
 -mhi-
@@ -129,72 +104,12 @@ Score: 0.0000
 Base: 0.0000
 Count: 1
 
--yam-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--smo-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--mos-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--zab-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--ces-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--aln-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--kmh-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--spa-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--ita-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--min-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
 -fub-
 Score: 1.0000
 Base: 1.0000
 Count: 1
 
--srn-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--mzh-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--eng-
+-yam-
 Score: 1.0000
 Base: 1.0000
 Count: 1
@@ -204,42 +119,12 @@ Score: 0.0000
 Base: 0.0000
 Count: 1
 
--mal-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--tgl-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--ilo-
+-mcu-
 Score: 1.0000
 Base: 1.0000
 Count: 1
 
--gle-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--hin-
-Score: 0.0000
-Base: 0.0000
-Count: 1
-
--deu-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--dan-
-Score: 1.0000
-Base: 1.0000
-Count: 1
-
--plt-
+-ibo-
 Score: 1.0000
 Base: 1.0000
 Count: 1
@@ -249,12 +134,82 @@ Score: 1.0000
 Base: 1.0000
 Count: 1
 
+-gle-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-spa-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-eng-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-hin-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-mal-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ita-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
 -tur-
 Score: 0.0000
 Base: 0.0000
 Count: 1
 
+-nld-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-ces-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-dan-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-hun-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-swe-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-deu-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
 -fin-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-aln-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-mww-
 Score: 1.0000
 Base: 1.0000
 Count: 1
@@ -264,13 +219,58 @@ Score: 1.0000
 Base: 1.0000
 Count: 1
 
--mww-
+-min-
 Score: 1.0000
 Base: 1.0000
 Count: 1
 
--swe-
+-ind-
 Score: 1.0000
 Base: 1.0000
+Count: 1
+
+-kmh-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-smo-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-tgl-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-ban-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-ilo-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-zab-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-ood-
+Score: 1.0000
+Base: 1.0000
+Count: 1
+
+-mzh-
+Score: 0.0000
+Base: 0.0000
+Count: 1
+
+-srn-
+Score: 0.0000
+Base: 0.0000
 Count: 1
 
