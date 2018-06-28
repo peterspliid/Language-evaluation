@@ -327,6 +327,7 @@ def count_score_graph(folder, averages, language_data):
     for model, model_name in {'across_areas': 'Across areas',
                                 'within_areas': 'Within areas',
                                 'individual_languages': 'Individual Languages'}.items():
+
         count_folder = check_folder(graphs_folder + 'count/' + model_name + '/')
 
         # All features
@@ -341,14 +342,15 @@ def count_score_graph(folder, averages, language_data):
                 x.append(feature['count'])
                 y.append(score)
 
-        # Best fit line
-        # https://stackoverflow.com/questions/22239691/code-for-line-of-best-fit-of-a-scatter-plot-in-python
-        ax.plot(np.unique(x), np.poly1d(np.polyfit(x, y, 1))(np.unique(x)))
+        if x:
+            # Best fit line
+            # https://stackoverflow.com/questions/22239691/code-for-line-of-best-fit-of-a-scatter-plot-in-python
+            ax.plot(np.unique(x), np.poly1d(np.polyfit(x, y, 1))(np.unique(x)))
 
-        ax.set_xlabel('Amount of languages tested')
-        ax.set_ylabel('Score - base')
-        fig.tight_layout()
-        fig.savefig(count_folder + 'All features.svg', format="svg")
+            ax.set_xlabel('Amount of languages tested')
+            ax.set_ylabel('Score - base')
+            fig.tight_layout()
+            fig.savefig(count_folder + 'All features.svg', format="svg")
         plt.close(fig)
 
         # Feature areas

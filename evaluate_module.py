@@ -155,8 +155,9 @@ def calculate_averages(results):
             total_count += 1
             total_total_count += area['count']
 
-        averages[model]['total'] = {'score': total_score / total_count,
-                                     'base': total_base / total_count,
+
+        averages[model]['total'] = {'score': total_score / total_count if total_count else 0,
+                                     'base': total_base / total_count if total_count else 0,
                                      'count': total_total_count}
 
     # Calculating the averages for each languages across all feature areas

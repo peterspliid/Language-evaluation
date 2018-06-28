@@ -13,7 +13,7 @@ def run_evaluation(embeddings, report = False, graphs = False, knn_k = 10,
         selected_features = None, folder = 'output'):
 
     if not verify_embeddings(embeddings):
-        return (False, "Wrong embeddings formart. Format must be a dictionary where the keys are language IDs (ISO 639-3) and values are the language embeddings")
+        return (False, "Wrong embeddings format. Format must be a dictionary where the keys are language IDs (ISO 639-3) and values are the language embeddings")
 
     if folder and not folder.endswith("/"):
         folder += "/"
@@ -102,7 +102,7 @@ def main():
         help="Write text reports with all the results")
     argparser.add_argument('-d', '--graphs', action='store_true',
         help="Create graphs with all the results (takes a couple of minutes)")
-    argparser.add_argument('-k', '--knn-k', default=17, type=int,
+    argparser.add_argument('-k', '--knn-k', default=10, type=int,
         help="K value for the knn classifier")
     argparser.add_argument('-c', '--classifier', default='knn',
         choices=['knn', 'svm', 'mlp'], help='Which classifier to use')
