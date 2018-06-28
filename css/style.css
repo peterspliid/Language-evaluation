@@ -108,10 +108,6 @@ h2 {
     padding: 38px 0;
 }
 
-svg {
-    max-width: 1430px;
-}
-
 .section {
     margin-top: 50px;
     margin-bottom: 50px;
@@ -254,4 +250,29 @@ input[type="submit"]:hover {
     top: 19px;
     height: 26px;
   }
+}
+
+
+
+svg {
+    max-width: 700px;
+}
+
+@media only screen and (min-width: 1000px) {
+    svg {
+        max-width: 980px;
+    }
+}
+
+@media only screen and (min-width: 1270px) {
+    svg {
+        max-width: 1250px;
+    }
+}
+
+
+@media only screen and (min-width: 1900px) {
+    svg {
+        max-width: 1500px;
+    }
 }

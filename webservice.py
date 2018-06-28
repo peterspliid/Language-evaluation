@@ -319,12 +319,16 @@ class MyHandler(BaseHTTPRequestHandler):
         return '</body></html>'
 
 def start_evaluation(args, session):
-    data = run_evaluation(args['embeddings'], False, True, args['classifier_arg'],
-        args['classifier'], args['feature_groups'], args['features'],
-        'temp/'+session+'/')
+    try:
+        data = run_evaluation(args['embeddings'], False, True, args['classifier_arg'],
+            args['classifier'], args['feature_groups'], args['features'],
+            'temp/'+session+'/')
 
-    with open('temp/'+session+'/data.pkl', 'wb') as f:
-        pickle.dump(data, f, pickle.HIGHEST_PROTOCOL)
+        with open('temp/'+session+'/data.pkl', 'wb') as f:
+            pickle.dump(data, f, pickle.HIGHEST_PROTOCOL)
+    except Exception as e:
+        with open('temp/'+session+'/data.pkl', 'wb') as f:
+            pickle.dump((False, e), f, pickle.HIGHEST_PROTOCOL)
 
 def gen_session():
     return ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(10))
