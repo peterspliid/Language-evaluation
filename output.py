@@ -287,6 +287,9 @@ def maps(folder, averages, language_data):
                 single_map(area_fg, lang_coords, fg_name, area_folder)
 
 def single_map(languages, lang_coords, title, location):
+    if not languages:
+        return
+
     scores = {lang_name: lang['score'] - lang['base'] for lang_name, lang in languages.items()}
 
     fig = plt.figure(figsize=(14, 7))
