@@ -292,12 +292,13 @@ class EvaluationPage:
         content.write('<h1>{}</h1>'.format(feature_name))
         content.write('<h2>Summary</h2><div class="section columns">')
         for model, model_name in self.models.items():
-            feature = self.averages[model]['features'][feature_area_name][feature_name]
-            content.write('<table class="summary"><tr><th colspan="2">{}</th></tr>'.format(model_name))
-            content.write('<tr><td>Score</td><td>{:1.4f}</td></tr>'.format(feature['score']))
-            content.write('<tr><td>Base</td><td>{:1.4f}</td></tr>'.format(feature['base']))
-            content.write('<tr><td>Score - base</td><td>{:1.4f}</td></tr>'.format(feature['score']-feature['base']))
-            content.write('<tr><td>Languages tested</td><td>{}</td></tr></table>'.format(feature['count']))
+            if feature_name in self.averages[model]['features'][feature_area_name]:
+                feature = self.averages[model]['features'][feature_area_name][feature_name]
+                content.write('<table class="summary"><tr><th colspan="2">{}</th></tr>'.format(model_name))
+                content.write('<tr><td>Score</td><td>{:1.4f}</td></tr>'.format(feature['score']))
+                content.write('<tr><td>Base</td><td>{:1.4f}</td></tr>'.format(feature['base']))
+                content.write('<tr><td>Score - base</td><td>{:1.4f}</td></tr>'.format(feature['score']-feature['base']))
+                content.write('<tr><td>Languages tested</td><td>{}</td></tr></table>'.format(feature['count']))
         content.write('</div>')
 
         content.write('<h2>Macroarea list</h2><div class="section">')
