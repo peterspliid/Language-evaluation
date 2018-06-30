@@ -42,7 +42,7 @@ def run_evaluation(embeddings, report = False, graphs = False, classifier_args =
     elif classifier == 'mlp':
         from sklearn.neural_network import MLPClassifier
         classifier = MLPClassifier(hidden_layer_sizes=tuple(classifier_args)) if classifier_args \
-                        else MLPClassifier()
+                        else MLPClassifier(hidden_layer_sizes=(60, 60, 60))
     else:
         classifier = svm.SVC()
 
