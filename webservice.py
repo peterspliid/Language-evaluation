@@ -369,12 +369,11 @@ def clean_temp():
 if __name__ == '__main__':
     server_class = HTTPServer
     httpd = server_class((HOST_NAME, PORT_NUMBER), MyHandler)
-    clean_temp()
 
     if not os.path.isdir('temp'):
         os.makedirs('temp')
-    #else:
-    #    clean_folder('temp/')
+
+    clean_temp()
 
     print(time.asctime(), 'Server Starts - %s:%s' % (HOST_NAME, PORT_NUMBER))
     try:
