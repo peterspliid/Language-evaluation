@@ -3,13 +3,35 @@ import numpy as np
 import random
 import csv
 
-# If the model predicts the most frequent label each time
 def score_base(train_labels, test_labels):
+    '''
+    Score if the model predicts the most frequent label each time
+    '''
     most_frequent = np.bincount(train_labels).argmax()
     return np.average([1 if y == most_frequent else 0 for y in test_labels])
 
-# Calculates the averages for feature areas, areas and total
 def calculate_averages(results):
+    '''
+    Calculates the averages for feature areas, macroareas, languages, and total.
+    Returns a dictionary in the following format:
+        within/across/individual
+            'languages' (only individual)
+                language
+            'features'
+                feature area
+                    feature name
+            'feature area'
+                feature area
+                    'languages' (only individual)
+                        language
+                    'areas'
+                        area
+            'feature area total'
+                feature area
+            'area'
+                area
+            'total'
+    '''
     averages = {}
 
     for model in ['across_areas', 'within_areas', 'individual_languages']:
@@ -199,6 +221,9 @@ def is_evaluatable(classifier, labels_training, labels_test):
 
 
 def evaluate(languages, headers, embeddings, included_features, classifier):
+    '''
+    Evaluates the language embeddings, and returns a dictionary with the results.
+    '''
     all_features = included_features == 'all'
 
     # Used to group the results

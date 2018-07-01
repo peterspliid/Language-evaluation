@@ -12,6 +12,61 @@ def run_evaluation(embeddings, report = False, graphs = False, classifier_args =
         classifier = 'knn', selected_feature_areas = None,
         selected_features = None, folder = 'output'):
 
+    '''
+    This is the main function. It runs the evaluation on the embeddings, and
+    returns the results and averages.
+
+    Parameters
+    ----------
+    embeddings : dictionary (string: list (int/float))
+        A dictionary with the embeddings to evaluate. The keys must be the
+        language identifier, and the values are the language embeddings
+    report : bool
+        Whether to write text reports with the results and averages in the
+        output folder
+    graphs : bool
+        Whether to create graphs of the results in the output folder. This
+        includes bar graphs, maps, and count graphs. This can take several
+        minutes to complete
+    classifier_args : list (int)
+        A list of arguments to the classifier. If using k-nearest neighbors,
+        it's k, if using multilayer perceprton, it's the layer sizes, where
+        the length of the list indicates the number of layers
+    classifier : string
+        Which classifier to use. Possible values are knn for k-nearest neighbors,
+        mlp for multilayer perceptron, and svm for support vector machine.
+    selected_feature_areas : list (int)
+        List of feature areas to evalute for. Leave out for all, or use ant of the
+        following integers
+            0   - None (add individual features with selected features)
+            1   - Phonology
+            2   - Morphology
+            3   - Nominal Categories
+            4   - Nominal Syntax
+            5   - Verbal Categories
+            6   - Word Order
+            7   - Simple Clauses
+            8   - Complex Sentences
+            9   - Lexicon
+            10  - Sign Languages
+            11  - Other
+            12  - Word Order
+    selected_features : list (string)
+        Add individual features not included by selected_feature_areas
+    folder : string
+        The output folder where to place the text reports and graphs.
+
+    Returns
+    --------
+    Tuple (True, (dictionary, dictionary)) or
+    Tuple (False, string)
+        If success, it results a tuple where the first value is true, and the
+        second value is a tuple with a the results and the averages.
+        If failes, the first value is false, and the second value is an error
+        message.
+
+    '''
+
     if not verify_embeddings(embeddings):
         return (False, "Wrong embeddings format. Format must be a dictionary where the keys are language IDs (ISO 639-3) and values are the language embeddings")
 
@@ -68,6 +123,9 @@ def run_evaluation(embeddings, report = False, graphs = False, classifier_args =
     return (True, (results, averages))
 
 def verify_embeddings(embeddings):
+    '''
+    Verifies whether the embeddings are in the correct format.
+    '''
     if type(embeddings) != dict:
         return False
 
